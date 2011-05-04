@@ -2,28 +2,19 @@ package com.wcohen.ss.expt;
 
 import com.wcohen.ss.*;
 import com.wcohen.ss.api.*;
-import com.wcohen.cls.expt.*;
-import com.wcohen.cls.*;
 import java.io.*;
 import java.util.*;
 
-import com.wcohen.util.*;
-import com.wcohen.util.gui.*;
-import javax.swing.*;
 
 /**
  * Perform a matching experiment using a data file, distance function
  * and blocker.
  */
 
-public class MatchExpt implements Serializable,Visible
+public class MatchExpt
 {
     public static final String BLOCKER_PACKAGE = "com.wcohen.ss.expt.";
     public static final String DISTANCE_PACKAGE = "com.wcohen.ss.";
-
-    // for serialization control
-    private static final long serialVersionUID = 1;
-    private static int CURRENT_SERIALIZED_VERSION_NUMBER = 1;
 
     private Blocker.Pair[] pairs;
     private int numCorrectPairs;
@@ -34,11 +25,7 @@ public class MatchExpt implements Serializable,Visible
     private String fileName,learnerName,blockerName;
 
     public MatchExpt(MatchData data,StringDistanceLearner learner,Blocker blocker) { 
-        if (learner instanceof AdaptiveStringDistanceLearner) {
-            setUpAdaptiveExperiment(data,learner,blocker); 			
-        } else {
-            setUpFixedExperiment(data,learner,blocker); 						
-        }
+        setUpFixedExperiment(data,learner,blocker); 			
         fileName = data.getFilename();
         learnerName = learner.toString();
         blockerName = blocker.toString();
@@ -48,53 +35,6 @@ public class MatchExpt implements Serializable,Visible
     }
     public String toString() { return "[MatchExpt: "+fileName+","+learnerName+","+blockerName+"]"; };
 	
-    /** Initialize for later analysis.
-     */
-    private void setUpAdaptiveExperiment(MatchData data,StringDistanceLearner learner,Blocker blocker)
-    {
-        System.out.println("setting up expt: "+learner+" "+blocker+" file: "+data.getFilename());
-
-        long startTime = System.currentTimeMillis();
-        blocker.block(data);
-        blockingTime = (System.currentTimeMillis()-startTime)/1000.0;
-
-        // split up blocked data into folds
-        List list = new ArrayList(blocker.size());
-        for (int i=0; i<blocker.size(); i++) {
-            list.add( blocker.getPair(i) );
-        }
-        Splitter splitter = new CrossValSplitter(3);
-        splitter.split( list.iterator() );
-
-        learningTime = 0;
-        // train on each fold, test on the remainder
-        pairs = new Blocker.Pair[blocker.size()];
-        numCorrectPairs = blocker.numCorrectPairs();
-        int pairCursor = 0;
-        for (int k=0; k<splitter.getNumPartitions(); k++) {
-            //for (Iterator i=splitter.getTrain(k); i.hasNext(); System.out.println("train fold "+k+": "+i.next()));
-            StringDistanceTeacher teacher = 
-                new BasicTeacher( data.getIterator(),
-                                  new BasicDistanceInstanceIterator(Collections.EMPTY_SET.iterator()),
-                                  new BasicDistanceInstanceIterator( splitter.getTrain(k) ));
-            startTime = System.currentTimeMillis();
-            StringDistance dist = teacher.train(learner);
-            learningTime += (System.currentTimeMillis()-startTime)/1000.0;
-
-            System.out.println("fold "+k+" distance is '"+dist+"'");
-            startTime = System.currentTimeMillis();
-            for (Iterator j=splitter.getTest(k); j.hasNext(); ) {
-                Blocker.Pair pair  = (Blocker.Pair)j.next();
-                pairs[pairCursor] = pair;
-                pairs[pairCursor].setDistance( dist.score( pairs[pairCursor].getA(), pairs[pairCursor].getB() ) ); 
-                pairCursor++;
-            }
-            matchingTime += (System.currentTimeMillis()-startTime)/1000.0;
-        }
-
-        Arrays.sort( pairs );
-    }
-
     private void setUpFixedExperiment(MatchData data,StringDistanceLearner learner,Blocker blocker) 
     {
         System.out.println("setting up expt: "+learner+" "+blocker+" file: "+data.getFilename());
@@ -114,13 +54,10 @@ public class MatchExpt implements Serializable,Visible
         pairs = new Blocker.Pair[blocker.size()];
         startTime = System.currentTimeMillis();
         System.out.println("Pairs: "+pairs.length+" Correct: "+blocker.numCorrectPairs());
-        ProgressCounter pc = new ProgressCounter("computing distances","proposed pair",blocker.size());
         for (int i=0; i<blocker.size(); i++) {
 	    pairs[i] = blocker.getPair(i);
 	    pairs[i].setDistance( dist.score( pairs[i].getA(), pairs[i].getB() ) ); 
-            pc.progress();
         }
-        pc.finished();
         matchingTime = (System.currentTimeMillis()-startTime)/1000.0;
 
         startTime = System.currentTimeMillis();
@@ -279,88 +216,10 @@ public class MatchExpt implements Serializable,Visible
         }
     }
 
-    /** Construct a viewer for the results */
-    public Viewer toGUI()
-    {
-        Evaluation e = toEvaluation();
-        Viewer main = new TransformedViewer(e.toGUI()) {
-                public Object transform(Object obj) {
-                    MatchExpt me = (MatchExpt)obj;
-                    return me.toEvaluation();
-                }
-            };
-        main.setContent(this);
-        return main;
-    }
-
     //
     // utility - since after a restore, incorrect pairs are saved as nulls
     //
     private boolean correctPair(int i) { return pairs[i]!=null && pairs[i].isCorrect(); }
-
-    //
-    // convert to com.wcohen.cls.expt.Evaluation, with a variant gui
-    //
-    public Evaluation toEvaluation()
-    {
-        ProgressCounter pc = new ProgressCounter("computing statistics","distance",pairs.length);
-        Evaluation evaluation = new MatchExptEvaluation(pairs,numCorrectPairs);
-        for (int i=0; i<pairs.length; i++) {
-            ClassLabel predicted,actual;
-            predicted = ClassLabel.negativeLabel( pairs[i].getDistance() );
-            actual = pairs[i].isCorrect() ? ClassLabel.positiveLabel(+1) : ClassLabel.negativeLabel(-1);
-            BinaryExample example = new BinaryExample(new MutableInstance(pairs[i]),actual);
-            evaluation.extend(predicted,example);
-            pc.progress();
-        }
-        pc.finished();
-        evaluation.setProperty("Blocker",blockerName);
-        evaluation.setProperty("Distance",learnerName);
-        evaluation.setProperty("File",fileName);
-        return evaluation;
-    }
-
-    private static class MatchExptEvaluation extends Evaluation 
-    {
-        private transient Blocker.Pair[] pairs;
-        private transient int numCorrectPairs;
-        public MatchExptEvaluation(Blocker.Pair[] pairs,int numCorrectPairs) 
-        { 
-            this.pairs = pairs; 
-            this.numCorrectPairs = numCorrectPairs; 
-        }
-        public Viewer toGUI() 
-        {
-            ParallelViewer evalViewer = new ParallelViewer();
-            evalViewer.addSubView("Summary",new Evaluation.SummaryViewer());
-            evalViewer.addSubView("Properties",new Evaluation.PropertyViewer());
-            evalViewer.addSubView("11Pt Precision/Recall",new Evaluation.ElevenPointPrecisionViewer());
-            evalViewer.addSubView("Details", new ComponentViewer() {
-                    public JComponent componentFor(Object o) {
-                        MatchExptEvaluation e = (MatchExptEvaluation)o;
-                        Object[][] tableData = new Object[numCorrectPairs+1][5];
-                        int row = 0;
-                        PrintfFormat fmt = new PrintfFormat("%7.2f");
-                        for (int i=0; i<pairs.length; i++) {
-                            if (pairs[i]!=null) {
-                                tableData[row][0] = new Integer(i);
-                                tableData[row][1] = pairs[i].isCorrect() ? "+" : "-";
-                                tableData[row][2] = fmt.sprintf(pairs[i].getDistance());
-                                tableData[row][3] = (pairs[i].getA()==null) ? "***" : pairs[i].getA().unwrap();
-                                tableData[row][4] = (pairs[i].getB()==null) ? "***" : pairs[i].getB().unwrap();
-                                if (pairs[i].isCorrect()) row++;
-                            }
-                        }
-                        String[] headers = new String[]{"rank","","score","String A", "String B"};
-                        JScrollPane scroller = new JScrollPane(new JTable(tableData,headers));
-                        scroller.setHorizontalScrollBarPolicy(JScrollPane.HORIZONTAL_SCROLLBAR_AS_NEEDED);
-                        return scroller;
-                    }
-                });
-            evalViewer.setContent(this);
-            return evalViewer;
-        }
-    }
 
     /**
      * Command-line interface.
