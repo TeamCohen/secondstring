@@ -1,0 +1,2139 @@
+hooverweb	"http://www.3com.com"	3Com Corporation
+hooverweb	"http://www.ffst.com"	4Front Software International, Inc.
+hooverweb	"http://www.7thlevel.com"	7th Level, Inc.
+hooverweb	"http://streetlink.com"	AAON, Inc.
+hooverweb	"http://www.abbott.com"	Abbott Laboratories
+hooverweb	"http://www.abctelevision.com"	ABC Inc.
+hooverweb	"http://www.abr.com"	ABR Information Services, Inc.
+hooverweb	"http://www.abtco.com"	ABT Building Products Corporation
+hooverweb	"http://www.access-health.com"	Access Health, Inc.
+hooverweb	"http://www.acclaimnation.com"	Acclaim Entertainment, Inc.
+hooverweb	"http://www.acecashexpress.com"	Ace Cash Express, Inc.
+hooverweb	"http://www.acehardware.com"	Ace Hardware Corporation
+hooverweb	"http://acnielsen.com"	ACNielsen Corporation
+hooverweb	"http://www.acrgroup.com"	ACR Group, Inc.
+hooverweb	"http://www.activevoice.com"	Active Voice Corporation
+hooverweb	"http://www.activision.com"	Activision, Inc.
+hooverweb	"http://www.acxiom.com"	Acxiom Corporation
+hooverweb	"http://www.adamsmedia.com"	Adams Media Corporation
+hooverweb	"http://www.adaptec.com"	Adaptec, Inc.
+hooverweb	"http://www.adc.com"	ADC Telecommunications, Inc.
+hooverweb	"http://www.aw.com"	Addison-Wesley Longman/Penguin
+hooverweb	"http://www.adobe.com"	Adobe Systems Incorporated
+hooverweb	"http://www.hacr.org"	Adolph Coors Company
+hooverweb	"http://www.aera.com"	Advanced Engineering & Research Associates, Inc.
+hooverweb	"http://www.amd.com"	Advanced Micro Devices, Inc.
+hooverweb	"http://www.lasierra.edu"	Adventist Health 
+hooverweb	"http://www.advocatehealth.com"	Advocate Health Care
+hooverweb	"http://www.aesc.com"	The AES Corporation
+hooverweb	"http://www.aetna.com"	Aetna Inc.
+hooverweb	"http://pentium.intel.com"	Affiliated Computer Services, Inc.
+hooverweb	"http://www.agedwards.com"	A.G. Edwards, Inc.
+hooverweb	"http://www.agservices.com"	Ag Services of America, Inc.
+hooverweb	"http://www.agcocorp.com"	AGCO Corporation
+hooverweb	"http://www.lightlink.com"	Agway Inc.
+hooverweb	"http://www.dallasnews.com"	A. H. Belo Corporation
+hooverweb	"http://www.stockprofiles.com"	Air Express International Corporation
+hooverweb	"http://www.airproducts.com"	Air Products and Chemicals, Inc.
+hooverweb	"http://www.airborne-express.com"	Airborne Freight Corporation
+hooverweb	"http://www.airgas.com"	Airgas, Inc.
+hooverweb	"http://www.aksteel.com"	AK Steel Holding Corporation
+hooverweb	"http://www.freeways.com"	Alamo Rent A Car, Inc.
+hooverweb	"http://www.alaska-air.com"	Alaska Air Group, Inc.
+hooverweb	"http://www.alcolink.com"	Alco Standard Corporation
+hooverweb	"http://www.alexalex.com"	Alexander & Alexander Services Inc.
+hooverweb	"http://www.alleghenypower.com"	Allegheny Power System, Inc.
+hooverweb	"http://www.researchmag.com"	Allergan, Inc.
+hooverweb	"http://www.alsc.com"	Alliance Semiconductor Corporation
+hooverweb	"http://www.alliantboston.com"	Alliant Foodservice Inc.
+hooverweb	"http://allprod.com"	Allied Products Corporation
+hooverweb	"http://www.alliedsignal.com"	AlliedSignal Inc.
+hooverweb	"http://www.allstate.com"	The Allstate Corporation
+hooverweb	"http://www.alltel.com"	ALLTEL Corporation
+hooverweb	"http://www.allwaste.com"	Allwaste, Inc.
+hooverweb	"http://www.altera.com"	Altera Corporation
+hooverweb	"http://www.alpharel.com"	Altris Software, Inc.
+hooverweb	"http://www.alumaxnet.com"	Alumax Inc.
+hooverweb	"http://www.alcoa.com"	Aluminum Company of America
+hooverweb	"http://www.streetlink.com"	Amcast Industrial Corporation
+hooverweb	"http://www.amdahl.com"	Amdahl Corporation
+hooverweb	"http://www.premier.net"	Amedisys, Inc.
+hooverweb	"http://www.aol.com"	America Online, Inc.
+hooverweb	"http://www.americawest.com"	America West Airlines, Inc.
+hooverweb	"http://www.ambrands.com"	American Brands, Inc.
+hooverweb	"http://www.abii.com"	American Business Information, Inc.
+hooverweb	"http://www.cancer.org"	American Cancer Society, Inc.
+hooverweb	"http://www.ctaonline.com"	American Coin Merchandising, Inc.
+hooverweb	"http://www.american-eagle-outfit.com"	American Eagle Outfitters, Inc.
+hooverweb	"http://www.aep.com"	American Electric Power Company, Inc.
+hooverweb	"http://www.americanexpress.com"	American Express Company
+hooverweb	"http://WWW.AMFAM.COM"	American Family Insurance Group
+hooverweb	"http://www.gaic.com"	American Financial Group, Inc.
+hooverweb	"http://www.agc.com"	American General Corporation
+hooverweb	"http://www.amgreetings.com"	American Greetings Corporation
+hooverweb	"http://ahpc.com"	American Home Products Corporation
+hooverweb	"http://www.aig.com"	American International Group, Inc.
+hooverweb	"http://www.amsinc.com"	American Management Systems, Incorporated
+hooverweb	"http://www.apcc.com"	American Power Conversion Corporation
+hooverweb	"http://www.crossnet.org"	American Red Cross
+hooverweb	"http://www.trane.com"	American Standard Companies Inc.
+hooverweb	"http://www.sav-ondrugs.com"	American Stores Company
+hooverweb	"http://www.ameridata.com"	AmeriData Technologies, Inc.
+hooverweb	"http://www.streetlink.com"	AmeriGas Partners, L.P.
+hooverweb	"http://www.ameritech.com"	Ameritech Corporation
+hooverweb	"http://www.AmesStores.com"	Ames Department Stores, Inc.
+hooverweb	"http://www.bio.com"	Amgen Inc.
+hooverweb	"http://www.amoco.com"	Amoco Corporation
+hooverweb	"http://www.amp.com"	AMP Incorporated
+hooverweb	"http://www.amrcorp.com"	AMR Corporation
+hooverweb	"http://206.31.38.120"	Amrion, Inc.
+hooverweb	"http://www.amsouth.com"	AmSouth Bancorporation
+hooverweb	"http://www.amway.com"	Amway Corporation
+hooverweb	"http://www.analog.com"	Analog Devices, Inc.
+hooverweb	"http://www.analysts.com"	Analysts International Corporation
+hooverweb	"http://www.ac.com"	Andersen Consulting
+hooverweb	"http://www.arthurandersen.com"	Andersen Worldwide
+hooverweb	"http://www.andrew.com"	Andrew Corporation
+hooverweb	"http://budweiser.com"	Anheuser-Busch Companies, Inc.
+hooverweb	"http://www.anixter.com"	Anixter International Inc.
+hooverweb	"http://www.aosmith.com"	A. O. Smith Corporation
+hooverweb	"http://www.aon.com"	Aon Corporation
+hooverweb	"http://www.apgreen.com"	A. P. Green Industries, Inc.
+hooverweb	"http://www.apac.com"	APAC TeleServices, Inc.
+hooverweb	"http://www.apl.com"	APL, Ltd.
+hooverweb	"http://www.aplsnet.com"	A+ Network, Inc.
+hooverweb	"http://www.streetlink.com"	Apogee, Inc.
+hooverweb	"http://www.apollogrp.com"	Apollo Group, Inc.
+hooverweb	"http://www.apple.com"	Apple Computer, Inc.
+hooverweb	"http://www.mol-usa.com"	Applied Magnetics Corporation
+hooverweb	"http://www.appliedmaterials.com"	Applied Materials, Inc.
+hooverweb	"http://www.aramark.com"	ARAMARK Corporation
+hooverweb	"http://www.ariel.com"	Ariel Corporation
+hooverweb	"http://www.armstrong.com"	Armstrong World Industries, Inc.
+hooverweb	"http://www.dtic.dla.mil"	Army & Air Force Exchange Service
+hooverweb	"http://www.arris.com"	Arris Pharmaceutical Corporation
+hooverweb	"http://www.streetlink.com"	Arrow Electronics, Inc.
+hooverweb	"http://www.arvin.com"	Arvin Industries, Inc.
+hooverweb	"http://www.asarco.com"	ASARCO Incorporated
+hooverweb	"http://www.ascend.com"	Ascend Communications, Inc.
+hooverweb	"http://www.ultranet.com"	Aseco Corporation
+hooverweb	"http://www.ashland.com"	Ashland Inc.
+hooverweb	"http://www.aspentec.com"	Aspen Technology, Inc.
+hooverweb	"http://www.ford.com"	Associates First Capital Corporation
+hooverweb	"http://www.ast.com"	AST Research, Inc.
+hooverweb	"http://www.att.com"	AT&T Corp.
+hooverweb	"http://www.arco.com"	Atlantic Richfield Company
+hooverweb	"http://www.atmel.com"	Atmel Corporation
+hooverweb	"http://www.atm.com"	Attachmate Corporation
+hooverweb	"http://www.aurasystems.com"	Aura Systems, Inc.
+hooverweb	"http://www.speedo.com"	Authentic Fitness Corporation
+hooverweb	"http://www.adp.com"	Automatic Data Processing, Inc.
+hooverweb	"http://www.easycare.com"	Automobile Protection Corporation - APCO
+hooverweb	"http://www.autozone.com"	AutoZone, Inc.
+hooverweb	"http://www.avanticorp.com"	Avant! Corporation
+hooverweb	"http://www.averydennison.com"	Avery Dennison Corporation
+hooverweb	"http://www.avid.com"	Avid Technology, Inc.
+hooverweb	"http://www.avis.com"	Avis, Inc.
+hooverweb	"http://www.avnet.com"	Avnet, Inc.
+hooverweb	"http://www.avon.com"	Avon Products, Inc.
+hooverweb	"http://www.BHI-Net.com"	Baker Hughes Incorporated
+hooverweb	"http://www.ball.com"	Ball Corporation
+hooverweb	"http://www.xmission.com"	Ballard Medical Products
+hooverweb	"http://www.ballys.com"	Bally Entertainment Corporation
+hooverweb	"http://www.ballyfitness.com"	Bally Total Fitness Holding Corporation
+hooverweb	"http://www.bge.com"	Baltimore Gas and Electric Company
+hooverweb	"http://www.bankone.com"	Banc One Corporation
+hooverweb	"http://www.bkb.com"	Bank of Boston Corporation
+hooverweb	"http://www.bankamerica.com"	BankAmerica Corporation
+hooverweb	"http://www.bankerstrust.com"	Bankers Trust New York Corporation
+hooverweb	"http://www.banta.com"	Banta Corporation
+hooverweb	"http://www.shareholder.com"	Barnes & Noble, Inc.
+hooverweb	"http://www.barnett.com"	Barnett Banks, Inc.
+hooverweb	"http://www.basf.com"	BASF Corporation
+hooverweb	"http://www.bassettfurniture.com"	Bassett Furniture Industries, Incorporated
+hooverweb	"http://www.battelle.org"	Battelle Memorial Institute
+hooverweb	"http://www.bausch.com"	Bausch & Lomb Incorporated
+hooverweb	"http://www.baxter.com"	Baxter International Inc.
+hooverweb	"http://www.baynetworks.com"	Bay Networks, Inc.
+hooverweb	"http://www.baylor.edu"	Baylor University
+hooverweb	"http://www.streetlink.com"	Bayou Steel Corporation
+hooverweb	"http://www.bbn.com"	BBN Corporation
+hooverweb	"http://www.bdm.com"	BDM International, Inc.
+hooverweb	"http://www.bechtel.com"	Bechtel Group, Inc.
+hooverweb	"http://www.beckman.com"	Beckman Instruments, Inc.
+hooverweb	"http://beeramerica.com"	Beer Across America, Inc.
+hooverweb	"http://www.bellhowell.com"	Bell & Howell Company
+hooverweb	"http://www.bel-atl.com"	Bell Atlantic Corporation
+hooverweb	"http://www.bellcore.com"	Bell Communications Research Inc.
+hooverweb	"http://www.bellsouth.com"	BellSouth Corporation
+hooverweb	"http://www.benjerry.com"	Ben & Jerry's Homemade, Inc.
+hooverweb	"http://www.beneficial.com"	Beneficial Corporation
+hooverweb	"http://www.bergelect.com"	Berg Electronics Corp.
+hooverweb	"http://www.bestbuy.com"	Best Buy Co., Inc.
+hooverweb	"http://www.bethsteel.com"	Bethlehem Steel Corporation
+hooverweb	"http://www.scifi.com"	Big Entertainment, Inc.
+hooverweb	"http://www.sddt.com"	Biomagnetic Technologies, Inc.
+hooverweb	"http://www.biomet.com"	Biomet, Inc.
+hooverweb	"http://streetlink.com"	The BISYS Group, Inc.
+hooverweb	"http://www.blackanddecker.com"	The Black & Decker Corporation
+hooverweb	"http://www.blockbuster.com"	Blockbuster Entertainment Group
+hooverweb	"http://www.bluecares.com"	Blue Cross and Blue Shield Association
+hooverweb	"http://www.boatmenstrust.com"	Boatmen's Bancshares, Inc.
+hooverweb	"http://www.boeing.com"	The Boeing Company
+hooverweb	"http://www.bc.com"	Boise Cascade Corporation
+hooverweb	"http://www.bcop.com"	Boise Cascade Office Products Corporation
+hooverweb	"http://www.bombayco.com"	The Bombay Company, Inc.
+hooverweb	"http://www.bah.com"	Booz, Allen & Hamilton Inc.
+hooverweb	"http://www.borders.com"	Borders Group, Inc.
+hooverweb	"http://www.bwsc.com"	Borg-Warner Security Corporation
+hooverweb	"http://www.bostontechnology.com"	Boston Technology, Inc.
+hooverweb	"http://web.bu.edu"	Boston University
+hooverweb	"http://www.boydswheels.com"	Boyds Wheels, Inc.
+hooverweb	"http://www.monster.com"	Bradlees, Inc.
+hooverweb	"http://www.breedtech.com"	BREED Technologies, Inc.
+hooverweb	"http://www.bms.com"	Bristol-Myers Squibb Company
+hooverweb	"http://www.brite.com"	Brite Voice Systems, Inc.
+hooverweb	"http://www.broderbund.com"	Broderbund Software, Inc.
+hooverweb	"http://www.brooks.com"	Brooks Automation, Inc.
+hooverweb	"http://www.streetlink.com"	Brookstone, Inc.
+hooverweb	"http://www.brooktrout.com"	Brooktrout Technology, Inc.
+hooverweb	"http://www.browngroup.com"	Brown Group, Inc.
+hooverweb	"http://www.brown-forman.com"	Brown-Forman Corporation
+hooverweb	"http://www.enw.com"	Brunswick Corporation
+hooverweb	"http://www.btg.com"	BTG, Inc.
+hooverweb	"http://www.btu.com"	BTU International, Inc.
+hooverweb	"http://www.streetlink.com"	Bugaboo Creek Steak House, Inc.
+hooverweb	"http://www.coat.com"	Burlington Coat Factory Warehouse Corporation
+hooverweb	"http://www.burlington-ind.com"	Burlington Industries, Inc.
+hooverweb	"http://www.bnsf.com"	Burlington Northern Santa Fe Corporation
+hooverweb	"http://www.cadence.com"	Cadence Design Systems, Inc.
+hooverweb	"http://www.caiwireless.com"	CAI Wireless Systems, Inc.
+hooverweb	"http://www.calibersys.com"	Caliber System, Inc.
+hooverweb	"http://www.streetlink.com"	California Amplifier, Inc.
+hooverweb	"http://www.streetlink.com"	California Micro Devices Corporation
+hooverweb	"http://www.calmike.com"	California Microwave, Inc.
+hooverweb	"http://www.hifi.com"	Cambridge SoundWorks, Inc.
+hooverweb	"http://www.ctp.com"	Cambridge Technology Partners, Inc.
+hooverweb	"http://www.cabp.com"	Cameron Ashley Building Products, Inc.
+hooverweb	"http://www.campbellsoup.com"	Campbell Soup Company
+hooverweb	"http://www.campo.com"	Campo Electronics, Appliances and Computers, Inc.
+hooverweb	"http://www.capital1.com"	Capital One Financial Corporation
+hooverweb	"http://www.capitol.com"	Capitol Multimedia, Inc.
+hooverweb	"http://www.caremark.com"	Caremark International Inc.
+hooverweb	"http://www.cargill.com"	Cargill, Incorporated
+hooverweb	"http://www.carlson.com"	Carlson Companies, Inc.
+hooverweb	"http://www.carnival.com"	Carnival Corporation
+hooverweb	"http://www.cartech.com"	Carpenter Technology Corporation
+hooverweb	"http://www.carsons.com"	Carson Pirie Scott & Co.
+hooverweb	"http://www.casc.com"	Cascade Communications Corp.
+hooverweb	"http://www.casecorp.com"	Case Corporation
+hooverweb	"http://www.caterpillar.com"	Caterpillar Inc.
+hooverweb	"http://www.cdw.com"	CDW Computer Centers, Inc.
+hooverweb	"http://www.marketguide.com"	Celebrity, Inc.
+hooverweb	"http://www.cellstar.com"	CellStar Corporation
+hooverweb	"http://www.cent-tech.com"	Centennial Technologies, Inc.
+hooverweb	"http://www.centerior.com"	Centerior Energy Corporation
+hooverweb	"http://www.centex.com"	Centex Corporation
+hooverweb	"http://www.csw.com"	Central and South West Corporation
+hooverweb	"http://www.azcentral.com"	Central Newspapers, Inc.
+hooverweb	"http://www.ceridian.com"	Ceridian Corporation
+hooverweb	"http://www.certainteed.com"	CertainTeed Corporation
+hooverweb	"http://www.cfw.com"	CFW Communications Company
+hooverweb	"http://www.ch2m.com"	CH2M Hill Companies, Ltd.
+hooverweb	"http://www.championinternational.com"	Champion International Corporation
+hooverweb	"http://www.schwab.com"	The Charles Schwab Corporation
+hooverweb	"http://go-explore.com"	Chart House Enterprises, Inc.
+hooverweb	"http://www.chase.com"	The Chase Manhattan Corporation
+hooverweb	"http://www.streetlink.com"	Checkers Drive-In Restaurants, Inc.
+hooverweb	"http://checkpoint.com"	Checkpoint Systems, Inc.
+hooverweb	"http://www.chevron.com"	Chevron Corporation
+hooverweb	"http://www.cheyenne.com"	Cheyenne Software, Inc.
+hooverweb	"http://www.chiquita.com"	Chiquita Brands International, Inc.
+hooverweb	"http://www.biospace.com"	Chiron Corporation
+hooverweb	"http://www.chronimed.com"	Chronimed Inc.
+hooverweb	"http://www.chryslercorp.com"	Chrysler Corporation
+hooverweb	"http://www.chubb.com"	The Chubb Corporation
+hooverweb	"http://www.kentuckyderby.com"	Churchill Downs Incorporated
+hooverweb	"http://www.netway.net"	CIBER, Inc.
+hooverweb	"http://www.cigna.com"	CIGNA Corporation
+hooverweb	"http://www.cinbellinc.com"	Cincinnati Bell Inc.
+hooverweb	"http://www.milacron.com"	Cincinnati Milacron Inc.
+hooverweb	"http://www.cinemark.com"	Cinemark USA Inc.
+hooverweb	"http://streetlink.com"	Cinergy Corp.
+hooverweb	"http://www.circuitcity.com"	Circuit City Stores, Inc.
+hooverweb	"http://www.cirrus.com"	Cirrus Logic, Inc.
+hooverweb	"http://www.cisco.com"	Cisco Systems, Inc.
+hooverweb	"http://www.citicorp.com"	Citicorp
+hooverweb	"http://www.czn.net"	Citizens Utilities Company
+hooverweb	"http://www.cuny.edu"	The City University of New York
+hooverweb	"http://www.ckr.com"	CKE Restaurants, Inc.
+hooverweb	"http://www.cks.com"	CKS Group, Inc.
+hooverweb	"http://www.clrmnt.com"	Claremont Technology Group, Inc.
+hooverweb	"http://ftp.cmd.com"	CMD Technology, Inc.
+hooverweb	"http://www.nordictrack.com"	CML Group, Inc.
+hooverweb	"http://www.cmsenergy.com"	CMS Energy Corporation
+hooverweb	"http://www.cna.com"	CNA Financial Corporation
+hooverweb	"http://www.cnbe.com"	CNB Bancshares, Inc.
+hooverweb	"http://www.cnf.com"	CNF Transportation, Inc.
+hooverweb	"http://www.cocacola.com"	The Coca-Cola Company
+hooverweb	"http://www.cokecce.com"	Coca-Cola Enterprises Inc.
+hooverweb	"http://www.cognex.com"	Cognex Corporation
+hooverweb	"http://www.colgate.com"	Colgate-Palmolive Company
+hooverweb	"http://www.traveller.com"	The Colonial BancGroup, Inc.
+hooverweb	"http://www.columbiaenergy.com"	The Columbia Gas System, Inc.
+hooverweb	"http://www.columbia.edu"	Columbia University in the City of New York
+hooverweb	"http://www.columbia.net"	Columbia/HCA Healthcare Corporation
+hooverweb	"http://www.comcast.com"	Comcast Corporation 
+hooverweb	"http://www.comerica.com"	Comerica Incorporated
+hooverweb	"http://www.compaq.com"	Compaq Computer Corporation
+hooverweb	"http://www.compusa.com"	CompUSA Inc.
+hooverweb	"http://world.compuserve.com"	CompuServe Corporation
+hooverweb	"http://www.cai.com"	Computer Associates International, Inc.
+hooverweb	"http://www.year2000.com"	Computer Horizons Corporation
+hooverweb	"http://www.mkpl.com"	Computer Marketplace, Inc.
+hooverweb	"http://www.csc.com"	Computer Sciences Corporation
+hooverweb	"http://www.ctg.com"	Computer Task Group, Incorporated
+hooverweb	"http://www.compuware.com"	Compuware Corporation
+hooverweb	"http://www.streetlink.com"	Cone Mills Corporation
+hooverweb	"http://www.conrail.com"	Conrail Inc.
+hooverweb	"http://www.coned.com"	Consolidated Edison Company of New York, Inc.
+hooverweb	"http://www.cng.com"	Consolidated Natural Gas Company
+hooverweb	"http://www.flycontinental.com"	Continental Airlines, Inc.
+hooverweb	"http://www.continental.com"	Continental Cablevision, Inc.
+hooverweb	"http://www.colybrand.com"	Coopers & Lybrand L.L.P.
+hooverweb	"http://www.streetlink.com"	Coram Healthcare Corporation
+hooverweb	"http://www.corestates.com"	CoreStates Financial Corp
+hooverweb	"http://www.cornell.edu"	Cornell University
+hooverweb	"http://www.corimage.com"	Cornerstone Imaging, Inc.
+hooverweb	"http://www.corning.com"	Corning Incorporated
+hooverweb	"http://www.streetlink.com"	Corrections Corporation of America
+hooverweb	"http://www.coulter.com"	Coulter Corporation
+hooverweb	"http://www.cox.com"	Cox Communications, Inc.
+hooverweb	"http://www.ajc.com"	Cox Enterprises, Inc.
+hooverweb	"http://www.cpicorp.com"	CPI Corp.
+hooverweb	"http://www.creativecomputers.com"	Creative Computers, Inc.
+hooverweb	"http://www.careermosaic.com"	Credence Systems Corporation
+hooverweb	"http://www.crestar.com"	Crestar Financial Corporation
+hooverweb	"http://www.streetlink.com"	Crop Growers Corporation
+hooverweb	"http://www.crowley.com"	Crowley Maritime Corporation
+hooverweb	"http://www.csx.com"	CSX Corporation
+hooverweb	"http://www.streetlink.com"	Cubic Corporation
+hooverweb	"http://www.cuc.com"	CUC International Inc.
+hooverweb	"http://www.cummins.com"	Cummins Engine Company, Inc.
+hooverweb	"http://www.cvs.com"	CVS Corporation
+hooverweb	"http://www.cyberoptics.com"	CyberOptics Corporation
+hooverweb	"http://www.cypress.com"	Cypress Semiconductor Corporation
+hooverweb	"http://www.cyrix.com"	Cyrix Corporation
+hooverweb	"http://www.dalsemi.com"	Dallas Semiconductor Corporation
+hooverweb	"http://www.daltile.com"	Dal-Tile International Inc.
+hooverweb	"http://www.dana.com"	Dana Corporation
+hooverweb	"http://www.danka.com"	Danka Business Systems PLC
+hooverweb	"http://www.redlobster.com"	Darden Restaurants, Inc.
+hooverweb	"http://www.dbc.com"	Data Broadcasting Corporation
+hooverweb	"http://www.dg.com"	Data General Corporation
+hooverweb	"http://www.dstm.com"	Datastream Systems, Inc.
+hooverweb	"http://www.Davd.Com"	Davidson & Associates, Inc.
+hooverweb	"http://www.dayrunner.com"	Day Runner, Inc.
+hooverweb	"http://www.shop-at.com"	Dayton Hudson Corporation
+hooverweb	"http://www.streetlink.com"	Dean Foods Company
+hooverweb	"http://www.deanwitterdiscover.com"	Dean Witter, Discover & Co.
+hooverweb	"http://www.deere.com"	Deere & Company
+hooverweb	"http://WWW.DELMONTE.COM"	Del Monte Foods Company
+hooverweb	"http://www.delwebb.com"	Del Webb Corporation
+hooverweb	"http://www.stockprofiles.com"	Delchamps, Inc.
+hooverweb	"http://www.dell.com"	Dell Computer Corporation
+hooverweb	"http://www.dttus.com"	Deloitte Touche Tohmatsu International
+hooverweb	"http://www.delta-air.com"	Delta Air Lines, Inc.
+hooverweb	"http://deluxe.com"	Deluxe Corporation
+hooverweb	"http://www.detdiesel.com"	Detroit Diesel Corporation
+hooverweb	"http://www.devry.com"	DeVry Inc.
+hooverweb	"http://www.dhl.com"	DHL Worldwide Express
+hooverweb	"http://www.diasham.com"	Diamond Shamrock, Inc.
+hooverweb	"http://www.dickens.com"	Dickens Data Systems, Inc.
+hooverweb	"http://www.diebold.com"	Diebold, Incorporated
+hooverweb	"http://www.digibd.com"	Digi International Inc.
+hooverweb	"http://www.digital.com"	Digital Equipment Corporation
+hooverweb	"http://www.azstarnet.com"	Dillard Department Stores, Inc.
+hooverweb	"http://streetlink.com"	Discount Auto Parts, Inc.
+hooverweb	"http://www.discovery.com"	Discovery Communications, Inc.
+hooverweb	"http://www.dole5aday.com+"	Dole Food Company, Inc.
+hooverweb	"http://www.vapower.com"	Dominion Resources, Inc.
+hooverweb	"http://www.donnakaran.com"	Donna Karan International Inc.
+hooverweb	"http://www.doubletreehotels.com"	Doubletree Corporation
+hooverweb	"http://www.dow.com"	The Dow Chemical Company
+hooverweb	"http://www.dowjones.com"	Dow Jones & Company, Inc.
+hooverweb	"http://www.dqe.com"	DQE Inc.
+hooverweb	"http://www.stockprofiles.com"	The Dress Barn, Inc.
+hooverweb	"http://www.dreyers.com"	Dreyer's Grand Ice Cream, Inc.
+hooverweb	"http://www.dsccc.com"	DSC Communications Corporation
+hooverweb	"http://www.dstsystems.com"	DST Systems, Inc.
+hooverweb	"http://www.dukepower.com"	Duke Power Company
+hooverweb	"http://www.duke.edu"	Duke University
+hooverweb	"http://www.dnb.com"	The Dun & Bradstreet Corporation
+hooverweb	"http://www.sddt.com"	Dura Pharmaceuticals, Inc.
+hooverweb	"http://www.duracell.com"	Duracell International Inc.
+hooverweb	"http://www.dyncorp.com"	DynCorp
+hooverweb	"http://www.eua.com"	Eastern Utilities Associates
+hooverweb	"http://www.eastman.com"	Eastman Chemical Company
+hooverweb	"http://www.kodak.com"	Eastman Kodak Company
+hooverweb	"http://www.eaton.com"	Eaton Corporation
+hooverweb	"http://www.researchmag.com"	Echlin Inc.
+hooverweb	"http://www.echobay.com"	Echo Bay Mines Ltd.
+hooverweb	"http://www.eckerd.com"	Eckerd Corporation
+hooverweb	"http://www.edify.com"	Edify Corporation
+hooverweb	"http://www.edisonx.com"	Edison International
+hooverweb	"http://www.edmark.com"	Edmark Corporation
+hooverweb	"http://www.ladowns.com"	Edward J. DeBartolo Corporation
+hooverweb	"http://www.dupont.com"	E. I. du Pont de Nemours and Company
+hooverweb	"http://www.eisi.com"	EIS International, Inc.
+hooverweb	"http://www.elcamino.com"	El Camino Resources, Ltd.
+hooverweb	"http://www.elcom.com"	Elcom International, Inc.
+hooverweb	"http://www.ea.com"	Electronic Arts Inc.
+hooverweb	"http://www.eds.com"	Electronic Data Systems Corporation
+hooverweb	"http://www.lilly.com"	Eli Lilly and Company
+hooverweb	"http://www.eltron.com"	Eltron International, Inc.
+hooverweb	"http://www.emc.com"	EMC Corporation
+hooverweb	"http://www.cc.emory.edu"	Emory University Inc.
+hooverweb	"http://www.engelhard.com"	Engelhard Corporation
+hooverweb	"http://www.entergy.com"	Entergy Corporation
+hooverweb	"http://www.erac.com"	Enterprise Rent-A-Car
+hooverweb	"http://www.epic.com"	EPIC Design Technology, Inc.
+hooverweb	"http://www.equifax.com"	Equifax Inc.
+hooverweb	"http://www.ey.com"	Ernst & Young LLP
+hooverweb	"http://www.essexcorp.com"	Essex Corporation
+hooverweb	"http://www.essexgroup.com"	Essex Group Inc.
+hooverweb	"http://www.ethanallen.com"	Ethan Allen Interiors Inc.
+hooverweb	"http://www.infi.net"	ETS International, Inc.
+hooverweb	"http://www.scripps.com"	The E.W. Scripps Company
+hooverweb	"http://www.exar.com."	Exar Corporation
+hooverweb	"http://www.excalib.com"	Excalibur Technologies Corporation
+hooverweb	"http://www.exceltel.com"	EXCEL Communications, Inc.
+hooverweb	"http://www.irnet.com"	Executive TeleCard, Ltd.
+hooverweb	"http://www.exide.com"	Exide Electronics Group, Inc.
+hooverweb	"http://www.expd.com"	Expeditors International of Washington, Inc.
+hooverweb	"http://www.expertsoftware.com"	Expert Software, Inc.
+hooverweb	"http://www.exxon.com"	Exxon Corporation
+hooverweb	"http://www.falconproducts.com"	Falcon Products, Inc.
+hooverweb	"http://www.fallon.com"	Fallon McElligott, Inc.
+hooverweb	"http://www.farmland.com"	Farmland Industries, Inc.
+hooverweb	"http://fastenal.com"	Fastenal Company
+hooverweb	"http://www.streetlink.com"	Fay's, Incorporated
+hooverweb	"http://www.fcnbbank.com"	FCNB Corp
+hooverweb	"http://www.fedex.com"	Federal Express Corporation
+hooverweb	"http://www.federated-fds.com"	Federated Department Stores, Inc.
+hooverweb	"http://www.fhp.com"	FHP International Corporation
+hooverweb	"http://www.ufb-ffed.com"	Fidelity Federal Bancorp
+hooverweb	"http://www.53.com"	Fifth Third Bancorp
+hooverweb	"http://www.fingerhut.com"	Fingerhut Companies, Inc.
+hooverweb	"http://www.fbs.com"	First Bank System, Inc.
+hooverweb	"http://www.fcnbd.com"	First Chicago NBD Corporation
+hooverweb	"http://www.firstdata.com"	First Data Corporation
+hooverweb	"http://ccseb.com"	First Interstate Bancorp
+hooverweb	"http://www.firstsource.com"	First Source International Inc.
+hooverweb	"http://www.ftb.com"	First Tennessee National Corporation
+hooverweb	"http://www.firstunion.com"	First Union Corporation
+hooverweb	"http://www.firstusa.com"	First USA, Inc.
+hooverweb	"http://streetlink.com"	FIserv, Inc.
+hooverweb	"http://www.Fisher1.com"	Fisher Scientific International Inc.
+hooverweb	"http://www.hispanic.org"	Flagstar Companies, Inc.
+hooverweb	"http://www.fleet.com"	Fleet Financial Group, Inc.
+hooverweb	"http://www.fleming.com"	Fleming Companies, Inc.
+hooverweb	"http://www.flightsafety.com"	FlightSafety International, Inc.
+hooverweb	"http://www.flowersindustries.com"	Flowers Industries, Inc.
+hooverweb	"http://www.fluor.com"	Fluor Corporation
+hooverweb	"http://www.fmc.com"	FMC Corporation
+hooverweb	"http://www.fid-inv.com"	FMR Corp.
+hooverweb	"http://www.foamex.com"	Foamex International Inc.
+hooverweb	"http://fcrfour.follett.com"	Follett Corporation
+hooverweb	"http://www.foodlion.com"	Food Lion, Inc.
+hooverweb	"http://www.foodmaker.com"	Foodmaker, Inc.
+hooverweb	"http://www.ford.com"	Ford Motor Company
+hooverweb	"http://www.fore.com"	FORE Systems, Inc.
+hooverweb	"http://www.forte.com"	Forte Software, Inc.
+hooverweb	"http://www.fpl.com"	FPL Group, Inc.
+hooverweb	"http://www.franklin.com"	Franklin Electronic Publishers, Incorporated
+hooverweb	"http://www.franklinquest.com"	Franklin Quest Co.
+hooverweb	"http://www.fredmeyer.com"	Fred Meyer, Inc.
+hooverweb	"http://www.freedom.com"	Freedom Communications, Inc.
+hooverweb	"http://www.fritz.com"	Fritz Companies, Inc.
+hooverweb	"http://www.cucruising.com"	Frontier Airlines, Inc.
+hooverweb	"http://www.frontiercorp.com"	Frontier Corporation
+hooverweb	"http://www.fruit.com"	Fruit of the Loom, Inc.
+hooverweb	"http://www.fsi-intl.com"	FSI International, Inc.
+hooverweb	"http://www.ftp.com"	FTP Software, Inc.
+hooverweb	"http://www.funcoland.com"	Funco, Inc.
+hooverweb	"http://www.fusn.com"	Fusion Systems Corporation
+hooverweb	"http://www.gamecash.com"	Game Financial Corporation
+hooverweb	"http://www.gannett.com"	Gannett Co., Inc.
+hooverweb	"http://www.gartner.com"	Gartner Group, Inc.
+hooverweb	"http://www.gasonics.com"	GaSonics International Corporation
+hooverweb	"http://www.gw2k.com"	Gateway 2000, Inc.
+hooverweb	"http://iw.zacks.com"	GATX Corporation
+hooverweb	"http://www.geico.com"	GEICO Corporation
+hooverweb	"http://www.ge.com"	General Electric Company
+hooverweb	"http://www.gi.com"	General Instrument Corporation
+hooverweb	"http://www.genmagic.com"	General Magic, Inc.
+hooverweb	"http://www.gm.com"	General Motors Corporation
+hooverweb	"http://www.realpages.com"	General Nutrition Companies, Inc.
+hooverweb	"http://www.cric.com"	Genome Therapeutics Corporation
+hooverweb	"http://www.genovese.com"	Genovese Drug Stores, Inc.
+hooverweb	"http://www.gensym.com"	Gensym Corporation
+hooverweb	"http://www.biospace.com"	Genzyme Corporation
+hooverweb	"http://gwis.circ.gwu.edu"	The George Washington University
+hooverweb	"http://www.georgetown.edu"	Georgetown University Inc.
+hooverweb	"http://www.gerberscientific.com"	Gerber Scientific, Inc.
+hooverweb	"http://www.gianteagle.com"	Giant Eagle Inc.
+hooverweb	"http://www.cfonews.com"	Giant Food Inc.
+hooverweb	"http://www.glenayre.com"	Glenayre Technologies, Inc.
+hooverweb	"http://www.glm.com"	Global Marine, Inc.
+hooverweb	"http://www.globalvillage.com"	Global Village Communication, Inc.
+hooverweb	"http://goldkist.com"	Gold Kist Inc.
+hooverweb	"http://www.gs.com"	The Goldman Sachs Group, L.P.
+hooverweb	"http://www.thegoodguys.com"	The Good Guys, Inc.
+hooverweb	"http://www.goodwill.org"	Goodwill Industries International, Inc.
+hooverweb	"http://www.goodyear.com"	The Goodyear Tire & Rubber Company
+hooverweb	"http://www.gpu.com"	GPU Inc.
+hooverweb	"http://www.grandcasinos.com"	Grand Casinos, Inc.
+hooverweb	"http://www.granitetv.com"	Granite Broadcasting Corporation
+hooverweb	"http://www.aptea.com"	The Great Atlantic & Pacific Tea Company, Inc.
+hooverweb	"http://www.greykidwatch.com"	Grey Advertising Inc.
+hooverweb	"http://www.greyhound.com"	Greyhound Lines, Inc.
+hooverweb	"http://www.g1.com"	Group 1 Software, Inc.
+hooverweb	"http://www.ghc.org"	Group Health Cooperative of Puget Sound
+hooverweb	"http://www.gte.com"	GTE Corporation
+hooverweb	"http://www.streetlink.com"	GTI Corporation
+hooverweb	"http://www.cyberquest.com"	Guardian Industries Corp.
+hooverweb	"http://www.guidant.com"	Guidant Corporation
+hooverweb	"http://www.service.com"	The Gymboree Corporation
+hooverweb	"http://www.halliburton.com"	Halliburton Company
+hooverweb	"http://www.hallmark.com"	Hallmark Cards, Inc.
+hooverweb	"http://www.ha-lo.com"	HA-LO Industries, Inc.
+hooverweb	"http://www.handrblock.com"	H&R Block, Inc.
+hooverweb	"http://www.hannaford.com"	Hannaford Bros. Co. 
+hooverweb	"http://www.streetlink.com"	Harcourt General, Inc.
+hooverweb	"http://www.pmpa.org"	Hardinge Inc.
+hooverweb	"http://www.harmonypictures.com"	Harmony Holdings, Inc.
+hooverweb	"http://www.harpercollins.com"	HarperCollins Publishers, Inc.
+hooverweb	"http://harrahs.lv.com"	Harrah's Entertainment, Inc.
+hooverweb	"http://www.harris.com"	Harris Corporation
+hooverweb	"http://www.hsb.com"	The Hartford Steam Boiler Inspection and Insurance Company
+hooverweb	"http://www.eos.net"	Hasbro, Inc.
+hooverweb	"http://www.haworth-furn.co"	Haworth, Inc.
+hooverweb	"http://www.zachry.com"	H. B. Zachry Company
+hooverweb	"http://www.hcia.com"	HCIA Inc.
+hooverweb	"http://www.heb.com"	H. E. Butt Grocery Company
+hooverweb	"http://www.hearstcorp.com"	Hearst Book Group
+hooverweb	"http://www.hearstcorp.com"	The Hearst Corporation
+hooverweb	"http://www.onramp.net"	Heartland Wireless Communications, Inc.
+hooverweb	"http://www.hmiller.com"	Herman Miller, Inc.
+hooverweb	"http://www.hersheys.com"	Hershey Foods Corporation
+hooverweb	"http://www.hewittassoc.com"	Hewitt Associates LLC
+hooverweb	"http://www.hp.com"	Hewlett-Packard Company
+hooverweb	"http://invest.quest.columbus.oh.us"	H.F. Ahmanson & Company
+hooverweb	"http://www.hillenbrand.com"	Hillenbrand Industries, Inc.
+hooverweb	"http://www.hilton.com"	Hilton Hotels Corporation
+hooverweb	"http://www.suntimes.com"	Hollinger International, Inc.
+hooverweb	"http://www.homedepot.com"	The Home Depot, Inc.
+hooverweb	"http://www.honeywell.com"	Honeywell Inc.
+hooverweb	"http://www.irnet.com"	Horizon/CMS Healthcare Corporation
+hooverweb	"http://www.hostmarriott.com"	Host Marriott Services Corporation
+hooverweb	"http://www.hmco.com"	Houghton Mifflin Company
+hooverweb	"http://www.irnet.com"	Houston Industries Incorporated
+hooverweb	"http://www.hughes.com"	Hughes Electronics Corporation
+hooverweb	"http://www.Humana.com"	Humana Inc.
+hooverweb	"http://www.huntington.com"	Huntington Bancshares Incorporated
+hooverweb	"http://www.travelweb.com"	Hyatt Corporation
+hooverweb	"http://www.hysoft.com"	Hyperion Software Corporation
+hooverweb	"http://www.icfkaiser.com"	ICF Kaiser International, Inc.
+hooverweb	"http://www.iec-electronics.com"	IEC Electronics Corp.
+hooverweb	"http://www.igainc.com"	IGA, Inc.
+hooverweb	"http://www.imation.com"	Imation Corp.
+hooverweb	"http://www.inacom.com"	Inacom Corp.
+hooverweb	"http://www.indiana.edu"	Indiana University
+hooverweb	"http://www.individual.com"	Individual, Inc.
+hooverweb	"http://www.ire.com"	Information Resource Engineering Inc.
+hooverweb	"http://www.isd.com"	Information Storage Devices, Inc.
+hooverweb	"http://www.informix.com"	Informix Corporation
+hooverweb	"http://www.infoseek.com"	Infoseek Corporation
+hooverweb	"http://www.ingersoll-rand.com"	Ingersoll-Rand Company
+hooverweb	"http://www.ingram.com"	Ingram Micro Inc.
+hooverweb	"http://www.inland.com"	Inland Steel Industries, Inc.
+hooverweb	"http://www.inso.com"	INSO Corporation
+hooverweb	"http://www.idt.com"	Integrated Device Technology, Inc.
+hooverweb	"http://www.isi.com"	Integrated Systems, Inc.
+hooverweb	"http://www.intel.com"	Intel Corporation
+hooverweb	"http://www.intelect.com"	Intelligent Electronics, Inc.
+hooverweb	"http://www.intergraph.com"	Intergraph Corporation
+hooverweb	"http://www.streetnet.com"	Interlink Electronics
+hooverweb	"http://www.icix.net"	Intermedia Communications, Inc.
+hooverweb	"http://www.ibm.com"	International Business Machines Corporation
+hooverweb	"http://www.cabletel.com"	International CableTel Incorporated
+hooverweb	"http://www.idg.com"	International Data Group
+hooverweb	"http://www.ipaper.com"	International Paper Company
+hooverweb	"http://www.irf.com"	International Rectifier Corporation
+hooverweb	"http://www.streetlink.com"	The Interpublic Group of Companies, Inc.
+hooverweb	"http://www.intimesystems.com"	InTime Systems International,  Inc.
+hooverweb	"http://www.intuit.com"	Intuit Inc.
+hooverweb	"http://www.itginc.com"	Investment Technology Group, Inc.
+hooverweb	"http://www.iomega.com"	Iomega Corporation
+hooverweb	"http://invest.quest.columbus.oh.us"	Irwin Financial Corporation
+hooverweb	"http://www.itron.com"	Itron, Inc.
+hooverweb	"http://www.ittinfo.com"	ITT Corporation
+hooverweb	"http://www.itthartford.com"	ITT Hartford Group, Inc.
+hooverweb	"http://www.ittind.com"	ITT Industries, Inc.
+hooverweb	"http://www.jcrew.com"	J. Crew Group Inc.
+hooverweb	"http://www.jamesrivercorp.com"	James River Corporation of Virginia
+hooverweb	"http://www.jbhunt.com"	J.B. Hunt Transport Services, Inc.
+hooverweb	"http://www.jcpenney.com"	J. C. Penney Company, Inc.
+hooverweb	"http://www.jdedwards.com"	J.D. Edwards & Company
+hooverweb	"http://www.jeld-wen.com"	Jeld-Wen Inc.
+hooverweb	"http://www.huber.com"	J. M. Huber Corporation
+hooverweb	"http://www.jharland.com"	John H. Harland Company
+hooverweb	"http://infonet.welch.jhu.edu"	Johns Hopkins Health System
+hooverweb	"http://www.jhu.edu"	The Johns Hopkins University Inc.
+hooverweb	"http://www.jh.com"	Johnson & Higgins
+hooverweb	"http://www.jnj.com"	Johnson & Johnson
+hooverweb	"http://www.jci.com"	Johnson Controls, Inc.
+hooverweb	"http://www.jic.com"	Jones Intercable, Inc.
+hooverweb	"http://www.jpmorgan.com"	J.P. Morgan & Co. Incorporated
+hooverweb	"http://www.simplot.com"	J.R. Simplot Company
+hooverweb	"http://www.k3.com"	K-III Communications Corporation
+hooverweb	"http://www.kaiperm.org"	Kaiser Foundation Health Plan, Inc. 
+hooverweb	"http://www.rmii.com"	Kaman Corporation
+hooverweb	"http://www.keane.com"	Keane, Inc.
+hooverweb	"http://www.kelloggs.com"	Kellogg Company
+hooverweb	"http://www.kemet.com"	KEMET Corporation
+hooverweb	"http://www.KemperNational.com"	Kemper National Insurance Companies
+hooverweb	"http://www.kennametal.com"	Kennametal Inc.
+hooverweb	"http://www.keytronic.com"	Key Tronic Corporation
+hooverweb	"http://www.kinkos.com"	Kinko's, Inc.
+hooverweb	"http://www.onramp.net"	Kitty Hawk, Inc.
+hooverweb	"http://hrweb.kla.com"	KLA Instruments Corporation
+hooverweb	"http://www.kmart.com"	Kmart Corporation
+hooverweb	"http://kri.com"	Knight-Ridder, Inc.
+hooverweb	"http://www.komag.com"	Komag, Incorporated
+hooverweb	"http://www.us.kpmg.com"	KPMG Peat Marwick LLP
+hooverweb	"http://www.foodcoop.com"	The Kroger Co.
+hooverweb	"http://www.krystaltech.com"	Krystaltech International Inc.
+hooverweb	"http://www.kns.com"	Kulicke and Soffa Industries, Inc.
+hooverweb	"http://www.laddfurniture.com"	Ladd Furniture, Inc.
+hooverweb	"http://www.lamrc.com"	Lam Research Corporation
+hooverweb	"http://www.landolakes.com"	Land O'Lakes, Inc.
+hooverweb	"http://www.lgc.com"	Landmark Graphics Corporation
+hooverweb	"http://www.lcsi.com"	LCS Industries, Inc.
+hooverweb	"http://www.lear.com"	Lear Corporation
+hooverweb	"http://www.softkey.com"	The Learning Company
+hooverweb	"http://www.lechters.com"	Lechters, Inc.
+hooverweb	"http://www.leggmason.com"	Legg Mason, Inc.
+hooverweb	"http://international.davelennox.com"	Lennox International Inc.
+hooverweb	"http://www.levi.com"	Levi Strauss Associates Inc.
+hooverweb	"http://www.levitz.com"	Levitz Furniture Incorporated
+hooverweb	"http://www.lexmark.com"	Lexmark International Group, Inc.
+hooverweb	"http://www.lincolnelectric.com"	The Lincoln Electric Company
+hooverweb	"http://www.lnc.com"	Lincoln National Corporation
+hooverweb	"http://www.linear-tech.com"	Linear Technology Corporation
+hooverweb	"http://pages.prodigy.com"	Little Caesar Enterprises, Inc.
+hooverweb	"http://www.littoncorp.com"	Litton Industries, Inc.
+hooverweb	"http://www.llbean.com"	L.L. Bean, Inc.
+hooverweb	"http://www.lockheed.com"	Lockheed Martin 
+hooverweb	"http://www.loewshotels.com"	Loews Corporation
+hooverweb	"http://www.logicon.com"	Logicon, Inc.
+hooverweb	"http://www.logistix.com"	Logistix
+hooverweb	"http://www.centernet.com"	Lone Star Steakhouse & Saloon, Inc.
+hooverweb	"http://loronix.com"	Loronix Information Systems, Inc.
+hooverweb	"http://adjacency.com"	Lost Arrow, Inc.
+hooverweb	"http://unix1.sncc.lsu.edu"	Louisiana State University System
+hooverweb	"http://www.lpx.com"	Louisiana-Pacific Corporation
+hooverweb	"http://www.lowes.com"	Lowe's Companies, Inc.
+hooverweb	"http://www.luc.edu"	Loyola University of Chicago
+hooverweb	"http://www.lucasarts.com"	LucasArts Entertainment Company
+hooverweb	"http://www.lucent.com"	Lucent Technologies Inc.
+hooverweb	"http://www.lunarcorp.com"	Lunar Corporation
+hooverweb	"http://www.macd.com"	MacDermid, Incorporated
+hooverweb	"http://www.macromedia.com"	Macromedia, Inc.
+hooverweb	"http://www.magnetek.com"	MagneTek, Inc.
+hooverweb	"http://www.mallinckrodt.com"	Mallinckrodt Inc.
+hooverweb	"http://www.manitowoc.com"	The Manitowoc Company, Inc.
+hooverweb	"http://www.manugistics.com"	Manugistics Group, Inc.
+hooverweb	"http://www.mapcoinc.com"	MAPCO Inc.
+hooverweb	"http://www.mapinfo.com"	MapInfo Corporation
+hooverweb	"http://www.cpbx.net"	Marcus Cable Company L.P.
+hooverweb	"http://www.maritz.com"	Maritz Inc.
+hooverweb	"http://www.mei.com"	Marquette Medical Systems, Inc.
+hooverweb	"http://www.marriott.com"	Marriott International, Inc.
+hooverweb	"http://www.baking.m-ms.com"	Mars, Inc.
+hooverweb	"http://www.marsh.net"	Marsh Supermarkets, Inc.
+hooverweb	"http://www.marykay.com"	Mary Kay Cosmetics Inc.
+hooverweb	"http://homesights.com"	Masco Corporation
+hooverweb	"http://autocenter.com"	MascoTech, Inc.
+hooverweb	"http://web.mit.edu"	Massachusetts Institute of Technology
+hooverweb	"http://www.massmutual.com"	Massachusetts Mutual Life Insurance Company
+hooverweb	"http://www.mattson.com"	Mattson Technology, Inc.
+hooverweb	"http://invest.quest.columbus.oh.us"	Max & Erma's Restaurants, Inc.
+hooverweb	"http://www.mxim.com"	Maxim Integrated Products, Inc.
+hooverweb	"http://www.maxis.com"	Maxis, Inc.
+hooverweb	"http://www.maxserv.com"	MaxServ, Inc.
+hooverweb	"http://www.maycompany.com"	The May Department Stores Company
+hooverweb	"http://www.mayo.edu"	Mayo Foundation
+hooverweb	"http://www.maytag.com"	Maytag Corporation
+hooverweb	"http://www.mcafee.com"	McAfee Associates, Inc.
+hooverweb	"http://www1.nando.net"	McClatchy Newspapers, Inc.
+hooverweb	"http://www.mccormick.com"	McCormick & Company, Incorporated
+hooverweb	"http://www.mcdermott.com"	McDermott International, Inc.
+hooverweb	"http://www.mcdonalds.com."	McDonald's Corporation
+hooverweb	"http://www.mdc.com"	McDonnell Douglas Corporation
+hooverweb	"http://www.mcgraw-hill.com"	The McGraw-Hill Companies, Inc.
+hooverweb	"http://www.mci.com"	MCI Communications Corporation
+hooverweb	"http://www.mckeefoods.com"	McKee Foods Corporation
+hooverweb	"http://www.mckesson.com"	McKesson Corporation
+hooverweb	"http://www.mckinsey.com"	McKinsey & Company
+hooverweb	"http://www.mead.com"	The Mead Corporation
+hooverweb	"http://www.measurex.com"	Measurex Corporation
+hooverweb	"http://www.iworld.com"	Mecklermedia Corporation
+hooverweb	"http://www.datx.com"	Media 100, Inc.
+hooverweb	"http://www.media-general.com"	Media General Inc.
+hooverweb	"http://www.medtronic.com"	Medtronic, Inc.
+hooverweb	"http://www.meijer.com"	Meijer, Inc.
+hooverweb	"http://www.mellon.com"	Mellon Bank Corporation
+hooverweb	"http://www.memc.com"	MEMC Electronic Materials, Inc.
+hooverweb	"http://www.mercstores.com"	Mercantile Stores Company, Inc.
+hooverweb	"http://www.merck.com"	Merck & Co., Inc.
+hooverweb	"http://www.merc-int.com"	Mercury Interactive Corporation
+hooverweb	"http://www.home-and-family.com"	Meredith Corporation
+hooverweb	"http://www.merrillcorp.com"	Merrill Corporation
+hooverweb	"http://www.ml.com"	Merrill Lynch & Co., Inc.
+hooverweb	"http://www.metamor.com"	Metamor Technologies LTD
+hooverweb	"http://www.methode.com"	Methode Electronics, Inc.
+hooverweb	"http://www.metlife.com"	Metropolitan Life Insurance Company
+hooverweb	"http://www.mfst.com"	MFS Communications Company, Inc.
+hooverweb	"http://www.mgmgrand.com"	MGM Grand, Inc.
+hooverweb	"http://www.michaels.com"	Michaels Stores, Inc.
+hooverweb	"http://www.warehouse.com"	Micro Warehouse, Inc.
+hooverweb	"http://www.microage.net"	MicroAge, Inc.
+hooverweb	"http://www.microcom.com"	Microcom, Inc.
+hooverweb	"http://www.miworld.com"	Micro-Integration Corp.
+hooverweb	"http://www.micron.com"	Micron Technology, Inc.
+hooverweb	"http://www.micros.com"	MICROS Systems, Inc.
+hooverweb	"http://www.microsemi.com"	Microsemi Corporation
+hooverweb	"http://www.microsoft.com"	Microsoft Corporation
+hooverweb	"http://www.microtouch.com"	MicroTouch Systems, Inc.
+hooverweb	"http://www.millipore.com"	Millipore Corporation
+hooverweb	"http://www.mmm.com"	Minnesota Mining and Manufacturing Company
+hooverweb	"http://www.themirage.com"	Mirage Resorts, Incorporated
+hooverweb	"http://www.mobil.com"	Mobil Corporation
+hooverweb	"http://www.skytel.com"	Mobile Telecommunication Technologies Corp.
+hooverweb	"http://www.molex.com"	Molex Incorporated
+hooverweb	"http://www.mmt.com"	Molten Metal Technology, Inc.
+hooverweb	"http://www.monsanto.com"	Monsanto Company
+hooverweb	"http://www.moovies.com"	Moovies, Inc.
+hooverweb	"http://www.ms.com"	Morgan Stanley Group Inc.
+hooverweb	"http://www.motorola.com"	Motorola, Inc.
+hooverweb	"http://www.towerrecords.com"	MTS Inc.
+hooverweb	"http://www.mustang.com"	Mustang Software, Inc.
+hooverweb	"http://www.mony.com"	The Mutual Life Insurance Company of New York
+hooverweb	"http://www.mylex.com"	Mylex Corporation
+hooverweb	"http://www.nabisco.com"	Nabisco Holdings Corp.
+hooverweb	"http://www.nbc.com"	National Broadcasting Company, Inc.
+hooverweb	"http://www.roysesec.com"	National Health Enhancement Systems, Inc.
+hooverweb	"http://www.amtrak.com"	National Railroad Passenger Corporation
+hooverweb	"http://www.nsc.com"	National Semiconductor Corporation
+hooverweb	"http://www.nationalsteel.com"	National Steel Corporation
+hooverweb	"http://www.nationaltechteam.com"	National TechTeam, Inc.
+hooverweb	"http://www.nationsbank.com"	NationsBank Corporation
+hooverweb	"http://www.nationwide.com"	Nationwide Insurance Enterprise
+hooverweb	"http://www.nmss.com"	Natural MicroSystems Corporation
+hooverweb	"http://www.navarre.com"	Navarre Corporation
+hooverweb	"http://www.ncilp.com"	NCI Building Systems, Inc.
+hooverweb	"http://www.ncr.com"	NCR Corporation
+hooverweb	"http://www.neimanmarcus.com"	The Neiman Marcus Group, Inc.
+hooverweb	"http://www.nellcorpb.com"	Nellcor Puritan Bennett Incorporated
+hooverweb	"http://www.neogen.com"	Neogen Corporation
+hooverweb	"http://www.netcom.com"	NETCOM On-Line Communication Services, Inc.
+hooverweb	"http://www.netmanage.com"	NetManage, Inc.
+hooverweb	"http://home.netscape.com"	Netscape Communications Corporation
+hooverweb	"http://www.ngc.com"	Network General Corporation
+hooverweb	"http://www.nytimes.com"	The New York Times Company
+hooverweb	"http://www.nyu.edu"	New York University
+hooverweb	"http://www.nimo.com"	Niagara Mohawk Power Corporation
+hooverweb	"http://www.nichols.com"	Nichols Research Corporation
+hooverweb	"http://www.nike.com"	NIKE, Inc.
+hooverweb	"http://www.noram.com"	NorAm Energy Corp.
+hooverweb	"http://www.nscorp.com"	Norfolk Southern Corporation
+hooverweb	"http://www.nspco.com"	Northern States Power Company
+hooverweb	"http://www.ntrs.com"	Northern Trust Corporation
+hooverweb	"http://www.nwa.com"	Northwest Airlines Corporation
+hooverweb	"http://www.nwu.edu"	Northwestern University
+hooverweb	"http://www.norwest.com"	Norwest Corporation
+hooverweb	"http://www.novacare.com"	NovaCare, Inc.
+hooverweb	"http://www.novadigm.com"	Novadigm, Inc.
+hooverweb	"http://www.novell.com"	Novell, Inc.
+hooverweb	"http://www.ntn.com"	NTN Communications, Inc.
+hooverweb	"http://www.nuhorizons.com"	Nu Horizons Electronics Corp.
+hooverweb	"http://www.nine.com"	Number Nine Visual Technology Corporation
+hooverweb	"http://www.nynex.com"	NYNEX Corporation
+hooverweb	"http://www.oxychem.com"	Occidental Petroleum Corporation
+hooverweb	"http://www.octel.com"	Octel Communications Corporation
+hooverweb	"http://www.officedepot.com"	Office Depot, Inc.
+hooverweb	"http://www.officemax.com"	OfficeMax, Inc.
+hooverweb	"http://www.ogdencorp.com"	Ogden Corporation
+hooverweb	"http://www.acs.ohio-state.edu"	The Ohio State University
+hooverweb	"http://www.olincorp.com"	Olin Corporation
+hooverweb	"http://www2.opalview.com"	Opal, Inc.
+hooverweb	"http://www.oec.com"	Open Environment Corporation
+hooverweb	"http://www.oracle.com"	Oracle Corporation
+hooverweb	"http://www.orbitsemi.com"	Orbit Semiconductor, Inc.
+hooverweb	"http://www.orbital.com"	Orbital Sciences Corporation
+hooverweb	"http://www.ortel.com"	Ortel Corporation
+hooverweb	"http://www.osicom.com"	Osicom Technologies, Inc.
+hooverweb	"http://www.om-inc.com"	Owens & Minor, Inc.
+hooverweb	"http://www.owens-corning.com"	Owens Corning
+hooverweb	"http://www.owens-ill.com"	Owens-Illinois, Inc.
+hooverweb	"http://www.pacent.com"	Pacific Enterprises
+hooverweb	"http://www.pge.com"	Pacific Gas and Electric Company
+hooverweb	"http://www.pactel.com"	Pacific Telesis Group
+hooverweb	"http://www.phs.com"	PacifiCare Health Systems, Inc.
+hooverweb	"http://www.upl.com"	PacifiCorp
+hooverweb	"http://www.packardbell.com"	Packard Bell Electronics, Inc.
+hooverweb	"http://www.pagenet.com"	Paging Network, Inc.
+hooverweb	"http://www.painewebber.com"	Paine Webber Group Inc.
+hooverweb	"http://www.pall.com"	Pall Corporation
+hooverweb	"http://www.archistrat.com"	The Panda Project, Inc.
+hooverweb	"http://www.naturalgas.com"	PanEnergy Corporation
+hooverweb	"http://www.papajohns.com"	Papa John's International, Inc.
+hooverweb	"http://www.ptc.com"	Parametric Technology Corporation
+hooverweb	"http://www.parcplace.com"	ParcPlace-Digitalk, Inc.
+hooverweb	"http://www.parker.com"	Parker-Hannifin Corporation
+hooverweb	"http://www.parsons.com"	The Parsons Corporation
+hooverweb	"http://www.paychex.com"	Paychex, Inc.
+hooverweb	"http://www.libertynet.org:80"	PECO Energy Company
+hooverweb	"http://www.psu.edu"	The Pennsylvania State University
+hooverweb	"http://www.pennzoil.com"	Pennzoil Company
+hooverweb	"http://www.detdiesel.com"	Penske Corporation
+hooverweb	"http://www.peoplesoft.com"	PeopleSoft, Inc.
+hooverweb	"http://www.pepboys.com"	The Pep Boys - Manny, Moe & Jack
+hooverweb	"http://www.pepsico.com"	PepsiCo, Inc.
+hooverweb	"http://www.percon.com"	Percon Incorporated
+hooverweb	"http://www.perdue.com"	Perdue Farms Incorporated
+hooverweb	"http://www.perkin-elmer.com"	Perkin-Elmer Corporation
+hooverweb	"http://www.petsmart.com"	PETsMART, Inc.
+hooverweb	"http://www.pfizer.com"	Pfizer Inc.
+hooverweb	"http://www.irin.com"	Phelps Dodge Corporation
+hooverweb	"http://www.phillips66.com"	Phillips Petroleum Company
+hooverweb	"http://www.streetlink.com"	Phillips-Van Heusen Corporation
+hooverweb	"http://www.Photronics.com"	Photronics, Inc.
+hooverweb	"http://www.picturetel.com"	PictureTel Corporation
+hooverweb	"http://www.pier1.com"	Pier 1 Imports, Inc.
+hooverweb	"http://www.pinnaclemicro.com"	Pinnacle Micro, Inc.
+hooverweb	"http://www.pinnaclesys.com."	Pinnacle Systems, Inc.
+hooverweb	"http://www.pitneybowes.com"	Pitney Bowes Inc.
+hooverweb	"http://www.brinks.com"	Pittston Brink's Group
+hooverweb	"http://www.baxworld.com"	Pittston Burlington Group
+hooverweb	"http://www.ademco.com"	Pittway Corporation
+hooverweb	"http://www.pncbank.com"	PNC Bank Corp.
+hooverweb	"http://www.polarisindustries.com"	Polaris Industries Inc.
+hooverweb	"http://www.polaroid.com"	Polaroid Corporation
+hooverweb	"http://www.polyphase.com"	Polyphase Corporation
+hooverweb	"http://www.pomeroy.com"	Pomeroy Computer Resources, Inc.
+hooverweb	"http://www.powercc.com"	Power Computing Corporation
+hooverweb	"http://www.papl.com"	PP&L Resources, Inc.
+hooverweb	"http://www.ppg.com"	PPG Industries, Inc.
+hooverweb	"http://www.praxair.com"	Praxair, Inc.
+hooverweb	"http://www.prc.com"	PRC Inc.
+hooverweb	"http://www.premisys.com"	Premisys Communications, Inc.
+hooverweb	"http://www.pplsi.com"	Pre-Paid Legal Services, Inc.
+hooverweb	"http://www.pricecostco.com"	Price/Costco, Inc.
+hooverweb	"http://www.primark.com"	Primark Corporation
+hooverweb	"http://www.ppv.com"	PRIMESTAR Partners L.P. 
+hooverweb	"http://www.princeton.edu"	Princeton University
+hooverweb	"http://www.principal.com"	The Principal Financial Group
+hooverweb	"http://www.pg.com"	The Procter & Gamble Company
+hooverweb	"http://www.proffitts.com"	Proffitt's, Inc.
+hooverweb	"http://www.auto-insurance.com"	The Progressive Corporation
+hooverweb	"http://www.promus.com"	Promus Hotel Corporation
+hooverweb	"http://www.protosource.com"	Protosource Corporation
+hooverweb	"http://www.projo.com"	Providence Journal Company
+hooverweb	"http://www.providian.com"	Providian Corporation
+hooverweb	"http://www.proxim.com"	Proxim Inc.
+hooverweb	"http://www.prxm.com"	Proxima Corporation
+hooverweb	"http://www.prudential.com"	The Prudential Insurance Company of America
+hooverweb	"http://www.psi.net"	PSINet Inc.
+hooverweb	"http://www.pulte.com"	Pulte Corporation
+hooverweb	"http://www.puretec.com"	PureTec Corporation
+hooverweb	"http://www.HartBrew.com"	Pyramid Breweries Inc.
+hooverweb	"http://www.quakeroats.com"	The Quaker Oats Company
+hooverweb	"http://www.qualcomm.com"	QUALCOMM Incorporated
+hooverweb	"http://www.quantum.com"	Quantum Corporation
+hooverweb	"http://www.qdeck.com"	Quarterdeck Corporation
+hooverweb	"http://www.qrsi.com"	QuickResponse Services Inc.
+hooverweb	"http://www.rnbo.com"	Rainbow Technologies, Inc.
+hooverweb	"http://www.ralston.com"	Ralston Purina Company
+hooverweb	"http://www.randmedia.ie"	Rand McNally & Company
+hooverweb	"http://www.randalls.com"	Randall's Food Markets, Inc.
+hooverweb	"http://www.randomhouse.com"	Random House, Inc.
+hooverweb	"http://www.raychem.com"	Raychem Corporation
+hooverweb	"http://www.raytheon.com"	Raytheon Company
+hooverweb	"http://www.readersdigest.com"	The Reader's Digest Association, Inc.
+hooverweb	"http://www.readrite.com"	Read-Rite Corporation
+hooverweb	"http://www.redroof.com"	Red Roof Inns, Inc.
+hooverweb	"http://www.planetreebok.com"	Reebok International Ltd.
+hooverweb	"http://RGH.com"	Reliance Group Holdings, Inc.
+hooverweb	"http://www.rbmg.com"	Resource Bancshares Mortgage Group Inc.
+hooverweb	"http://www.revco.com"	Revco D.S., Inc.
+hooverweb	"http://www.revlon.com"	Revlon, Inc.
+hooverweb	"http://www.reyrey.com"	The Reynolds and Reynolds Company
+hooverweb	"http://www.rmc.com"	Reynolds Metals Company
+hooverweb	"http://www.rfpp.com"	RF Power Products, Inc.
+hooverweb	"http://www.rpr.rpna.com"	Rhone-Poulenc Rorer Inc.
+hooverweb	"http://www.richs.com"	Rich Products Corporation
+hooverweb	"http://streetlink.com"	Richfood Holdings, Inc.
+hooverweb	"http://www.rimage.com"	Rimage Corporation
+hooverweb	"http://www.riteaid.com"	Rite Aid Corporation
+hooverweb	"http://www.triadonline.com"	RJR Nabisco Holdings Corp.
+hooverweb	"http://www.stockprofiles.com"	Roadmaster Industries, Inc.
+hooverweb	"http://www.roadway.com"	Roadway Express, Inc.
+hooverweb	"http://www.rocketsci.com"	Rocket Science Games Inc.
+hooverweb	"http://www.rockwell.com"	Rockwell International Corporation
+hooverweb	"http://www.rohmhaas.com"	Rohm and Haas Company
+hooverweb	"http://www.rossstores.com"	Ross Stores, Inc.
+hooverweb	"http://www.rrdonnelley.com"	R. R. Donnelley & Sons Company
+hooverweb	"http://www.rubbermaid.com"	Rubbermaid Incorporated
+hooverweb	"http://www.rwd.com"	RWD Technologies, Inc.
+hooverweb	"http://ryder.inter.net"	Ryder System, Inc.
+hooverweb	"http://www.rampagingbull.com"	SA Telecommunications, Inc.
+hooverweb	"http://www.safeco.com"	SAFECO Corporation
+hooverweb	"http://www.safeguard.com"	Safeguard Scientifics, Inc.
+hooverweb	"http://www.safetycomponents.com"	Safety Components International, Inc.
+hooverweb	"http://www.stpaul.com"	The St. Paul Companies, Inc.
+hooverweb	"http://www.salomon.com"	Salomon Inc
+hooverweb	"http://www.SalvationArmy.org"	The Salvation Army
+hooverweb	"http://www.sbc.com"	SBC Communications Inc.
+hooverweb	"http://www.scangraphics.com"	Scangraphics, Inc.
+hooverweb	"http://www.sch-plough.com"	Schering-Plough Corporation
+hooverweb	"http://www.slb.com"	Schlumberger Limited
+hooverweb	"http://www.schneiderjobs.com"	Schneider National Inc.
+hooverweb	"http://www.schnucks.com"	Schnuck Markets Inc.
+hooverweb	"http://www.scholastic.com"	Scholastic Corporation
+hooverweb	"http://www.schuller.com"	Schuller Corporation
+hooverweb	"http://www.sci.com"	SCI Systems, Inc.
+hooverweb	"http://www.saic.com"	Science Applications International Corporation
+hooverweb	"http://www.sciatl.com"	Scientific-Atlanta, Inc.
+hooverweb	"http://www.seagate.com"	Seagate Technology, Inc.
+hooverweb	"http://www.cfonews.com"	Sealed Air Corporation
+hooverweb	"http://www.sears.com"	Sears, Roebuck and Co.
+hooverweb	"http://www.securid.com"	Security Dynamics Technologies, Inc.
+hooverweb	"http://streetlink.com"	Semitool, Inc.
+hooverweb	"http://www.sequana.com"	Sequana Therapeutics, Inc.
+hooverweb	"http://www.sequent.com"	Sequent Computer Systems, Inc.
+hooverweb	"http://www.sequoia.com"	Sequoia Systems, Inc.
+hooverweb	"http://www.servicemerchandise.com"	Service Merchandise Company, Inc.
+hooverweb	"http://www.svm.com"	ServiceMaster Limited Partnership
+hooverweb	"http://www.smed.com"	Shared Medical Systems Corporation
+hooverweb	"http://www.shawinds.com"	Shaw Industries, Inc.
+hooverweb	"http://www.shellus.com"	Shell Oil Company
+hooverweb	"http://www.sgi.com"	Silicon Graphics, Inc.
+hooverweb	"http://www.svg.com"	Silicon Valley Group, Inc.
+hooverweb	"http://www.simonsays.com"	Simon & Schuster Inc.
+hooverweb	"http://www.siz.com"	Sizzler International, Inc.
+hooverweb	"http://www.skywest-air.com"	SkyWest, Inc.
+hooverweb	"http://www.smartm.com"	SMART Modular Technologies, Inc.
+hooverweb	"http://www.smc.com"	SMC Corporation
+hooverweb	"http://www.si.edu"	Smithsonian Institution
+hooverweb	"http://www.softdesk.com"	Softdesk, Inc.
+hooverweb	"http://www.softnet.com"	SoftNet Systems, Inc.
+hooverweb	"http://www.spa.org"	Software Publishers Association
+hooverweb	"http://www.swspectrum.com"	Software Spectrum, Inc.
+hooverweb	"http://www.oakridge.com"	Solectron Corporation
+hooverweb	"http://www.PartsNow.com"	Soligen Technologies, Inc.
+hooverweb	"http://www.sonic.com"	Sonic Solutions
+hooverweb	"http://www.sonoco.com"	Sonoco Products Company
+hooverweb	"http://www.southernco.com"	The Southern Company
+hooverweb	"http://www.snet.com"	Southern New England Telecommunications Corporation
+hooverweb	"http://www.southlandmicro.com"	Southland Micro Systems Inc.
+hooverweb	"http://www.iflyswa.com"	Southwest Airlines Co.
+hooverweb	"http://www.southwire.com"	Southwire Company, Inc.
+hooverweb	"http://www.spectravision.com"	SpectraVision, Inc.
+hooverweb	"http://www.spiegel.com"	Spiegel, Inc.
+hooverweb	"http://www.sportsline.com"	SportsLine USA, Inc.
+hooverweb	"http://www.sprint.com"	Sprint Corporation
+hooverweb	"http://www.spx.com"	SPX Corporation
+hooverweb	"http://www.spyglass.com"	Spyglass, Inc.
+hooverweb	"http://www.stdreg.com"	The Standard Register Company
+hooverweb	"http://www-med.stanford.edu"	Stanford Health Services
+hooverweb	"http://www.stanford.edu"	Stanford University
+hooverweb	"http://www.stanleyworks.com"	The Stanley Works
+hooverweb	"http://www.staples.com"	Staples, Inc.
+hooverweb	"http://www.starpress.com"	StarPress, Inc.
+hooverweb	"http://www.starwave.com"	Starwave Corporation
+hooverweb	"http://www.statefarm.com"	State Farm Mutual Automobile Insurance Company
+hooverweb	"http://www.oneonta.edu"	State University of New York
+hooverweb	"http://www.stb.com"	STB Systems, Inc.
+hooverweb	"http://www.steelcase.com"	Steelcase Inc.
+hooverweb	"http://www.sterinfo.com"	Sterling Information Group
+hooverweb	"http://www.sterling.com"	Sterling Software, Inc.
+hooverweb	"http://www.ssss.com"	Stewart & Stevenson Services, Inc.
+hooverweb	"http://www.stimsonite.com"	Stimsonite Corporation
+hooverweb	"http://streetlink.com"	Stone Container Corporation
+hooverweb	"http://www.stortek.com"	Storage Technology Corporation
+hooverweb	"http://www.stratasys.com"	Stratasys, Inc.
+hooverweb	"http://www.strawbridge.com"	Strawbridge & Clothier
+hooverweb	"http://www.stream.com"	Stream International Inc.
+hooverweb	"http://www.subm.com"	SubMicron Systems Corporation
+hooverweb	"http://www.summitmedical.com"	Summit Medical Systems, Inc.
+hooverweb	"http://www.lensexpress.com"	Summit Technology Inc.
+hooverweb	"http://www.sunh.com"	Sun Healthcare Group, Inc.
+hooverweb	"http://www.sun.com"	Sun Microsystems, Inc.
+hooverweb	"http://www.sunamerica.com"	SunAmerica, Inc.
+hooverweb	"http://www.sungard.com"	SunGard Data Systems Inc.
+hooverweb	"http://www.supercuts.com"	Supercuts, Inc.
+hooverweb	"http://www.educate.com"	Sylvan Learning Systems, Inc.
+hooverweb	"http://www.symantec.com"	Symantec Corporation
+hooverweb	"http://www.synopsys.com"	Synopsys, Inc.
+hooverweb	"http://www.snv.com"	Synovus Financial Corp.
+hooverweb	"http://www.syquest.com"	SyQuest Technology, Inc.
+hooverweb	"http://www.sysco.com"	SYSCO Corporation
+hooverweb	"http://www.ssax.com"	System Software Associates, Inc.
+hooverweb	"http://www.systemsoft.com"	SystemSoft Corporation
+hooverweb	"http://www.tandy.com"	Tandy Corporation
+hooverweb	"http://www.tget.com"	Target Therapeutics, Inc.
+hooverweb	"http://www.tastykake.com"	Tasty Baking Company
+hooverweb	"http://www.tcinc.com"	TCI Communications, Inc.
+hooverweb	"http://www.tcsi.com"	TCSI Corporation
+hooverweb	"http://www.techforce.com"	TechForce Corporation
+hooverweb	"http://www.techsol.com"	Technology Solutions Company
+hooverweb	"http://www.teco.net"	TECO Energy, Inc.
+hooverweb	"http://www.tek.com"	Tektronix, Inc.
+hooverweb	"http://www.telegroup.com"	Telegroup Inc.
+hooverweb	"http://www.teldta.com"	Telephone and Data Systems, Inc.
+hooverweb	"http://www.tellabs.com"	Tellabs, Inc.
+hooverweb	"http://www.telxon.com"	Telxon Corporation
+hooverweb	"http://www.tenneco.com"	Tenneco Inc.
+hooverweb	"http://www.tva.gov"	Tennessee Valley Authority
+hooverweb	"http://www.teradyne.com"	Teradyne, Inc.
+hooverweb	"http://www.terex.com"	Terex Corporation
+hooverweb	"http://www.tessco.com"	TESSCO Technologies Incorporated
+hooverweb	"http://www.tetratech.com"	Tetra Tech, Inc.
+hooverweb	"http://www.texaco.com"	Texaco Inc.
+hooverweb	"http://www.tamu.edu"	The Texas A&M University System
+hooverweb	"http://www.ti.com"	Texas Instruments Incorporated
+hooverweb	"http://www.ttu.edu"	Texas Tech University
+hooverweb	"http://www.tu.com"	Texas Utilities Company
+hooverweb	"http://www.textron.com"	Textron Inc.
+hooverweb	"http://www.thermo.com"	Thermo Electron Corporation
+hooverweb	"http://www.thermo.com"	Thermo Instrument Systems Inc.
+hooverweb	"http://www.thermo.com"	Thermo Remediation Inc.
+hooverweb	"http://www.thermo.com"	Thermo TerraTech Inc.
+hooverweb	"http://www.thermo.com"	Thermo Voltek Corp.
+hooverweb	"http://www.thermo.com"	ThermoTrex Corporation
+hooverweb	"http://www.thiokol.com"	Thiokol Corporation
+hooverweb	"http://www.pathfinder.com"	Time Inc.
+hooverweb	"http://www.pathfinder.com"	Time Warner Inc.
+hooverweb	"http://www.latimes.com"	The Times Mirror Company
+hooverweb	"http://www.industry.net"	The Timken Company
+hooverweb	"http://www.modemmedia.com"	TN Technologies Inc.
+hooverweb	"http://www.t-netix.com"	T-NETIX, Inc.
+hooverweb	"http://www.stockprofiles.com"	Total-Tel USA Communications, Inc.
+hooverweb	"http://www.checkit.com"	TouchStone Software Corporation
+hooverweb	"http://www.towerair.com"	Tower Air, Inc.
+hooverweb	"http://www.towers.com"	Towers Perrin
+hooverweb	"http://www.tru.com"	Toys "R" Us, Inc.
+hooverweb	"http://www.researchmag.com"	Tracor, Inc.
+hooverweb	"http://www.twa.com"	Trans World Airlines, Inc.
+hooverweb	"http://www.transamerica.com"	Transamerica Corporation
+hooverweb	"http://www.transnet.com"	TransNet Corporation
+hooverweb	"http://www.travelers.com"	Travelers Group Inc.
+hooverweb	"http://www.tribune.com"	Tribune Company
+hooverweb	"http://www.trid.com"	Trident Microsystems, Inc.
+hooverweb	"http://www.trw.com"	TRW Inc.
+hooverweb	"http://www.tseng.com"	Tseng Labs, Inc.
+hooverweb	"http://www.tupperware.com"	Tupperware Corporation
+hooverweb	"http://www.turner.com"	Turner Broadcasting System, Inc.
+hooverweb	"http://www.tygn.com"	Tylan General, Inc.
+hooverweb	"http://www.tyson.com"	Tyson Foods, Inc.
+hooverweb	"http://www.ugicorp.com"	UGI Corporation
+hooverweb	"http://www.unifirst.com"	UniFirst Corporation
+hooverweb	"http://www.careermosaic.com"	Union Bankshares, Ltd.
+hooverweb	"http://www.unioncamp.com"	Union Camp Corporation
+hooverweb	"http://www.ue.com"	Union Electric Company
+hooverweb	"http://www.unionpacific.com"	Union Pacific Corporation
+hooverweb	"http://www.unisys.com"	Unisys Corporation
+hooverweb	"http://www.uhc.com"	United HealthCare Corporation
+hooverweb	"http://www.ups.com"	United Parcel Service of America, Inc.
+hooverweb	"http://www.uscc.com"	United States Cellular Corporation
+hooverweb	"http://www.usps.gov"	United States Postal Service
+hooverweb	"http://iw.zacks.com"	United Stationers Inc.
+hooverweb	"http://www.utc.com"	United Technologies Corporation
+hooverweb	"http://www.uvsg.com"	United Video Satellite Group, Inc.
+hooverweb	"http://www.uwst.com"	United Waste Systems, Inc.
+hooverweb	"http://www.mca.com"	Universal Studios Inc.
+hooverweb	"http://www.ua.edu"	The University of Alabama 
+hooverweb	"http://www.berkeley.edu"	University of California
+hooverweb	"http://www.uchicago.edu"	The University of Chicago
+hooverweb	"http://www.ufl.edu"	The University of Florida
+hooverweb	"http://www.uh.edu"	University of Houston
+hooverweb	"http://www.uiuc.edu"	The University of Illinois
+hooverweb	"http://www.uiowa.edu"	The University of Iowa
+hooverweb	"http://www.uky.edu"	The University of Kentucky
+hooverweb	"http://www.ums.edu"	The University of Maryland System
+hooverweb	"http://www.umich.edu"	The University of Michigan 
+hooverweb	"http://www.umn.edu"	University of Minnesota
+hooverweb	"http://www.missouri.edu"	The University of Missouri System
+hooverweb	"http://www.unl.edu"	The University of Nebraska
+hooverweb	"http://www.unt.edu"	University of North Texas
+hooverweb	"http://www.upenn.edu"	The University of Pennsylvania 
+hooverweb	"http://www.pitt.edu"	The University of Pittsburgh
+hooverweb	"http://www.rochester.edu"	The University of Rochester 
+hooverweb	"http://cwis.usc.edu"	University of Southern California
+hooverweb	"http://www.utk.edu"	The University of Tennessee
+hooverweb	"http://www.utexas.edu"	The University of Texas System
+hooverweb	"http://www.washington.edu"	The University of Washington
+hooverweb	"http://www.wiscinfo.wisc.edu"	The University of Wisconsin System
+hooverweb	"http://www.usbank.com"	U. S. Bancorp
+hooverweb	"http://www.ushc.com"	U.S. Healthcare, Inc.
+hooverweb	"http://www.usr.com"	U.S. Robotics Corporation
+hooverweb	"http://www.uswest.com"	U S WEST Communications Group
+hooverweb	"http://www.uswest.com"	U S WEST Media Group
+hooverweb	"http://www.usxpress.com"	U.S. Xpress Enterprises, Inc.
+hooverweb	"http://www.usair.com"	USAir Group, Inc.
+hooverweb	"http://www.shareholder.com"	USF&G Corporation
+hooverweb	"http://www.usfreightways.com"	USFreightways Corporation
+hooverweb	"http://usgcorp.com"	USG Corporation
+hooverweb	"http://www.uu.net"	UUNET Technologies, Inc.
+hooverweb	"http://www.valujet.com"	ValuJet, Inc.
+hooverweb	"http://www.vanderbilt.edu."	Vanderbilt University
+hooverweb	"http://www.vanstar.com."	Vanstar Corporation
+hooverweb	"http://www.vantive.com"	The Vantive Corporation
+hooverweb	"http://www.varian.com"	Varian Associates, Inc.
+hooverweb	"http://www.primenet.com"	Vaughn Communications, Inc.
+hooverweb	"http://www.verifone.com"	VeriFone, Inc.
+hooverweb	"http://www.vfc.com"	VF Corporation
+hooverweb	"http://www.viacom.com"	Viacom Inc.
+hooverweb	"http://www.viad.com"	Viad Corp
+hooverweb	"http://www.videonics.com"	Videonics, Inc.
+hooverweb	"http://www.videoserver.com"	VideoServer, Inc.
+hooverweb	"http://vishay.com"	Vishay Intertechnology, Inc.
+hooverweb	"http://www.visiontek.com"	VisionTek Inc.
+hooverweb	"http://www.vlsi.com"	VLSI Technology, Inc.
+hooverweb	"http://www.vmark.com"	VMARK Software, Inc.
+hooverweb	"http://www.vtel.com"	VTEL Corporation
+hooverweb	"http://www.nlci.com"	Wabash National Corporation 
+hooverweb	"http://www.walgreens.com"	Walgreen Co.
+hooverweb	"http://www.wrq.com"	Walker Richer & Quinn Inc.
+hooverweb	"http://www.wal-mart.com"	Wal-Mart Stores, Inc.
+hooverweb	"http://www.disney.com"	The Walt Disney Company
+hooverweb	"http://www.wang.com"	Wang Laboratories, Inc.
+hooverweb	"http://www.warner-lambert.com"	Warner-Lambert Company
+hooverweb	"http://www.washingtonpost.com"	The Washington Post Company
+hooverweb	"http://www.wustl.edu"	Washington University
+hooverweb	"http://www.watsonwyatt.com"	Watson Wyatt Worldwide
+hooverweb	"http://www.wavetech.com"	Wave Technologies International, Inc.
+hooverweb	"http://www.wavephore.com"	WavePhore, Inc.
+hooverweb	"http://www.wegmans.com"	Wegmans Food Markets Inc.
+hooverweb	"http://www.wellsfargo.com"	Wells Fargo & Company
+hooverweb	"http://www.wellsford.com"	Wellsford Residential Property Trust
+hooverweb	"http://www.wendys.com"	Wendy's International, Inc.
+hooverweb	"http://www.werner.com"	Werner Enterprises, Inc.
+hooverweb	"http://www.westpub.com"	West Publishing Co.
+hooverweb	"http://www.wdc.com"	Western Digital Corporation
+hooverweb	"http://www.westinghouse.com"	Westinghouse Electric Corporation
+hooverweb	"http://www.cbs.com"	Westinghouse/CBS Group
+hooverweb	"http://www.weyerhaeuser.com"	Weyerhaeuser Company
+hooverweb	"http://WWW.WHATABURGER.COM"	Whataburger Systems Inc.
+hooverweb	"http://www.whirlpool.com"	Whirlpool Corporation
+hooverweb	"http://www.whitmancorp.com"	Whitman Corporation
+hooverweb	"http://www.wholefoods.com"	Whole Foods Market, Inc.
+hooverweb	"http://www.twc.com"	The Williams Companies, Inc.
+hooverweb	"http://www.dreamshop.com"	Williams-Sonoma, Inc.
+hooverweb	"http://www.windmere.com"	Windmere Corporation
+hooverweb	"http://www.wired.com"	Wired Ventures, Inc.
+hooverweb	"http://www.gorefabrics.com"	W. L. Gore & Associates Inc.
+hooverweb	"http://www.wms.com"	WMS Industries Inc.
+hooverweb	"http://www.wmx.com"	WMX Technologies, Inc.
+hooverweb	"http://www.wcom.com"	WorldCom, Inc.
+hooverweb	"http://www.stockprofiles.com"	Worthington Industries, Inc.
+hooverweb	"http://www.grainger.com"	W.W. Grainger, Inc.
+hooverweb	"http://www.wwnorton.com"	W.W. Norton & Company, Inc.
+hooverweb	"http://www.xerox.com"	Xerox Corporation
+hooverweb	"http://www.xilinx.com"	Xilinx, Inc.
+hooverweb	"http://www.xircom.com"	Xircom, Inc.
+hooverweb	"http://www.xpedite.com"	Xpedite Systems, Inc.
+hooverweb	"http://www.yale.edu"	Yale University
+hooverweb	"http://www.york.com"	York International Corporation
+hooverweb	"http://www.youthservices.com"	Youth Services International, Inc.
+hooverweb	"http://www.zebra.com"	Zebra Technologies Corporation
+hooverweb	"http://www.zoomtel.com"	Zoom Telephonics, Inc.
+iontech	"http://www.acccorp.com"	ACC CORP
+iontech	"http://www.accom.com"	ACCOM INC
+iontech	"http://www.actv.com"	ACTV INC
+iontech	"http://www.adc.com"	ADC TELECOMMUNICATION INC
+iontech	"http://www.adelphia.com"	ADELPHIA COMMUNICATIONS CORP 
+iontech	"http://www.adtss.com"	ADT LTD
+iontech	"http://www.adtran.com"	ADTRAN INC
+iontech	"http://www.airtouch.com"	AIRTOUCH COMMUNICATIONS
+iontech	"http://www.amati.com"	AMATI COMMUNICATIONS CORP
+iontech	"http://www.abii.com"	AMERICAN BUSINESS INFORMATION INC
+iontech	"http://www.ameritech.com"	AMERITECH CORP
+iontech	"http://www.apertus.com"	APERTUS TECHNOLOGIES INC
+iontech	"http://www.ada.com"	APPLIED DIGITAL ACCESS INC
+iontech	"http://www.aiinet.com"	APPLIED INNOVATION INC
+iontech	"http://www.appsig.com"	APPLIED SIGNAL TECHNOLOGY
+iontech	"http://www.appliedvoice.com"	APPLIED VOICE TECHNOLOGY INC
+iontech	"http://www.aspect.com"	ASPECT TELECOMMUNICATIONS
+iontech	"http://www.att.com"	AT&T CORP
+iontech	"http://www.aydin.com"	AYDIN CORP
+iontech	"http://www.bell.ca"	BCE INC
+iontech	"http://www.bdm.com"	BDM INTERNATIONAL INC
+iontech	"http://www.ba.com"	BELL ATLANTIC CORP
+iontech	"http://www.bellsouth.com"	BELLSOUTH CORP
+iontech	"http://www.bostontechnology.com"	BOSTON TECHNOLOGY INC
+iontech	"http://www.brite.com"	BRITE VOICE SYSTEMS INC
+iontech	"http://www.bbt.com"	BROADBAND TECHNOLOGIES INC
+iontech	"http://www.brooks-fiber.com"	BROOKS FIBER PROPERTIES INC
+iontech	"http://www.cnet.com"	C/NET INC
+iontech	"http://www.cablevision.com"	CABLEVISION SYSTEMS CORP
+iontech	"http://www.call-net.com"	CALL-NET ENTERPRISE
+iontech	"http://www.cbs.com"	CBS INC
+iontech	"http://www.chyron.com"	CHYRON CORP
+iontech	"http://www.cinbellinc.com"	CINCINNATI BELL INC
+iontech	"http://www.crlsystems.com"	CIRCUIT RESEARCH LABS INC
+iontech	"http://www.clearnet.com"	CLEARNET COMMUNICATIONS INC
+iontech	"http://www.cogn.com"	COGNITRONICS CORP
+iontech	"http://www.coherent.com"	COHERENT COMMUNICATIONS SYSTEMS CORP
+iontech	"http://www.comcast.com"	COMCAST CORP
+iontech	"http://www.comdial.com"	COMDIAL CORP
+iontech	"http://www.com-sys.com"	COMMUNICATIONS SYSTSEMS INC
+iontech	"http://www.clix.com"	COMPRESSION LABS INC
+iontech	"http://www.ctcnet.com"	COMPUTER TELEPHONE CORP
+iontech	"http://www.comsat.com"	COMSAT CORP
+iontech	"http://www.dbc.com"	DATA BROADCASTING CORP
+iontech	"http://www.datron.com"	DATRON SYSTEMS INC
+iontech	"http://www.datum.com"	DATUM INC
+iontech	"http://www.dialogic.com"	DIALOGIC CORP
+iontech	"http://www.dgtl.com"	DIGITAL SYSTEMS INTERNATIONAL INC
+iontech	"http://bis.dowjones.com"	DOW JONES & CO INC
+iontech	"http://www.dsccc.com"	DSC COMMUNICATIONS CORP
+iontech	"http://www.dnb.com"	DUN & BRADSTREET CORP 
+iontech	"http://www.echostar.com"	ECHOSTAR COMMUNICATION
+iontech	"http://www.telematics.com"	ECI TELECOM LTD
+iontech	"http://www.eisintl.com"	EIS INTERNATIONAL INC
+iontech	"http://www.lxe.com"	ELECTROMAGNETIC SCIENCES INC
+iontech	"http://www.etcia.com"	ELECTRONIC TELE COM INC
+iontech	"http://www.equalnet.com"	EQUALNET HOLDING CORP
+iontech	"http://www.equalnet.com"	EQUALNET HOLDING CORP
+iontech	"http://www.excite.com"	EXCITE
+iontech	"http://www.executone.com"	EXECUTONE INFORMATIONS SYSTEMS
+iontech	"http://www.ezcom.com"	EZ COMMUNICATIONS INC
+iontech	"http://www.fore.com"	FORE SYSTEMS INC
+iontech	"http://www.frontiercorp.com"	FRONTIER CORP
+iontech	"http://www.gdms.com"	GANNETT CO INC
+iontech	"http://www.gartner.com"	GARTNER GROUP
+iontech	"http://www.oprylandusa.com"	GAYLORD ENTERTAINMENT CO
+iontech	"http://www.gdc.com"	GENERAL DATACOMM INDUSTRIES
+iontech	"http://www.ge.com"	GENERAL ELECTRIC (NBC)
+iontech	"http://www.gi.com"	GENERAL INSTRUMENT CORP
+iontech	"http://www.gentner.com"	GENTNER COMMUNICATIONS CORP
+iontech	"http://www.glenayre.com"	GLENAYRE TECHNOLOGIES INC
+iontech	"http://www.ppv.com"	GRAFF PAY PER VIEW INC
+iontech	"http://info.gte.com"	GTE CORP
+iontech	"http://www.harbinger.com"	HARBINGER CORP
+iontech	"http://www.harmonic-lightwaves.com"	HARMONIC LIGHTWAVES INC
+iontech	"http://www.idan.com"	IDAN SOFTWARE INDUSTRIES ISI L
+iontech	"http://www.incomnet.com"	INCOMNET INC
+iontech	"http://www.newspage.com"	INDIVIDUAL INC
+iontech	"http://www.infonautics.com"	INFONAUTICS CORP
+iontech	"http://www.infosafe.com"	INFOSAFE SYSTEMS INC
+iontech	"http://www.integ.com"	INTEGRAL SYSTEMS INC
+iontech	"http://www.inter-tel.com"	INTER TEL INC
+iontech	"http://www.intermedia.com"	INTERMEDIA COMMUNICATIONS
+iontech	"http://www.cabletel.com"	INTERNATIONAL CABLETEL INC
+iontech	"http://www.cabletel.com"	INTERNATIONAL CABLETEL INC
+iontech	"http://www.ieib.com"	INTERNATIONAL ELECTRONICS INC
+iontech	"http://www.incc.net"	INTERNET COMMUNICATIONS
+iontech	"http://www.intervoice.com"	INTERVOICE INC 
+iontech	"http://www.itginc.com"	INVESTMENT TECHNOLOGY GROUP INC
+iontech	"http://www.ipc.com"	IPC INFORMATIONS SYSTEMS INC
+iontech	"http://www.presslink.com"	KNIGHT-RIDDER INC
+iontech	"http://www.lci.com"	LCI INTERNATIONAL INC
+iontech	"http://www.lintv.com"	LIN TELEVISION CORP
+iontech	"http://www.ltec.net"	LINCOLN TELECOMMUNICATIONS CO
+iontech	"http://www.lodgenet.com"	LODGENET ENTERTAINMENT CORP
+iontech	"http://www.logicon.com"	LOGICON INC
+iontech	"http://www.lucent.com"	LUCENT TECHNOLOGIES
+iontech	"http://www.lucent.com"	LUCENT TECHNOLOGIES
+iontech	"http://www.lucent.com"	LUCENT TECHNOLOGIES INC
+iontech	"http://www.lycos.com"	LYCOS INC
+iontech	"http://www.mastec.com"	MASTEC INC
+iontech	"http://www.mei.co.jp"	Matsushita Electric Industrial CO.,LTD.
+iontech	"http://www2.nando.net"	MCCLATCHY NEWSPAPER CORP
+iontech	"http://www.mcgraw-hill.com"	MCGRAW-HILL CO
+iontech	"http://www.mci.com"	MCI COMMUNICATIONS CORP
+iontech	"http://www.merrillcorp.com"	MERRILL CORP
+iontech	"http://www.metricom.com"	METRICOM INC
+iontech	"http://www.metrocall.com"	METROCALL INC
+iontech	"http://www.mvtv.com"	METROVISION OF NORTH AMERICA INC
+iontech	"http://www.mfsdatanet.com"	MFS COMMUNICATIONS INC
+iontech	"http://www.midcom.com"	MIDCOM COMMUNICATIONS INC
+iontech	"http://www.skytel.com"	MOBILE TELECOMM TECH CORP
+iontech	"http://www.mobilemedia.com"	MOBILEMEDIA CORP
+iontech	"http://www.nec.com"	NEC CORP
+iontech	"http://nytsyn.com"	NEW YORK TIMES CO
+iontech	"http://www.newbridge.com"	NEWBRIDGE NETWORKS CORP
+iontech	"http://www.nextel.com"	NEXTEL COMMUNICATIONS INC
+iontech	"http://www.ntt.jp"	Nippon Telegraph and Telephone Corp
+iontech	"http://www.nokia.com"	NOKIA CORP
+iontech	"http://www.norstan.com"	NORSTAN INC
+iontech	"http://www.nortel.com"	NORTHERN TELECOM LTD
+iontech	"http://www.nuko.com"	NUKO INFORMATION SYSTEMS
+iontech	"http://www.niyp.com"	NYNEX CORP
+iontech	"http://www.octel.com"	OCTEL COMMUNICATIONS CORP
+iontech	"http://www.ossinc.net"	ONLINE SYSTEMS SERVICES
+iontech	"http://www.optelecom.com"	OPTELECOM INC
+iontech	"http://www.occfiber.com"	OPTICAL CABLE CORP
+iontech	"http://www.orbital.com"	ORBITAL SCIENCES CORP
+iontech	"http://www.pactel.com"	PACIFIC TELESIS GROUP
+iontech	"http://www.pagenet.com"	PAGING NETWORK INC
+iontech	"http://www.paxson.com"	PAXSON COMMUNICATIONS CORP
+iontech	"http://www.pctv.com"	PEOPLE S CHOICE TV CORP
+iontech	"http://www.peoples.net"	PEOPLES TELEPHONE CO INC
+iontech	"http://www.pt.com"	PERFORMANCE TECHNOLOGIES INC
+iontech	"http://www.peri.com"	PERIPHONICS CORP
+iontech	"http://www.philips.com"	PHILIPS ELECTRONICS
+iontech	"http://www.piconet.com"	PICO PRODUCTS INC
+iontech	"http://www.talkpsi.com"	PRESICION SYSTEMS INC
+iontech	"http://www.indosat.go.id"	PT INDONESIAN SATELLITE CORP
+iontech	"http://www.qualcomm.com"	QUALCOMM INC
+iontech	"http://www.restor.com"	RESTOR INDUSTRIES INC
+iontech	"http://www.rogers-corp.com"	ROGERS CORP
+iontech	"http://www.sbc.com"	SBC COMMUNICATIONS INC
+iontech	"http://www.sciatl.com"	SCIENTIFIC-ATLANTA INC
+iontech	"http://www.smartel.com"	SMARTEL COMMUNICATIONS CORP
+iontech	"http://www.smartserv.com"	SMARTSERV ONLINE INC
+iontech	"http://www.spectralink.com"	SPECTRALINK CORP
+iontech	"http://www.spectravision.com"	SPECTRAVISION INC B
+iontech	"http://www.spectrian.com"	SPECTRIAN CORP
+iontech	"http://www.sprint.com"	SPRINT CORP
+iontech	"http://www.stel.com"	STANFORD TELECOMMUNICATIONS INC
+iontech	"http://www.tadiran.co.il"	TADIRAN TELECOMMUNICATIONS LTD
+iontech	"http://www.tcibr.com"	TCI INTERNATIONAL INC
+iontech	"http://www.teecomm.com"	TEE-COMM ELECTRONICS
+iontech	"http://www.tekelec.com"	TEKELEC
+iontech	"http://www.telco.com"	TELCO SYSTEMS INC
+iontech	"http://www.cpqd.br"	TELEBRAS BRAZILIAN TELECOMMUNICATINS
+iontech	"http://www.teldta.com"	TELEPHONE & DATA SYSTEMS INC
+iontech	"http://www.tcg.com"	TELEPORT COMMUNICATIONS GROUP INC
+iontech	"http://www.telesoft.com"	TELESOFT CORP
+iontech	"http://www.teletek.com"	TELETEK INC
+iontech	"http://www.tellabs.com"	TELLABS INC
+iontech	"http://www.teltronics.com"	TELTRONICS INC
+iontech	"http://www.telular.com"	TELULAR CORP
+iontech	"http://www.tessco.com"	TESSCO TECHNOLOGIES INC
+iontech	"http://www.tollgrade.com"	TOLLGRADE COMMUNICATIONS INC
+iontech	"http://www.turner.com"	TURNER BROADCASTING SYSTEM INC
+iontech	"http://www.uswest.com"	U S WEST INC
+iontech	"http://www.usld.com"	U.S. LONG DISTANCE CORP
+iontech	"http://www.uscc.net"	UNITED STATES CELLULAR CORP
+iontech	"http://www.uvsg.com"	UNITED VIDEO SATELLITE GROUP INC
+iontech	"http://www.vband.com"	V BAND CORP
+iontech	"http://www.venturian.com"	VENTURIAN CORP
+iontech	"http://www.viacom.com"	VIACOM INC
+iontech	"http://www.vocaltec.com"	VOCALTEC LTD
+iontech	"http://www.vodavi.com"	VODAVI TECHNOLOGIES
+iontech	"http://www.vtel.com"	VOICE IT WORLDWIDE INC
+iontech	"http://www.timetool.com"	VTEL CORP
+iontech	"http://www.warp10.com"	WARP 10 TECHNOLOGIES INC
+iontech	"http://www.newsservice.com"	WASHINGTON POST
+iontech	"http://www.wavephore.com"	WAVEPHORE INC
+iontech	"http://www.westcott.com"	WESTCOTT COMMUNICATIONS INC
+iontech	"http://www.westell.com"	WESTELL TECH
+iontech	"http://www.westinghouse.com"	WESTINGHOUSE ELECTRIC CORP
+iontech	"http://www.wcom.com"	WORLDCOM INC
+iontech	"http://www.xpedite.com"	XPEDITE SYSTEMS INC
+iontech	"http://yahoo.com"	YAHOO INC
+iontech	"http://www.3d.com"	3D SYSTEMS CORP
+iontech	"http://www.acti.com"	ACT NETWORKS INC
+iontech	"http://www.avoice.com"	ACTIVE VOICE CORP
+iontech	"http://www.acxiom.com"	ACXIOM CORP
+iontech	"http://www.asi.com"	ADAPTIVE SOLUTIONS INC
+iontech	"http://www.alr.com"	ADVANCED LOGIC RESEARCH INC
+iontech	"http://www.alantec.com"	ALANTEC CORP
+iontech	"http://www.systematics.com"	ALLTEL CORP
+iontech	"http://www.alphamicro.com"	ALPHA MICROSYSTEMS
+iontech	"http://www.alpharel.com"	ALPHAREL INC
+iontech	"http://www.amdahl.com"	AMDAHL CORP
+iontech	"http://www.aol.com"	AMERICA ONLINE INC
+iontech	"http://www.ancor.com"	ANCOR COMMUNICATIONS
+iontech	"http://www.apple.com"	APPLE COMPUTER INC
+iontech	"http://www.actc.com"	APPLIED COMPUTER TECHNOLOGY INC
+iontech	"http://www.agtnet.com"	APPLIED GRAPHICS TECHNOLOGIES
+iontech	"http://www.agquote.com"	ARI NETWORK SERVICES INC
+iontech	"http://www.ariel.com"	ARIEL CORP
+iontech	"http://www.asante.com"	ASANTE TECHNOLOGIES INC
+iontech	"http://www.ascend.com:80"	ASCEND COMMUNICATIONS
+iontech	"http://www.ast.com"	AST RESEARCH INC
+iontech	"http://www.astro-med.com"	ASTRO-MED INC
+iontech	"http://www.auspex.com"	AUSPEX SYSTEMS INC
+iontech	"http://www.avid.com"	AVID TECHNOLOGY INC
+iontech	"http://www.boscom.com"	B O S BETTER ONLINE SOLUTIONS
+iontech	"http://www.barrister.com"	BARRISTER INFORMATION SYSTEMS
+iontech	"http://www.baynetworks.com"	BAY NETWORKS INC
+iontech	"http://www.bellind.com"	BELL INDUSTRIES INC
+iontech	"http://www.sddt.com"	BIOMAGNETIC TECHNOLOGIES INC
+iontech	"http://www.bitwise.com"	BITWISE DESIGNS INC
+iontech	"http://www.blackbox.com"	BLACK BOX CORP
+iontech	"http://www.boca.org"	BOCA RESEARCH INC
+iontech	"http://www.bbn.com"	BOLT BERANEK & NEWMAN INC
+iontech	"http://www.brooktrout.com"	BROOKTROUT TECHNOLOGY
+iontech	"http://www.btg.com"	BTG INC
+iontech	"http://www.brcp.com"	BUSINESS RECORDS CORP HOLDING
+iontech	"http://www.ctron.com"	CABLETRON SYSTEMS INC
+iontech	"http://www.casc.com"	CASCADE COMMUNICATION
+iontech	"http://www.cdw.com"	CDW COMPUTER CENTERS INC
+iontech	"http://www.cent-tech.com"	CENTENNIAL TECHNOLOGIES INC 
+iontech	"http://www.centigram.com"	CENTIGRAM COMM CORP
+iontech	"http://www.cerplex.com"	CERPLEX GROUP INC
+iontech	"http://www.checkpoint.com"	CHECKPOINT SYSTEMS INC
+iontech	"http://www.cisco.com"	CISCO SYSTEMS INC
+iontech	"http://www.cognex.com"	COGNEX CORP
+iontech	"http://www.comdisco.com"	COMDISCO INC
+iontech	"http://www.compaq.com"	COMPAQ COMPUTER CORP
+iontech	"http://www.compucom.com"	COMPUCOM SYSTEMS INC
+iontech	"http://www.compusa.com"	COMPUSA INC
+iontech	"http://www.compsys.com"	COMPUTATIONAL SYSTEMS INC
+iontech	"http://www.cdsihq.com"	COMPUTER DATA SYSTEMS INC
+iontech	"http://www.mkpl.com"	COMPUTER MARKETPLACE
+iontech	"http://www.cnt.com"	COMPUTER NETWORK TECH CORP
+iontech	"http://www.csc.com"	COMPUTER SCIENCES CORP
+iontech	"http://www.computone.com"	COMPUTONE CORP
+iontech	"http://www.ctinc.com"	COMPUTRAC INC
+iontech	"http://www.ccur.com"	CONCURRENT COMPUTER CORP
+iontech	"http://www.conner.com"	CONNER PERIPHERALS INC
+iontech	"http://www.cdc.com"	CONTROL DATA SYSTEMS
+iontech	"http://www.corestaff.com"	CORESTAFF INC
+iontech	"http://www.corimage.com"	CORNERSTONE IMAGING INC
+iontech	"http://www.cray.com"	CRAY RESEARCH INC
+iontech	"http://www.creativecomputers.com"	CREATIVE COMPUTERS INC
+iontech	"http://www.crosscomm.com"	CROSSCOM CORP
+iontech	"http://www.cybex.com"	CYBEX CORP
+iontech	"http://www.cylink.com"	CYLINK CORP
+iontech	"http://www.damark.com"	DAMARK INTERNATIONAL INC
+iontech	"http://www.dg.com"	DATA GENERAL CORP
+iontech	"http://www.ctronsoft.com"	DATA RACE INC
+iontech	"http://www.datasystems.com"	DATA SYSTEMS NETWORK
+iontech	"http://www.datx.com"	DATA TRANSLATION INC
+iontech	"http://www.dataflex.com"	DATAFLEX CORP
+iontech	"http://www.datakey.com"	DATAKEY INC
+iontech	"http://www.datametrics.com"	DATAMETRICS CORP
+iontech	"http://www.datapoint.com"	DATAPOINT CORP
+iontech	"http://www.dataram.com"	DATARAM CORP
+iontech	"http://www.dataworks.com"	DATAWORKS CORP
+iontech	"http://www.davox.com"	DAVOX CORP
+iontech	"http://www.dba-sys.com"	DBA SYSTEMS INC
+iontech	"http://www.dell.com"	DELL COMPUTER CORP
+iontech	"http://www.desktopdata.com"	DESKTOP DATA INC
+iontech	"http://www.dhtech.com"	DH TECHNOLOGY INC
+iontech	"http://www.diamondmm.com"	DIAMOND MULTIMEDIA SYSTEMS INC
+iontech	"http://www.digibd.com"	DIGI INTERNATIONAL INC
+iontech	"http://www.digicon.com"	DIGICON INC
+iontech	"http://www.digital.com"	DIGITAL EQUIPMENT CORP
+iontech	"http://www.dl.com"	DIGITAL LINK CORP
+iontech	"http://www.solon.com"	DIGITAL SOLUTIONS INC
+iontech	"http://www.dsc.com"	DIGITAL SOUND CORP
+iontech	"http://www.discreet.com"	DISCREET LOGIC INC
+iontech	"http://www.dynatech.com"	DYNATECH CORP
+iontech	"http://www.eccs.com"	ECCS INC
+iontech	"http://www.eds.com"	ELECTRONIC DATA SYSTEMS CORP
+iontech	"http://www.efi.com"	ELECTRONICS FOR IMAGI NG INC
+iontech	"http://www.elek-tek.com"	ELEK TEK INC
+iontech	"http://www.elek-tek.com"	ELEK TEK INC
+iontech	"http://www.eltrax.com"	ELTRAX SYSTEMS INC
+iontech	"http://www.eltron.com"	ELTRON INTERNATIONAL INC
+iontech	"http://www.emc.com"	EMC CORP
+iontech	"http://www.encad.com"	ENCAD INC
+iontech	"http://www.encore.com"	ENCORE COMPUTER CORP
+iontech	"http://www.equifax.com"	EQUIFAX INC
+iontech	"http://www.equinox.com"	EQUINOX SYSTEMS INC
+iontech	"http://www.equitrac.com"	EQUITRAC CORP
+iontech	"http://www.euphonix.com"	EUPHONIX INC
+iontech	"http://www.es.com"	EVANS & SUTHERLAND COMPUTER
+iontech	"http://www.exabyte.com"	EXABYTE CORP
+iontech	"http://www.farallon.com"	FARALLON COMMUNICATIONS
+iontech	"http://www.fastcomm.com"	FASTCOMM COMMUNICATIONS CORP
+iontech	"http://www.filenet.com"	FILENET CORP
+iontech	"http://www.findsvp.com"	FIND SVP INC
+iontech	"http://www.gw2k.com"	GATEWAY 2000 INC
+iontech	"http://www.genauto.com"	GENERAL AUTOMATION INC
+iontech	"http://www.genicom.com"	GENICOM CORP
+iontech	"http://www.glasgal.com"	GLASGAL COMMUNICATIONS INC
+iontech	"http://www.globalvillag.com"	GLOBAL VILLAGE COMMUNICATIONS INC
+iontech	"http://www.hcsc.com"	HARRIS COMPUTER SYSTEMS CORP
+iontech	"http://www.hboc.com"	HBO & CO
+iontech	"http://www.hds.com"	HDS NETWORK SYSTEMS INC
+iontech	"http://www.helisys.com"	HELISYS INC
+iontech	"http://www.hp.com"	HEWLETT-PACKARD CO
+iontech	"http://www.hmtt.com"	HMT TECHNOLOGY CORP
+iontech	"http://www.iac.honeywell.com"	HONEYWELL INC
+iontech	"http://www.isgtec.com"	I.S.G. TECHNOLOGIES INC
+iontech	"http://www.idt.com"	IDT CORP
+iontech	"http://www.imnet.com"	IMNET SYSTEMS INC
+iontech	"http://www.infocus.com"	IN FOCUS SYSTEMS INC
+iontech	"http://www.inacom.com"	INACOM CORP
+iontech	"http://www.inmac.com"	INMAC CORP
+iontech	"http://www.inod.com"	INNODATA CORP
+iontech	"http://www.insight.com"	INSIGHT ENTERPRISES INC
+iontech	"http://www.intelect.com"	INTELLIGENT ELECTRONICS INC
+iontech	"http://www.intergraph.com"	INTERGRAPH CORP
+iontech	"http://www.ibm.com"	INTERNAT BUSINESS MACHINES
+iontech	"http://www.ilts.com"	INTERNATIONAL LOTTERY & TOTALIZATOR SYSTEMS
+iontech	"http://www.iomega.com"	IOMEGA CORP
+iontech	"http://www.iplsys.com"	IPL SYSTEMS INC
+iontech	"http://www.jci.com"	JOHNSON CONTROLS INC
+iontech	"http://www.keane.com"	KEANE INC
+iontech	"http://www.komag.com"	KOMAG INC
+iontech	"http://www.kronos.com"	KRONOS INC
+iontech	"http://www.kurz-ai.com"	KURZWEIL APPLIED INTELLIGENCE
+iontech	"http://www.lgc.com"	LANDMARK GRAPHICS CORP
+iontech	"http://www.lanoptics.com"	LANOPTICS LTD
+iontech	"http://www.lanvision.com"	LANVISION SYSTEMS INC
+iontech	"http://www.lasergate.com"	LASERGATE SYSTEMS INC
+iontech	"http://www.lasermaster.com"	LASERMASTER TECHNOLOGIES INC
+iontech	"http://www.lexmark.com"	LEXMARK INTERNATIONAL INC
+iontech	"http://www.liuski.com"	LIUSKI INTERNATIONAL INC
+iontech	"http://www.loronix.com"	LORONIX INFORMATION SYSTEMS INC
+iontech	"http://www.lxe.com"	LXE INC
+iontech	"http://www.madge.com"	MADGE NETWORKS N.V.
+iontech	"http://www.maisystems.com"	MAI SYSTEMS CORP
+iontech	"http://www.maxtor.com"	MAXTOR CORP
+iontech	"http://www.measurex.com"	MEASUREX CORP
+iontech	"http://www.medialogic.com"	MEDIA LOGIC INC
+iontech	"http://www.mediware.com"	MEDIWARE INFORMATION SYSTEMS I
+iontech	"http://www.mtc.com"	MEMOREX TELEX NV
+iontech	"http://www.mentorg.com"	MENTOR GRAPHICS CORP
+iontech	"http://www.meridian-data.com"	MERIDIAN DATA INC
+iontech	"http://www.merisel.com"	MERISEL INC
+iontech	"http://www.metagroup.com"	META GROUP INC
+iontech	"http://www.metatec.com"	METATEC CORP
+iontech	"http://www.micom.com"	MICOM COMMUNICATIONS
+iontech	"http://www.miworld.com"	MICRO-INTEGRATION CORP
+iontech	"http://www.warehouse.com"	MICRO WAREHOUSE INC
+iontech	"http://www.mid.com"	MICROAGE INC
+iontech	"http://www.microcom.com"	MICROCOM INC
+iontech	"http://www.mcdy.com"	MICRODYNE CORP
+iontech	"http://www.microfield.com"	MICROFIELD GRAPHICS INC
+iontech	"http://www.microframe.com"	MICROFRAME INC
+iontech	"http://www.micron.com"	MICRON ELECTRONICS INC
+iontech	"http://www.microp.com"	MICROPOLIS CORP
+iontech	"http://www.microtouch.com"	MICROTOUCH SYSTEMS INC
+iontech	"http://www.miltope.com"	MILTOPE GROUP INC
+iontech	"http://www.mizarinc.com"	MIZAR INC
+iontech	"http://www.moore.com"	MOORE CORP LTD
+iontech	"http://www.mti.com"	MTI TECHNOLOGY CORP
+iontech	"http://www.mts.com"	MTS SYSTEMS CORP
+iontech	"http://www.ncs.com"	NATIONAL COMPUTER SYSTEMS INC
+iontech	"http://www.nrid.com"	NATIONAL REGISTRY INC
+iontech	"http://www.nec.com"	NEC Corp
+iontech	"http://www.nematron.com"	NEMATRON CORP
+iontech	"http://www.netcom.com"	NETCOM ON-LINE COMMUNICATION SERVICES
+iontech	"http://www.netframe.com"	NETFRAME SYSTEMS INC
+iontech	"http://www.netrix.com"	NETRIX CORP
+iontech	"http://www.netstar.com"	NETSTAR INC
+iontech	"http://www.ncd.com"	NETWORK COMPUTING DEVICES
+iontech	"http://www.net.com"	NETWORK EQUIPMENT TECHNOLOGIES
+iontech	"http://www.net.com"	NETWORK EQUIPMENT TECHNOLOGIES
+iontech	"http://www.ngc.com"	NETWORK GENERAL CORP
+iontech	"http://www.netimage.com"	NETWORK IMAGING CORP
+iontech	"http://www.nview.com"	NVIEW CORP
+iontech	"http://www.odetics.com"	ODETICS CLASS A
+iontech	"http://wwwofficemax.com"	OFFICEMAX INC
+iontech	"http://www.ods.com"	OPTICAL DATA SYSTEMS INC
+iontech	"http://www.ovid.com"	OVID TECHNOLOGIES INC
+iontech	"http://www.archistrat.com"	PANDA PROJECT INC
+iontech	"http://www.partech.com"	PAR TECHNOLOGY CORP
+iontech	"http://www.pcdocs.com"	PC DOCS GROUP INTERNATIONAL INC
+iontech	"http://www.penril.com"	PENRIL DATACOMM NETWORKS INC
+iontech	"http://www.percon.com"	PERCON INC
+iontech	"http://www.staruni.com"	PERFECTDATA CORP
+iontech	"http://www.psi.net"	PERFORMANCE SYST INTL INC
+iontech	"http://www.perle.com"	PERLE SYSTEMS LTD
+iontech	"http://www.phamis.com"	PHAMIS INC
+iontech	"http://www.picturetel.com"	PICTURETEL CORP
+iontech	"http://www.pinnaclemicro.com"	PINNACLE MICRO INC
+iontech	"http://www.pinnacle.com"	PINNACLE SYSTEMS INC
+iontech	"http://www.pixtech.com"	PIXTECH INC
+iontech	"http://www.planar.com"	PLANAR SYSTEMS INC
+iontech	"http://www.pomeroy.com"	POMEROY COMPUTER RESOURCES INC
+iontech	"http://www.p21.com"	PROPHET 21 INC
+iontech	"http://www.proteon.com"	PROTEON INC
+iontech	"http://www.protosource.com"	PROTOSOURCE CORP
+iontech	"http://www.proxim.com"	PROXIM INC
+iontech	"http://www.proxima.com"	PROXIMA CORP
+iontech	"http://www.pscnet.com"	PSC INC
+iontech	"http://www.sddt.com"	PYXIS CORP
+iontech	"http://www.qms.com"	QMS INC
+iontech	"http://www.qsound.com"	QSOUND LABS INC
+iontech	"http://www.quantum.com"	QUANTUM CORP
+iontech	"http://www.racotek.com"	RACOTEK INC
+iontech	"http://www.radisys.com"	RADISYS CORP
+iontech	"http://www.radius.com"	RADIUS INC
+iontech	"http://www.rnbo.com"	RAINBOW TECHNOLOGIES INC
+iontech	"http://www.retix.com"	RETIX
+iontech	"http://www.dealernet.com"	REYNOLDS & REYNOLDS CO
+iontech	"http://www.robec.com"	ROBEC INC
+iontech	"http://www.sandisk.com"	SANDISK CORP
+iontech	"http://www.scangraphics.com"	SCAN-GRAPHICS INC
+iontech	"http://www.scitex.com"	SCITEX CORP LTD
+iontech	"http://www.seagate.com"	SEAGATE TECHNOLOGY
+iontech	"http://www.securid.com"	SECURITY DYNAMICS TECHNOLOGIES
+iontech	"http://www.sequent.com"	SEQUENT COMPUTER SYSTEMS INC
+iontech	"http://www.sequoia.com"	SEQUOIA SYSTEMS INC
+iontech	"http://www.shiva.com"	SHIVA CORP
+iontech	"http://www.sigmadesigns.com"	SIGMA DESIGNS INC
+iontech	"http://www.sgi.com"	SILICON GRAPHICS INC
+iontech	"http://www.socketcom.com"	SOCKET COMMUNICATIONS
+iontech	"http://www.softech.com"	SOFTECH INC
+iontech	"http://www.softnet.com"	SOFTNET SYSTEMS INC
+iontech	"http://www.soligen.com"	SOLIGEN TECHNOLOGIES INC
+iontech	"http://www.sonic.com"	SONIC SOLUTIONS
+iontech	"http://www.spanlink.com"	SPANLINK COMMUNICATIONS
+iontech	"http://www.smc.com"	STANDARD MICROSYSTEMS CORP
+iontech	"http://www.stb.com"	STB SYSTEMS INC
+iontech	"http://www.storage.com"	STORAGE COMPUTER CORP
+iontech	"http://www.stortek.com"	STORAGE TECHNOLOGY CORP
+iontech	"http://www.stratacom.com"	STRATACOM INC
+iontech	"http://www.stratus.com"	STRATUS COMPUTER INC
+iontech	"http://www.sulcus.com"	SULCUS COMPUTER CORP
+iontech	"http://www.summagraphics.com"	SUMMAGRAPHICS CORP
+iontech	"http://www.sun.com"	SUN MICROSYSTEMS INC
+iontech	"http://www.sungard.com"	SUNGARD DATA SYSTEMS INC
+iontech	"http://www.sunquest.com"	SUNQUEST INFO SYSTEMS
+iontech	"http://www.sunriver.com"	SUNRIVER CORP
+iontech	"http://www.symbol.com"	SYMBOL TECHNOLOGIES INC
+iontech	"http://www.sync.com"	SYNC RESEARCH INC
+iontech	"http://www.syntellect.com"	SYNTELLECT INC
+iontech	"http://www.syquest.com"	SYQUEST TECHNOLOGY INC
+iontech	"http://www.tandem.com"	TANDEM COMPUTERS INC
+iontech	"http://www.tesi.com"	TANGRAM ENTERPRISE SOLUTIONS INC
+iontech	"http://www.techforce.com"	TECHFORCE CORP
+iontech	"http://www.telebit.com"	TELEBIT CORP
+iontech	"http://www.telechips.com"	TELECHIPS CORP
+iontech	"http://www.telxon.com"	TELXON CORP
+iontech	"http://www.tera.com"	TERA COMPUTER CO
+iontech	"http://www.3com.com"	THREE COM CORP
+iontech	"http://www.thrustmaster.com"	THRUSTMASTER INC
+iontech	"http://www.titan.com"	TITAN CORP
+iontech	"http://www.tsidss.com"	TRANSITION SYSTEMS INC
+iontech	"http://www.transnet.com"	TRANSNET CORP
+iontech	"http://www.triad.com"	TRIAD SYSTEMS CORP
+iontech	"http://www.tricord.com"	TRICORD SYSTEMS INC
+iontech	"http://www.trinitech.com"	TRINITECH SYSTEMS INC
+iontech	"http://www.truevision.com"	TRUEVISION INC
+iontech	"http://www.usr.com"	U.S. ROBOTICS CORP
+iontech	"http://www.ultradata.com"	ULTRADATA CORP
+iontech	"http://www.unicomp.net"	UNICOMP INC
+iontech	"http://www.unisys.com"	UNISYS CORP
+iontech	"http://www.uu.net"	UUNET TECHNOLOGIES INC
+iontech	"http://www.vanstar.com"	VANSTAR CORP
+iontech	"http://www.flexcam.com"	VIDEOLABS INC
+iontech	"http://www.videonics.com"	VIDEOONICS INC
+iontech	"http://www.videoserver.com"	VIDEOSERVER INC
+iontech	"http://www.visio.com"	VISIO CORP
+iontech	"http://www.vistainfo.com"	VISTA INFORMATION SOLUTIONS INC
+iontech	"http://www.volt.com"	VOLT INFORMATION SCIENCES INC
+iontech	"http://www.vsin.com"	VSI ENTERPRISES INC
+iontech	"http://www.wg.com"	WANDEL & GOLTERMANN TECHNOLOGIES
+iontech	"http://www.wang.com"	WANG LABORATORIES INC
+iontech	"http://www.wavetech.com"	WAVE TECHNOLOGIES INTERNATIONAL INC
+iontech	"http://www.wdc.com"	WESTERN DIGITAL CORP
+iontech	"http://www.worldtalk.com"	WORLDTALK COMMUNICATIONS CORP
+iontech	"http://www.wyle.com"	WYLE ELECTRONICS
+iontech	"http://www.xircom.com"	XIRCOM INC
+iontech	"http://www.xscribe.com"	XSCRIBE CORP
+iontech	"http://www.xylan.com"	XYLAN
+iontech	"http://www.xylogics.com"	XYLOGICS INC
+iontech	"http://www.zebra.com"	ZEBRA TECHNOLOGIES CORP A
+iontech	"http://www.zds.com"	ZENITH ELECTRONICS CORP
+iontech	"http://www.zds.com"	ZENITH ELECTRONICS CORP
+iontech	"http://www.zitel.com"	ZITEL CORP
+iontech	"http://www.zoomtel.com"	ZOOM TELEPHONICS INC
+iontech	"http://www.zycad.com"	ZYCAD CORP
+iontech	"http://www.abiomed.com"	ABIOMED INC
+iontech	"http://www.acuson.com"	ACUSON CORP
+iontech	"http://www.adac.com"	ADAC LABORATORIES
+iontech	"http://www.audiovox.com"	ADIOVOX CORP
+iontech	"http://www.ally.com"	ALLIANCE GAMING CORP
+iontech	"http://www.apcc.com"	AMERICAN POWER CONVERSION CORP
+iontech	"http://www.hifi.com"	CAMBRIDGE SOUDWORKS INC
+iontech	"http://www.campo.com"	CAMPO ELECTRONICS APPLIANCES
+iontech	"http://www.carver.com"	CARVER CORP
+iontech	"http://www.circuitcity.com"	CIRCUIT CITY STORES INC
+iontech	"http://www.cohr.com"	COHERENT INC
+iontech	"http://www.cohr-inc.com"	COHR INC
+iontech	"http://www.compumed.com"	COMPUMED INC
+iontech	"http://www.cyberoptics.com"	CYBEROPTICS CORP
+iontech	"http://www.diebold.com"	DIEBOLD INC
+iontech	"http://www.dionex.com"	DIONEX CORP
+iontech	"http://www.eipm.com"	EIP MICROWAVE INC
+iontech	"http://www.bailey.ca"	ELSAG BAILEY PROCESS AUTOMATION
+iontech	"http://www.firstalert.com"	FIRST ALERT INC
+iontech	"http://www.fusa.com"	FIRST USA PAYMENTECH INC
+iontech	"http://www.fischerimaging.com"	FISCHER IMAGING CORP
+iontech	"http://www.Fisher1.com"	FISHER SCIENTIFIC INTERNATIONAL
+iontech	"http://www.fluke.com"	FLUKE CORP
+iontech	"http://www.fonar.com"	FONAR CORP
+iontech	"http://www.gensig.com"	GENERAL SIGNAL
+iontech	"http://www.genrad.com"	GENRAD INC
+iontech	"http://www.thegoodguys.com"	GOOD GUYS INC
+iontech	"http://www.hitachi.com"	HITACHI LTD
+iontech	"http://www.hologic.com"	HOLOGIC INC
+iontech	"http://www.i-stat.com"	I STAT CORP
+iontech	"http://www.impath.com"	IMPATH INC
+iontech	"http://www.indsci.com"	INDUSTRIAL SCIENTIFIC CORP
+iontech	"http://www.inotek.com"	INOTEK TECHNOLOGIES CORP
+iontech	"http://www.isco.com"	ISCO INC
+iontech	"http://www.ittinfo.com"	ITT CORP
+iontech	"http://www.jmar.com"	JMAR INDUSTRIES INC
+iontech	"http://www.keithley.com"	KEITHLEY INSTRUMENTS INC
+iontech	"http://www.kollmorgen.com"	KOLLMORGEN CORP
+iontech	"http://www.koss.com"	KOSS CORP
+iontech	"http://www.kvh.com"	KVH INDUSTRIES INC
+iontech	"http://www.lasertech.com"	LASER TECHNOLOGY INC
+iontech	"http://www.laser-vision.com"	LASER VISION CENTERS INC
+iontech	"http://www.littoncorp.com"	LITTON INDUSTRIES INC
+iontech	"http://www.lowrance.com"	LOWRANCE ELECTRONICS INC
+iontech	"http://www.lunarcorp.com"	LUNAR CORP
+iontech	"http://www.mei.com"	MARQUETTE ELECTRONICS INC
+iontech	"http://www.scubed.com"	MAXWELL LABS INC
+iontech	"http://www.medtronic.com"	MEDTRONIC INC
+iontech	"http://www.newport.com"	NEWPORT CORP
+iontech	"http://www.norriscomm.com"	NORRIS COMMUNICATIONS
+iontech	"http://www.novametrix.com"	NOVAMETRIX MEDICAL SYSTEMS INC
+iontech	"http://www.parkervision.com"	PARKERVISION INC
+iontech	"http://www.perkin-elmer.com"	PERKIN-ELMER CORP
+iontech	"http://www.pioneer.co.jp"	PIONEER ELECTRONIC CORP
+iontech	"http://www.pitneybowes.com"	PITNEY BOWES INC
+iontech	"http://www.fireburg.com"	PITTWAY CORP
+iontech	"http://www.polaroid.com"	POLAROID CORP
+iontech	"http://www.polkaudio.com"	POLK AUDIO INC
+iontech	"http://www.polycom.com"	POLYCOM INC
+iontech	"http://www.powell.com"	POWELL INDUCTRIES INC
+iontech	"http://www.pptvision.com"	PPT VISION INC
+iontech	"http://www.protocol.com"	PROTOCOL SYSTEMS INC
+iontech	"http://www.quad-sys.com"	QUAD SYSTEMS CORP
+iontech	"http://www.raytheon.com"	RAYTHEON CO
+iontech	"http://www.resound.com"	RESOUND CORP
+iontech	"http://www.rfpp.com"	RF POWER PRODUCTS INC
+iontech	"http://www.rfpp.com"	RF POWER PRODUCTS INC
+iontech	"http://www.rockwell.com"	ROCKWELL INTERNATIONAL
+iontech	"http://www.slb.com"	SCHLUMBERGER LTD
+iontech	"http://www.sensormatic.com"	SENSORMATIC ELECTRONICS CORP
+iontech	"http://www.sentex.com"	SENTEX SENSING TECHNOLOGY INC
+iontech	"http://www.sony.com"	Sony Corporation
+iontech	"http://www.staodyn.com"	STAODYN INC
+iontech	"http://www.summit.com"	SUMMIT TECHNOLOGY INC
+iontech	"http://www.tandy.com"	TANDY CORP
+iontech	"http://www.tek.com"	TEKTRONIX INC
+iontech	"http://www.3do.com"	THE 3DO CO
+iontech	"http://www.thermo.com"	THERMO ELECTRON CORP
+iontech	"http://www.ti.com"	THERMO INSTRUMENT SYSTEMS INC
+iontech	"http://www.sddt.com"	THERMOTREX CORP
+iontech	"http://www.thermwood.com"	THERMWOOD CORP
+iontech	"http://www.trimble.com"	TRIMBLE NAVIGATION LTD
+iontech	"http://www.tsi.com"	TSI INC
+iontech	"http://www.ultradata.com"	ULTRADATA SYSTEMS INC
+iontech	"http://www.varian.com"	VARIAN ASSOCIATES INC
+iontech	"http://www.verifone.com"	VERIFONE INC
+iontech	"http://www.voxel.com"	VOXEL
+iontech	"http://www.whittaker.com"	WHITTAKER CORP
+iontech	"http://www.xrite.com"	X RITE INC
+iontech	"http://www.xeno.com"	XENOMETRIX INC
+iontech	"http://www.xerox.com"	XEROX CORP
+iontech	"http://www.zygo.com"	ZYGO CORP
+iontech	"http://www.aavid.com"	AAVID THERMAL TECHNOLOGIES INC
+iontech	"http://www.adaptec.com"	ADAPTEC INC
+iontech	"http://www.delevan.com"	AMERICAN PRECISION INDUSTRIES INC
+iontech	"http://www.amistar.com"	AMISTAR CORP
+iontech	"http://www.amp.com"	AMP INC
+iontech	"http://www.anixter.com"	ANIXTER INTERNATIONAL INC
+iontech	"http://www.avnet.com"	AVNET INC
+iontech	"http://www.batterytech.com"	BATTERY TECHNOLOGIES INC
+iontech	"http://www.bellmicro.com"	BELL MICROPRODUCTS INC
+iontech	"http://www.bergelect.com"	BERG ELECTRONICS CORP
+iontech	"http://www.ciprico.com"	CIPRICO INC
+iontech	"http://www.cor.com"	CORCOM INC
+iontech	"http://www.creaf.com"	CREATIVE TECHNOLOGY LTD
+iontech	"http://www.ctscorp.com"	CTS CORP
+iontech	"http://www.duracell.com"	DURACELL INTERNATIONAL INC
+iontech	"http://www.flextronics.com"	FLEXTRONICS INTERNATIONAL LTD
+iontech	"http://www.grtk.com"	GROUP TECHNOLOGIES CORP
+iontech	"http://www.hadco.com:8080"	HADCO CORP
+iontech	"http://www.harris.com"	HARRIS CORP
+iontech	"http://www.interlinkelec.com"	INTERLINK ELECTRONICS 
+iontech	"http://www.iphase.com"	INTERPHASE CORP
+iontech	"http://www.kentelec.com"	KENT ELECTRONICS CORP
+iontech	"http://www.marshall.com"	MARSHALL INDUSTRIES
+iontech	"http://www.merix.com"	MERIX CORP
+iontech	"http://www.methode.com"	METHODE ELECTRONICS INC
+iontech	"http://www.micronics.com"	MICRONICS COMPUTERS INC
+iontech	"http://www.milgray.com"	MILGRAY ELECTRONICS INC
+iontech	"http://www.molex.com"	MOLEX INC
+iontech	"http://www.mylex.com"	MYLEX CORP
+iontech	"http://www.pios.com"	PIONEER STANDARD ELECTRONICS INC
+iontech	"http://www.plexus.com"	PLEXUS CORP
+iontech	"http://www.polyphase.com"	POLYPHASE CORP
+iontech	"http://www.pii.com"	PRAEGITZER INDUSTRIES
+iontech	"http://www.reptron.com"	REPTRON ELECTRONICS INC
+iontech	"http://www.rell.com"	RICHARDSON ELECTRONICS LTD
+iontech	"http://www.sbei.com"	SBE INC
+iontech	"http://www.sci.com"	SCI SYSTEMS INC
+iontech	"http://www.sterlink.com"	STERLING ELECTRONICS CORP
+iontech	"http://www.teradyne.com"	TERADYNE INC
+iontech	"http://www.tsx.com"	TSX CORP
+iontech	"http://www.utc.com"	U S TECHNOLOGIES INC
+iontech	"http://www.vicr.com"	VICOR CORP
+iontech	"http://www.westernmicro.com"	WESTERN MICROTECHNOLOGY INC
+iontech	"http://www.xetel.com"	XETEL CORP
+iontech	"http://www.zytec.grs.com"	ZYTEC CORP
+iontech	"http://www.actel.com"	ACTEL CORP
+iontech	"http://www.amd.com"	ADVANCED MICRO DEVICES INC
+iontech	"http://www.alsc.com"	ALLIANCE SEMICONDUCTOR CORP
+iontech	"http://www.altera.com"	ALTERA CORP
+iontech	"http://www.anadigics.com"	ANADIGICS INC
+iontech	"http://www.analog.com"	ANALOG DEVICES INC
+iontech	"http://www.appmat.com"	APPLIED MATERIALS INC
+iontech	"http://www.atmel.com"	ATMEL CORP
+iontech	"http://www.avanticorp.com"	AVANT! CORP
+iontech	"http://www.benchmarq.com"	BENCHMARQ MICROELECTRONICS INC
+iontech	"http://www.brooks.com"	BROOKS AUTOMATION INC
+iontech	"http://www.brooktree.com"	BROOKTREE CORP
+iontech	"http://www.btu.com"	BTU INTERNATIONAL INC
+iontech	"http://www.burr-brown.com"	BURR-BROWN CORP
+iontech	"http://www.c-cube.com"	C-CUBE MICROSYSTEMS INC
+iontech	"http://www.chips.com"	CHIPS & TECHNOLOGIES INC
+iontech	"http://www.cirrus.com"	CIRRUS LOGIC INC
+iontech	"http://www.cree.com"	CREE RESEARCH INC
+iontech	"http://www.cypress.com"	CYPRESS SEMICONDUCTOR CORP
+iontech	"http://www.cyrix.com"	CYRIX CORP
+iontech	"http://www.data-io.com"	DATA I/O CORP
+iontech	"http://www.dawtech.com"	DAW TECHNOLOGIES INC
+iontech	"http://www.diodes.com"	DIODES INC
+iontech	"http://www.dspis.co.il"	DSP COMMUNICATIONS INC
+iontech	"http://www.elantec.com"	ELANTEC SEMICONDUCTOR INC
+iontech	"http://www.elcsci.com"	ELECTRO SCIENTIFIC INDUSTRIES INC
+iontech	"http://www.electroglas.com"	ELECTROGLAS INC
+iontech	"http://www.etec.com"	ETEC SYSTEMS INC
+iontech	"http://www.exar.com"	EXAR CORP
+iontech	"http://www.fusn.com"	FUSION SYSTEMS CORP
+iontech	"http://www.idt.com"	INTEGRATED DEVICE TECHNOLOGY INC
+iontech	"http://www.prnewswire.com"	INTEGRATED SILICON SOLUTION
+iontech	"http://www.intel.com"	INTEL CORP
+iontech	"http://www.irf.com"	INTERNATIONAL RECTIFIER CORP
+iontech	"http://www.irvine-sensors.com"	IRVINE SENSORS CORP
+iontech	"http://www.kns.com"	KULICKE & SOFFA INDUSTRIES INC
+iontech	"http://www.lamrc.com"	LAM RESEARCH CORP
+iontech	"http://www.latticesemi.com"	LATTICE SEMICONDUCTOR CORP
+iontech	"http://www.level1.com"	LEVEL ONE COMMUNICATIONS INC
+iontech	"http://www.logicdevices.com"	LOGIC DEVICES INC
+iontech	"http://www.lsilogic.com"	LSI LOGIC CORP
+iontech	"http://www.ltx.com"	LTX CORP
+iontech	"http://www.mattson.com"	MATTSON TECHNOLOGY INC
+iontech	"http://www.mxim.com"	MAXIM INTEGRATED PRODUCTS INC
+iontech	"http://www.microchip.com"	MICROCHIP TECHNOLOGY INC
+iontech	"http://www.micron.com"	MICRON TECHNOLOGY INC
+iontech	"http://www.microsemi.com"	MICROSEMI CORP
+iontech	"http://www.mitel.com"	MITEL CORP
+iontech	"http://www.motorola.com"	MOTOROLA INC
+iontech	"http://www.nsc.com"	NATIONAL SEMICONDUCTOR CORP
+iontech	"http://www.nexgen.com"	NEXGEN INC
+iontech	"http://www.nuhorizons.com"	NU HORIZONS ELECTRONICS CORP
+iontech	"http://www.nine.com"	NUMBER NINE VISUAL TECHNOLOGY
+iontech	"http://www.oaktech.com"	OAK TECHNOLOGY INC
+iontech	"http://www.opti.com"	OPTI INC
+iontech	"http://www.orbitsemi.com"	ORBIT SEMICONDUCTOR INC
+iontech	"http://www.pairgain.com"	PAIRGAIN TECHNOLOGIES INC
+iontech	"http://www.qualitysemi.com"	QUALITY SEMICONDUCTOR INC
+iontech	"http://www.quickturn.com"	QUICKTURN DESIGN SYSTEMS INC
+iontech	"http://www.ross.com"	ROSS TECHNOLOGY INC
+iontech	"http://www.s3.com"	S3 INC
+iontech	"http://www.seeq.com"	SEEQ TECHNOLOGY INC
+iontech	"http://www.st.com"	SGS THOMSON MICROELECTRONICS
+iontech	"http://www.svg.com"	SILICON VALLEY GROUP INC
+iontech	"http://www.smartm.com"	SMART MODULAR TECHNOLOGIES INC
+iontech	"http://www.speedfam.com"	SPEEDFAM INTERNATIONAL INC
+iontech	"http://www.subm.com"	SUBMICRON SYSTEMS CORP
+iontech	"http://www.supertex.com"	SUPERTEX INC
+iontech	"http://www.tencor.com"	TENCOR INSTRUMENTS
+iontech	"http://www.ti.com"	TEXAS INSTRUMENTS INC
+iontech	"http://www.transwitch.com"	TRANSWITCH CORP
+iontech	"http://www.trid.com"	TRIDENT MICROSYSTEMS INC
+iontech	"http://www.tqs.com"	TRIQUINT SEMICONDUCTOR INC
+iontech	"http://www.tseng.com"	TSENG LABS INC
+iontech	"http://www.tylangeneral.com"	TYLAN GENERAL INC
+iontech	"http://www.unit.com"	UNIT INSTRUMENTS INC
+iontech	"http://www.uicc.com"	UNITRODE CORP
+iontech	"http://www.vlsi.com"	VLSI TECHNOLOGY INC
+iontech	"http://www.weitek.com"	WEITEK CORP
+iontech	"http://www.xicor.com"	XICOR INC
+iontech	"http://www.xilinx.com"	XILINX INC
+iontech	"http://www.7thlevel.com"	7TH LEVEL INC
+iontech	"http://www.adam.com"	A D A M SOFTWARE INC
+iontech	"http://www.accentsoft.com"	ACCENT SOFTWARE INTERNATIONAL
+iontech	"http://www.acclaim.com"	ACCLAIM ENTERTAINMENT INC
+iontech	"http://www.accugraph.com"	ACCUGRAPH CORP CLASS A
+iontech	"http://www.activision.com"	ACTIVISION INC
+iontech	"http://www.adobe.com"	ADOBE SYSTEMS INC
+iontech	"http://www.advent.com"	ADVENT SOFTWARE
+iontech	"http://www.aladdinsys.com"	ALADDIN KNOWLEDGE SYSTEMS LTD
+iontech	"http://www.alpnet.com"	ALPNET INC
+iontech	"http://www.amsinc.com"	AMERICAN MANAGEMENT SYSTEMS INC
+iontech	"http://www.amsoftware.com"	AMERICAN SOFTWARE INC
+iontech	"http://www.analogy.com"	ANALOGY INC
+iontech	"http://www.analysts.com"	ANALYSTS INTERNATIONAL CORP
+iontech	"http://www.ansoft.com"	ANSOFT CORP
+iontech	"http://www.amc.com"	APPLED MICROSYSTEMS CORP
+iontech	"http://www.applix.com"	APPLIX INC
+iontech	"http://www.arborsoft.com"	ARBOR SOFTWARE CORP
+iontech	"http://www.arel.co.il"	AREL COMMUNICATIONS & SOFTWARE
+iontech	"http://www.artisoft.com"	ARTISOFT INC
+iontech	"http://www.asaint.com"	ASA INTERNATIONAL LTD
+iontech	"http://www.aspentec.com"	ASPEN TECHNOLOGY INC
+iontech	"http://www.astea.com"	ASTEA INTERNATIONAL INC
+iontech	"http://www.atria.com"	ATRIA SOFTWARE INC
+iontech	"http://www.autodesk.com"	AUTODESK INC
+iontech	"http://www.axent.com"	AXENT TECHNOLOGIES INC
+iontech	"http://www.baan.com"	BAAN CO NV
+iontech	"http://www.cayennesoft.com"	BACHMAN INFORMATION SYSTEMS INC
+iontech	"http://www.banta.com"	BANTA CORP
+iontech	"http://www.banyan.com"	BANYAN SYSTEMS INC
+iontech	"http://www.barra.com."	BARRA INC
+iontech	"http://www.bgs.com"	BGS SYSTEMS INC
+iontech	"http://www.blyth.com"	BLYTH HOLDINGS INC
+iontech	"http://www.bmc.com"	BMC SOFTWARE INC
+iontech	"http://www.boole.com"	BOOLE & BABBAGE INC
+iontech	"http://www.borland.com"	BORLAND INTERNATIONAL INC
+iontech	"http://www.broadvision.com"	BROADVISION INC
+iontech	"http://www.bsis.com"	BROADWAY & SEYMOUR INC
+iontech	"http://www.broc.com"	BROCK CONTROL SYSTEMS INC
+iontech	"http://www.thynx.com"	BUREAU OF ELECTRONIC PUBLISHING
+iontech	"http://www.businessobjects.com"	BUSINESS OBJECTS SA
+iontech	"http://www.byronpreiss.com"	BYRON PREISS MULTIMEDIA CO INC
+iontech	"http://www.cats.com"	C ATS SOFTWARE INC
+iontech	"http://www.caci.com"	CACI INTERNATIONAL INC
+iontech	"http://www.cadence.com"	CADENCE DESIGN SYSTEM INC
+iontech	"http://www.caere.com"	CAERE CORP
+iontech	"http://www.camdata.com"	CAM DATA SYSTEMS INC
+iontech	"http://www.ctp.com"	CAMBRIDGE TECHNOLOGY PARTNERS
+iontech	"http://www.cgi.com"	CARNEGIE GROUP INC
+iontech	"http://www.cbtsys.com"	CBT GROUP PLC
+iontech	"http://www.cesoft.com"	CE SOFTWARE HOLDINGS INC
+iontech	"http://www.cerner.com"	CERNER CORP
+iontech	"http://www.cfipro.com"	CFI PROSERVICES INC
+iontech	"http://www.checkfree.com"	CHECKFREE CORP
+iontech	"http://www.chey.com"	CHEYENNE SOFTWARE INC
+iontech	"http://www.citrix.com"	CITRIX SYSTEMS INC
+iontech	"http://www.cmgi.com"	CMG INFORMATION SERVICES INC
+iontech	"http://www.codamusic.com"	CODA MUSIC TECHNOLOGY INC
+iontech	"http://www.cognos.com"	COGNOS INC
+iontech	"http://www.cic-usa.com"	COMMUNICATION INTELLIGENCE CORP
+iontech	"http://www.cai.com"	COMPUTER ASSOCIATE INTL INC
+iontech	"http://www.clr.com"	COMPUTER LANGUAGE RESEARCH INC
+iontech	"http://www.cmsx.com"	COMPUTER MANAGEMENT SCIENCES INC
+iontech	"http://www.ctg.com"	COMPUTER TASK GROUP INC
+iontech	"http://www.cv.com"	COMPUTERVISION CORP
+iontech	"http://www.ctronsoft.com"	COMPUTRON SOFTWARE INC
+iontech	"http://www.compuware.com"	COMPUWARE CORP
+iontech	"http://www.comshare.com"	COMSHARE INC
+iontech	"http://www.concentra.com"	CONCENTRA CORP
+iontech	"http://www.consilium.com"	CONSILIUM INC
+iontech	"http://www.cctech.com"	COOPER & CHYAN TECHNOLOGIES
+iontech	"http://www.corel.ca"	COREL CORP
+iontech	"http://www.cybercash.com"	CYBERCASH INC
+iontech	"http://www.cygnus.com"	CYGNUS INC
+iontech	"http://www.dra.com"	DATA RESEARCH ASSOCIATES INC 
+iontech	"http://www.datalogix.com"	DATALOGIX INTERNATL INC
+iontech	"http://www.dstm.com"	DATASTREAM SYSTEMS INC
+iontech	"http://www.dataware.com"	DATAWARE TECHNOLOGIES INC
+iontech	"http://www.datawatch.com"	DATAWATCH CORP
+iontech	"http://www.Davd.com"	DAVIDSON & ASSOC INC
+iontech	"http://www.delphi.com"	DELPHI INFORMATION SYSTEMS INC
+iontech	"http://www.deltapoint.com"	DELTAPOINT INC
+iontech	"http://www.graphsoft.com"	DIEHL GRAPHSOFT INC
+iontech	"http://www.dspg.com"	DSP GROUP INC
+iontech	"http://www.drc.com"	DYNAMICS RESEARCH CORP
+iontech	"http://www.eriver.com"	EAGLE RIVER INTERACTIVE INC
+iontech	"http://www.edunetics.com"	EDUNETICS LTD
+iontech	"http://www.ems.com"	EFFECTIVE MANAGEMENT SYSTEMS I
+iontech	"http://www.egghead.com"	EGGHEAD INC
+iontech	"http://www.elan.com"	ELAN CORP
+iontech	"http://www.ea.com"	ELECTRONIC ARTS INC
+iontech	"http://www.emulex.com"	EMULEX CORP
+iontech	"http://www.eai.com"	ENGINEERING ANIMATION
+iontech	"http://www.enteractive.com"	ENTERACTIVE INC
+iontech	"http://www.esicorp.com"	ENTERPRISE SYSTEMS INC
+iontech	"http://www.epic.com"	EPIC DESIGN TECHNOLOGY INC
+iontech	"http://www.xrs.com"	EXCALIBUR TECHNOLOGIES CORP
+iontech	"http://www.expertsoftware.com"	EXPERT SOFTWARE INC
+iontech	"http://www.firefox.com"	FIREFOX COMMUNICATIONS INC
+iontech	"http://www.ffg.com"	FOREFRONT GROUP INC
+iontech	"http://www.forte.com"	FORTE SOFTWARE INC
+iontech	"http://www.fs.com"	FOURTH SHIFT CORP
+iontech	"http://www.fractal.com"	FRACTAL DESIGN CORP
+iontech	"http://www.ftp.com"	FTP SOFTWARE INC
+iontech	"http://www.fulcrum.com"	FULCRUM TECHNOLOGIES INC
+iontech	"http://www.gametek.com"	GAMETEK INC
+iontech	"http://www.genmagic.com"	GENERAL MAGIC INC
+iontech	"http://www.gensym.com"	GENSYM CORP
+iontech	"http://www.gensym.com"	GENSYM CORP
+iontech	"http://www.geoworks.com"	GEOWORKS
+iontech	"http://www.globalink.com"	GLOBALINK INC
+iontech	"http://www.gsm.com"	GOLD STANDARD INC
+iontech	"http://www.gzone.com"	GRAPHIX ZONE INC
+iontech	"http://www.g1.com"	GROUP 1 SOFTWARE INC
+iontech	"http://www.gtinteractive.com"	GT INTERACTIVE SOFTWARE
+iontech	"http://www.gupta.com"	GUPTA CORP
+iontech	"http://www.hsdc.com"	HEALTH SYSTEMS DESIGN CORP
+iontech	"http://www.hncs.com"	HNC SOFTWARE INC
+iontech	"http://www.hcl.com"	HUMMINGBIRD COMMUNICATIONS LTD
+iontech	"http://www.hysoft.com"	HYPERION SOFTWARE CORP
+iontech	"http://www.i2.com"	I2 TECHNOLOGIES
+iontech	"http://www.idx.com"	IDX SYSTEMS CORP
+iontech	"http://www.ikos.com"	IKOS SYSTEMS INC
+iontech	"http://www.indusgroup.com"	INDUS GROUP INC
+iontech	"http://www.inference.com"	INFERENCE CORP
+iontech	"http://www.infodata.com"	INFODATA SYSTEMS INC
+iontech	"http://www.informix.com"	INFORMIX CORP
+iontech	"http://www.inso.com"	INSO CORP
+iontech	"http://www.isi.com"	INTEGRATED SYSTEMS INC
+iontech	"http://www.intellicorp.com"	INTELLICORP INC
+iontech	"http://www.intelliquest.com"	INTELLIQUEST INFORMATION GROUP
+iontech	"http://www.ileaf.com"	INTERLEAF INC
+iontech	"http://www.intersolv.com"	INTERSOLV INC
+iontech	"http://www.intimesystems.com"	INTIME SYSTEMS INTERNATIONAL I
+iontech	"http://www.intuit.com"	INTUIT INC
+iontech	"http://www.iqsc.com"	IQ SOFTWARE CORP
+iontech	"http://www.isg-us.com"	ISG INTERNATIONAL SOFTWARE GROUP LTD O 
+iontech	"http://www.isocor.com"	ISOCOR
+iontech	"http://www.jriver.com"	JAMES RIVER GROUP INC
+iontech	"http://www.jetform.com"	JETFORM CORP
+iontech	"http://www.legacysoft.com"	LEGACY SOFTWARE INC
+iontech	"http://www.legato.com"	LEGATO SYSTEMS INC
+iontech	"http://www.logicworks.com"	LOGIC WORKS INC
+iontech	"http://www.macsch.com"	MACNEAL SCHWENDLER CORP
+iontech	"http://www.macromedia.com"	MACROMEDIA INC
+iontech	"http://www.magic-sw.com"	MAGIC SOFTWARE ENTERPRISES
+iontech	"http://www.manatech.com"	MANAGEMENT TECHNOLOGIES INC
+iontech	"http://www.manugistics.com"	MANUGISTICS GROUP INC
+iontech	"http://www.mapinfo.com"	MAPINFO CORP
+iontech	"http://www.marcam.com"	MARCAM CORP
+iontech	"http://www.mathsoft.com"	MATHSOFT INC
+iontech	"http://www.maxis.com"	MAXIS INC
+iontech	"http://www.mcafee.com"	MCAFEE ASSOCIATES INC
+iontech	"http://www.mdli.com"	MDL INFORMATION SYSTEMS INC
+iontech	"http://www.merc-int.com"	MERCURY INTERACTIVE CORP
+iontech	"http://www.metasw.com"	META SOFTWARE INC 
+iontech	"http://www.metatools.com"	METATOOLS INC
+iontech	"http://www.mfltd.co.uk"	MICRO FOCUS GROUP PLC
+iontech	"http://www.micrografx.com"	MICROGRAFX INC
+iontech	"http://www.mmi.com"	MICROLEAGUE MULTIMEDIA
+iontech	"http://www.microsoft.com"	MICROSOFT CORP
+iontech	"http://www.mri.com"	MICROTEC RESEARCH INC
+iontech	"http://www.microware.com"	MICROWARE SYSTEMS CORP
+iontech	"http://www.midisoft.com"	MIDISOFT CORP
+iontech	"http://www.mpsisys.com"	MPSI SYSTEMS INC
+iontech	"http://www.mustang.com"	MUSTANG SOFTWARE INC
+iontech	"http://www.mysoftware.com"	MYSOFTWARE COMPANY
+iontech	"http://www.ndcorp.com"	NATIONAL DATA CORP
+iontech	"http://www.natinst.com"	NATIONAL INSTRUMENT CORP
+iontech	"http://www.netmanage.com"	NETMANAGE INC
+iontech	"http://home.netscape.com"	NETSCAPE COMMUNICATIONS CORP
+iontech	"http://www.ddddf.com"	4TH DIMENSION SOFTWARE LTD
+iontech	"http://www.newparadigm.com"	NEW PARADIGM SOFTWARE CORP
+iontech	"http://www.novainfo.com"	NOVA CORP \GA\
+iontech	"http://www.novadigm.com"	NOVADIGM INC
+iontech	"http://www.novell.com"	NOVELL INC
+iontech	"http://www.osi.com"	OBJECTIVE SYSTEMS INTEGRATORS
+iontech	"http://www.ommg.com"	OMNI MULTIMEDIA GROUP INC
+iontech	"http://www.on.com"	ON TECHNOLOGY CORP
+iontech	"http://www.oec.com"	OPEN ENVIRONMENT CORP
+iontech	"http://www.openmarket.com"	OPEN MARKET INC
+iontech	"http://www.opentext.com"	OPEN TEXT CORP
+iontech	"http://www.openvision.com"	OPENVISION TECHNOLOGIES INC
+iontech	"http://www.oracle.com"	ORACLE CORP
+iontech	"http://www.ptc.com"	PARAMETRIC TECHNOLOGY CORP
+iontech	"http://www.parcplace.com"	PARCPLACE SYSTEMS INC
+iontech	"http://www.peoplesoft.com"	PEOPLESOFT INC
+iontech	"http://www.ptltd.com"	PHOENIX TECHNOLOGIES LTD
+iontech	"http://www.pixar.com"	PIXR
+iontech	"http://www.platsoft.com"	PLATINUM SOFTWARE CORP
+iontech	"http://www.platinum.com"	PLATINUM TECHNOLOGY INC
+iontech	"http://www.pmsc.com"	POLICY MANAGEMENT SYSTEMS CORP
+iontech	"http://www.powercerv.com"	POWERCERV CORP
+iontech	"http://www.premenos.com"	PREMENOS TECHNOLOGY CORP
+iontech	"http://www.progress.com"	PROGRESS SOFTWARE CORP
+iontech	"http://www.psdi.com"	PROJECT SOFTWARE & DEVELOPMENT INC
+iontech	"http://www.pure.com"	PURE SOFTWARE INC
+iontech	"http://www.qdeck.com"	QUARTERDECK CORP
+iontech	"http://www.raptor.com"	RAPTOR SYSTEMS INC
+iontech	"http://www.rational.com"	RATIONAL SOFTWARE CORP
+iontech	"http://www.redbrick.com"	RED BRICK SYSTEMS
+iontech	"http://www.remedy.com"	REMEDY CORP
+iontech	"http://www.rossinc.com"	ROSS SYSTEMS INC
+iontech	"http://www.safeguard.com"	SAFEGUARD SCIENTIFICS INC
+iontech	"http://www.sanctuary.com"	SANCTUARY WOOD MULTIMEDIA
+iontech	"http://www.sco.com"	SANTA CRUZ OPERATION INC
+iontech	"http://www.sapient.com"	SAPIENT CORP
+iontech	"http://www.scanvec.com"	SCANVEC CO 1990 LTD
+iontech	"http://www.scopus.com"	SCOPUS TECHNOLOGY INC
+iontech	"http://www.sctc.com"	SECURE COMPUTING CORP
+iontech	"http://www.seer.com"	SEER TECHNOLOGIES INC
+iontech	"http://www.segue.com"	SEGUE SOFTWARE INC
+iontech	"http://www.sierra.com"	SIERRA ON-LINE INC
+iontech	"http://www.svri.com"	SILICON VALLEY RESEARCH INC
+iontech	"http://www.simware.com"	SIMWARE INC
+iontech	"http://www.smithmicro.com"	SMITH MICRO SOFTWARE INC
+iontech	"http://www.softdesk.com"	SOFTDESK INC
+iontech	"http://www.softkey.com"	SOFTKEY INTERNATIONAL INC
+iontech	"http://www.softquad.com"	SOFTQUAD INTERNATIONAL INC
+iontech	"http://www.s2k.com"	SOFTWARE 2000 INC
+iontech	"http://www.softart.com"	SOFTWARE ARTISTRY INC
+iontech	"http://www.spco.com"	SOFTWARE PUBLISHING CORP
+iontech	"http://www.swspectrum.com"	SOFTWARE SPECTRUM INC
+iontech	"http://www.spss.com"	SPSS INC
+iontech	"http://www.spyglass.com"	SPYGLASS INC
+iontech	"http://www.stac.com"	STAC ELECTRONICS
+iontech	"http://www.starsight.com"	STARSIGHT TELECAST INC
+iontech	"http://www.stateoftheart.com"	STATE OF THE ART INC
+iontech	"http://www.sterling.com"	STERLING SOFTWARE INC
+iontech	"http://www.stratasys.com"	STRATASYS INC
+iontech	"http://www.sdrc.com"	STRUCTURAL DYNAMICS RESEARCH INC
+iontech	"http://www.summitmedical.com"	SUMMIT MEDICAL SYSTEMS INC
+iontech	"http://www.sybase.com"	SYBASE INC
+iontech	"http://www.symantec.com"	SYMANTEC CORP
+iontech	"http://www.symix.com"	SYMIX SYSTEMS INC
+iontech	"http://www.synopsys.com"	SYNOPSYS INC
+iontech	"http://www.ssax.com"	SYSTEM SOFTWARE ASSOCIATES INC
+iontech	"http://www.sctcorp.com"	SYSTEMS & COMPUTER TECHNOLOGIES CORP
+iontech	"http://www.systemsoft.com"	SYSTEMSOFT CORP
+iontech	"http://www.tcsi.com"	TCSI CORP
+iontech	"http://www.technalysis.com"	TECHNALYSIS CORP
+iontech	"http://www.tecnomatix.com"	TECHNOMATIX TECHNOLOGIES INC O
+iontech	"http://www.telescan.com"	TELESCAN INC
+iontech	"http://www.tgv.com"	TGV SOFTWARE INC
+iontech	"http://www.tivoli.com"	TIVOLI SYSTEMS INC
+iontech	"http://www.checkit.com"	TOUCHSTONE SOFTWARE CORP
+iontech	"http://www.tsainc.com"	TRANSACTION SYSTEMS ARCHITECTS
+iontech	"http://www.tro.com"	TRO LEARNING INC
+iontech	"http://www.unison.com"	UNISON SOFTWARE INC
+iontech	"http://www.vantive.com"	VANTIVE CORP
+iontech	"http://www.veritas.com"	VERITAS SOFTWARE CORP
+iontech	"http://www.verity.com"	VERITY INC
+iontech	"http://www.viasoft.com"	VIASOFT INC
+iontech	"http://www.viewlogic.com"	VIEWLOGIC SYSTEMS INC
+iontech	"http://www.visio.com"	VISIO CORP
+iontech	"http://www.visioneer.com"	VISIONEER INC
+iontech	"http://www.vmark.com"	VMARK SOFTWARE INC
+iontech	"http://www.walldata.com"	WALL DATA INC
+iontech	"http://www.wanderlust.com"	WANDERLUST INTERACTIVE INC
+iontech	"http://www.wavesys.com"	WAVE SYSTEMS CORP A
+iontech	"http://www.wrs.com"	WIND RIVER SYSTEMS INC
+iontech	"http://www.wiztech.com"	WIZ TECHNOLOGY INC
+iontech	"http://www.wonderware.com"	WONDERWARE CORP
+iontech	"http://www.workgroup.com"	WORKGROUP TECHNOLOGY CORP
+iontech	"http://www.xcellenet.com"	XCELLENET INC

@@ -1,0 +1,719 @@
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5100pi.jpg"	Blackbird: Brewer's  Euphagus cyanocephalus    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h7660pi.jpg"	Bluebird: Eastern  Sialia sialis    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h7680pi.jpg"	Bluebird: Mountain  Sialia currucoides    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h3880pi.jpg"	Cuckoo: Black-billed (Coulicou Å‡ bec noir)  Coccyzus erythropthalmus    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h3870pi.jpg"	Cuckoo: Yellow-billed (Coulicou Å‡ bec jaune)  Coccyzus americanus    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h3160pi.jpg"	Dove: Mourning (Tourterelle triste)  Zenaida macroura    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h3190pi.jpg"	Dove: White-winged (Tourterelle Å‡ ailes blanches)  Zenaida asiatica   
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h1500pi.jpg"	Duck: Ring-necked (Fuligule Å‡ collier)  Aythya collaris    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h1670pi.jpg"	Duck: Ruddy (Erismature rousse)  Oxyura jamaicensis    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h1440pi.jpg"	Duck: Wood (Canard branchu)  Aix sponsa    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h2001pi.jpg"	Egret: Cattle (HÅÈron garde-boeufs)  Bubulcus ibis   
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h1960pi.jpg"	Egret: Great (Grande Aigrette)  Casmerodius albus    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h1970pi.jpg"	Egret: Snowy (Aigrette niegeuse)  Egretta thula    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5180pi.jpg"	Finch: Cassin's  Carpodacus cassinii    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5190pi.jpg"	Finch: House (Roselin familier)  Carpodacus mexicanus    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4130pi.jpg"	Flicker: Red-shafted  Colaptes cafer    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4120pi.jpg"	Flicker: Yellow-shafted (Pic flamboyant)  Colaptes auratus    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4520pi.jpg"	Flycatcher: Great crested  Myiarchus crinitus    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4670pi.jpg"	Flycatcher: Least (Moucherolle tchÅÈbec)  Empidonax minimus    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4630pi.jpg"	Flycatcher: Yellow-bellied (Moucherolle Å‡ ventre jaune)  Empidonax flaviventris   
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h1520pi.jpg"	Goldeneye: Barrow's (Garrot de Barrow)  Bucephala islandica    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h1510pi.jpg"	Goldeneye: Common (Garrot Å‡ oeil d'or)  Bucephala clangula   
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h1720pi.jpg"	Goose: Canada goose (Bernache du Canada)  Branta canadensis    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h0030pi.jpg"	Grebe: Horned (GrÅËbe esclavon)  Podiceps auritus    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5140pi.jpg"	Grosbeak: Evening  Coccothraustes vespertinus    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5950pi.jpg"	Grosbeak: Rose-breasted (Cardinal Å‡ poitrine rose)  Pheucticus ludovicianus    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h0600pi.jpg"	Gull: Bonaparte's (Mouette de Bonaparte)  Larus philadelphia    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h0440pi.jpg"	Gull: Glaucous-winged  Larus glaucescens    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h0470pi.jpg"	Gull: Great black-backed (GoÅÈland marin)  Larus marinus    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h0510pi.jpg"	Gull: Herring (GoÅÈland argentÅÈ)  Larus argentatus    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h0580pi.jpg"	Gull: Laughing (Mouette atricille)  Larus atricilla    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h0540pi.jpg"	Gull: Ring-billed (GoÅÈland Å‡ bec cerclÅÈ)  Larus delawarensis    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h3330pi.jpg"	Hawk: Cooper's (Å…pervier de Cooper)  Accipiter cooperii    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h2010pi.jpg"	Heron: Green-backed (HÅÈron vert)  Butorides striatus    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h2000pi.jpg"	Heron: Little Blue (Aigrette bleue)  Egretta caerulea    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h1840pi.jpg"	Ibis: White-faced  Plegadic chihi    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4770pi.jpg"	Jay: Blue (Geai bleu)  Cyanocitta cristata    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4840pi.jpg"	Jay: Gray Perisoreus canadensis    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4780pi.jpg"	Jay: Steller's (Geai de Steller)  Cyanocitta stelleri    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h7480pi.jpg"	Kinglet: Golden-crowned  Regulus satrapa    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h7490pi.jpg"	Kinglet: Ruby-crowned  Regulus calendula    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5010pi.jpg"	Meadowlark: Eastern  Sturnella magna   
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h1310pi.jpg"	Merganser: Hooded (Harle couronnÅÈ)  Lophodytes cucullatus    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h1300pi.jpg"	Merganser: Red-breasted (Harle huppÅÈ)  Mergus serrator    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h7280pi.jpg"	Nuthatch: Red-breasted (Sittelle Å‡ poitrine rousse)  Sitta canadensis    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h7270pi.jpg"	Nuthatch: White-breasted (Sittelle Å‡ poitrine blanche  Sitta carolinensis    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h3680pi.jpg"	Owl: Barred (Chouette rayÅÈe)  Strix varia    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h3780pi.jpg"	Owl: Burrowing (Cheveche des terriers)  Speotyto cunicularia    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h3750pi.jpg"	Owl: Great horned (Grand-duc d'AmÅÈrique)  Bubo virginianus    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h3670pi.jpg"	Owl: Short-eared  Asio flammeus    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h2930pi.jpg"	Quail: Scaled  Callipepla squamata    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h2940pi.jpg"	Quail: California  Callipepla californica    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h2080pi.jpg"	Rail: King (Rale ÅÈlÅÈgant)  Rallus elegans    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h2630pi.jpg"	Sandpiper: Spotted (Chevalier grivelÅÈ)  Actitis macularia    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5730pi.jpg"	Sparrow: Black-throated (Bruant Å‡ gorge noire)  Amphispiza bilineata    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5600pi.jpg"	Sparrow: Chipping (Bruant familier)  Spizella passerina    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5630pi.jpg"	Sparrow: Field (Bruant des champs)  Spizella pusilla    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5460pi.jpg"	Sparrow: Grasshopper (Bruant sauterelle)  Ammodramus savannarum    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5520pi.jpg"	Sparrow: Lark (Bruant Å‡ joues marron)  Chondestes grammacus    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5830pi.jpg"	Sparrow: Lincoln's (Bruant de Lincoln)  Melospiza lincolnii    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5420pi.jpg"	Sparrow: Savannah (Bruant des prÅÈs)  Passerculus sandwichensis    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5840pi.jpg"	Sparrow: Swamp (Bruant des marais)  Melospiza georgiana    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5400pi.jpg"	Sparrow: Vesper (Bruant vespÅÈral)  Pooecetes gramineus    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5580pi.jpg"	Sparrow: White-throated (Bruant Å‡ gorge blanche)  Zonotrichia albicollis   
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6130pi.jpg"	Swallow: Barn (Hirondelle rustique)  Hirundo rustica    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6170pi.jpg"	Swallow: Northern Rough-winged (Hirondelle Å‡ ailes hÅÈrissÅÈes)  Stelgidopteryx serripennis    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h1782pi.jpg"	Swan: Mute (Cygne tuberculÅÈ)  Cygnus olor    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6100pi.jpg"	Tanager: Summer  Piranga rubra    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6070pi.jpg"	Tanager: Western  Piranga ludoviciana    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h1400pi.jpg"	Teal: Blue-winged (Sarcelle Å‡ ailes bleues)  Anas discors    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h1410pi.jpg"	Teal: Cinnamon (Sarcelle cannelle)  Anas cyanoptera    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5921pi.jpg"	Towhee: Green-tailed towhee (Tohi Å‡ queue verte)  Pipilo chlorurus    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5870pi.jpg"	Towhee: Spotted (Rufous-sided)(Tohi Å‡ flancs roux)  Pipilo erythrophthalmus    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h7570pi.jpg"	Thrush: Gray-cheeked  Catharus minimus    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h7590pi.jpg"	Thrush: Hermit  Catharus guttatus    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h7580pi.jpg"	Thrush: Swainson's  Catharus ustulatus    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h7550pi.jpg"	Thrush: Wood  Hylocichla mustelina    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6260pi.jpg"	Vireo: Philadelphia  Vireo philadelphicus    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6240pi.jpg"	Vireo: Red-eyed  Vireo olivaceus    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6290pi.jpg"	Vireo: Solitary  Vireo solitarius    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6310pi.jpg"	Vireo: White-eyed vireo   Vireo griseus    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h3260pi.jpg"	Vulture: Black (Urubu noir)  Coragyps atratus    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h3250pi.jpg"	Vulture: Turkey (Urubu Å‡ tete rouge)  Cathartes aura    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6360pi.jpg"	Warbler: Black-&-white (Paruline noir et blanc)  Mniotilta varia    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6620pi.jpg"	Warbler: Blackburnian warbler (Paruline Å‡ gorge orangÅÈe)  Dendroica fusca   
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6610pi.jpg"	Warbler: Blackpoll (Paruline rayÅÈe)  Dendroica striata    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6670pi.jpg"	Warbler: Black-throated green (Paruline Å‡ gorge noire)  Dendroica virens   
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6410pi.jpg"	Warbler: Blue-winged (Paruline Å‡ ailes bleues)  Vermivora pinus    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6860pi.jpg"	Warbler: Canada (Paruline du Canada)  Wilsonia canadensis    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6590pi.jpg"	Warbler: Chestnut-sided (Paruline Å‡ flancs marron)  Dendroica pensylvanica   
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6780pi.jpg"	Warbler: Connecticut (Paruline Å‡ gorge grise)  Oporornis agilis    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6420pi.jpg"	Warbler: Golden-winged (Paruline Å‡ ailes dorÅÈes)  Vermivora chrysoptera    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6840pi.jpg"	Warbler: Hooded (Paruline Å‡ capuchon)  Wilsonia citrina    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6770pi.jpg"	Warbler: Kentucky (Paruline du Kentucky)  Oporornis formosus    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6570pi.jpg"	Warbler: Magnolia warbler (Paruline Å‡ tÅÍte cendreÅÈ)  Dendroica magnolia    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6790pi.jpg"	Warbler: Mourning (Paruline triste)  Oporornis philadelphia    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6450pi.jpg"	Warbler: Nashville (Paruline Å‡ joues grises)  Vermivora ruficapilla    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6730pi.jpg"	Warbler: Prairie (Paruline des prÅËs)  Dendroica discolor    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6470pi.jpg"	Warbler: Tennessee (Paruline obscure)  Vermivora peregrina    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6850pi.jpg"	Warbler: Wilson's (Paruline Å‡ calotte noire)  Wilsonia pusilla    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6390pi.jpg"	Warbler: Worm-eating (Paruline vermivore)  Helmitheros vermivorus    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6520pi.jpg"	Warbler: Yellow (Paruline jaune)  Dendroica petechia    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6550pi.jpg"	Warbler: Yellow-rumped (Paruline Å‡ croupion jaune (est))  Dendroica coronata   
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6630pi.jpg"	Warbler: Yellow-throated (Paruline Å‡ gorge jaune)  Dendroica dominica    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6750pi.jpg"	Waterthrush: Northern (Paruline des ruisseaux)  Seiurus noveboracensis    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6760pi.jpg"	Waterthrush: Louisiana (Paruline hochequeue)  Seiurus motacilla    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h3940pi.jpg"	Woodpecker: Downy (Pic mineur)  Picoides pubescens    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4110pi.jpg"	Woodpecker: Gila  Melanerpes uropygialis    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4050pi.jpg"	Woodpecker: Pileated (Grand Pic)  Dryocopus pileatus    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4090pi.jpg"	Woodpecker: Red-bellied (Pic Å‡ ventre roux)  Melanerpes carolinus    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4060pi.jpg"	Woodpecker: Red-headed (Pic Å‡ tete rouge)  Melanerpes erythrocephalus    
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h2250pi.jpg"	Avocet, American (Avocette d'Amerique) :   Recurvirostra americana  
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h1900pi.jpg"	Bittern, American (Butor d'AmÅÈrique) :   Botaurus lentiginosus 
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5980pi.jpg"	Bunting, Indigo (Passerin indigo) :   Passerina cyanea  
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h1470pi.jpg"	Canvasback (Fuligule Å‡ dos blanc) :   Aythya valisineria  
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h3620pi.jpg"	Caracara, Crested :   Caracara plancus  
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5930pi.jpg"	Cardinal, Northern (Cardinal rouge) :   Cardinalis cardinalis  
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4160pi.jpg"	Chuck-will's-widow (Engouvelent de Caroline) :   Caprimulgus carolinensis  
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h2060pi.jpg"	Crane, Sandhill (Grue du Canada) :   Grus canadensis 
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h7260pi.jpg"	Creeper, Brown :   Certhia americana 
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5210pi.jpg"	Crossbill, Red :   Loxia curvirostra  
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h2640pi.jpg"	Curlew, long-billed (Courlis a long bec) :   Numenius americanus  
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h2180pi.jpg"	Gallinule, Purple :   Porphyrula martinica  
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h7510pi.jpg"	Gnatcatcher, Blue-gray :   Polioptila caerulea  
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h3340pi.jpg"	Goshawk, Northern (Autour des palombes) :   Accipiter gentilis  
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h3090pi.jpg"	Grouse, Sage :   Centrocercus urophasianus  
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h3600pi.jpg"	Kestrel, American (CrÅÈcerelle d'AmÅÈrique) :   Falco sparverius 
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h2730pi.jpg"	Killdeer (Pluvier kildir) :   Charadrius vociferus 
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6110pi.jpg"	Purple martin (Hirondelle noire) :   Progne subis  
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h3570pi.jpg"	Merlin (Faucon ÅÈmerillon) :   Falco columbarius  
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h2190pi.jpg"	Moorhen, Common (Gallinule poule-d'eau) :   Gallinula chloropus  
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4910pi.jpg"	Nutcracker, Clark's :   Nucifraga columbiana 
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6740pi.jpg"	Ovenbird (Paruline couronnÅÈe) :   Seiurus aurocapillus  
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5060pi.jpg"	Oriole, Orchard :   Icterus spurius  
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h3640pi.jpg"	Osprey (Balbuzard pecheur) :   Pandion haliaetus  
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6480pi.jpg"	Parula, Northern (Paruline Å‡ collier) :   Parula americana  
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h3091pi.jpg"	Pheasant, Ring-necked (Faisan de Colchide) :   Phasianus colchicus  
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h3050pi.jpg"	Prairie-chicken, Greater :   Tympanuchus cupido  
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5940pi.jpg"	Pyrrhuloxia :   Cardinalis sinuatus  
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5280pi.jpg"	Redpoll, Common :   Carduelis flammea  
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6870pi.jpg"	Redstart, American (Paruline flamboyante) :   Setophaga ruticilla  
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h3850pi.jpg"	Roadrunner, Greater :   Geococcyx californianus 
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h7610pi.jpg"	Robin, American (Merle d'AmÅÈrique) :   Turdus migratorius  
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4020pi.jpg"	Sapsucker, Yellow-bellied (Pic maculÅÈ) :   Sphyrapicus varius  
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h1490pi.jpg"	Scaup, Lesser (Petit Fuligule) :   Aythya affinis  
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h2260pi.jpg"	Stilt, Black-necked :   Himantopus mexicanus  
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h1880pi.jpg"	Stork, Wood :   Mycteria americana  
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h0700pi.jpg"	Tern, Common (Sterne pierregarin) :   Sterna hirundo  
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h3100pi.jpg"	Turkey, Wild (Dindon sauvage) :   Meleagris gallopavo  
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h7560pi.jpg"	Veery :   Catharus fuscescens  
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6190pi.jpg"	Waxwing, Cedar (Jaseur d'AmÅÈrique) :   Bombycilla cedrorum  
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4170pi.jpg"	Whip-poor-will (Engoulevent bois-pourri) :   Caprimulgus vociferus  
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h1770pi.jpg"	Dendrocygna autumnalis  :  
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h2580pi.jpg"	Willet (Chevalier semipalmÅÈ):   Catoptrophorus semipalmatus  
+bscott	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h2280pi.jpg"	Woodcock, American :  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h0110pi.jpg"	Red-throated Loon Gavia stellata  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h0100pi.jpg"	Pacific Loon Gavia pacifica  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h0070pi.jpg"	Common Loon Gavia immer  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h0050pi.jpg"	Least Grebe Tachybaptus dominicus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h0060pi.jpg"	Pied-billed Grebe Podilymbus podiceps  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h0030pi.jpg"	Horned Grebe Podiceps auritus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h0020pi.jpg"	Red-necked Grebe Podiceps grisegena  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h0040pi.jpg"	Eared Grebe Podiceps nigricollis  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h0010pi.jpg"	Western Grebe Aechmophorus occidentalis  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h0011pi.jpg"	Clark's Grebe Aechmophorus clarkii  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h0810pi.jpg"	Black-footed Albatross Diomedea nigripes  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h0821pi.jpg"	Laysan Albatross Diomedea immutabilis  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h0860pi.jpg"	Northern Fulmar Fulmarus glacialis  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h0880pi.jpg"	Cory's Shearwater Calonectris diomedea  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h0890pi.jpg"	Greater Shearwater Puffinus gravis  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h0950pi.jpg"	Sooty Shearwater Puffinus griseus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h0920pi.jpg"	Audubon's Shearwater Puffinus lherminieri  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h1090pi.jpg"	Wilson's Storm-Petrel Oceanites oceanicus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h1060pi.jpg"	Leach's Storm-Petrel Oceanodroma leucorhoa  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h1080pi.jpg"	Ashy Storm-Petrel Oceanodroma homochroa  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h1120pi.jpg"	White-tailed Tropicbird Phaethon lepturus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h1131pi.jpg"	Red-tailed Tropicbird Phaethon rubricauda  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h1140pi.jpg"	Masked Booby Sula dactylatra  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h1150pi.jpg"	Brown Booby Sula leucogaster  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h1160pi.jpg"	Red-footed Booby Sula sula  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h1170pi.jpg"	Northern Gannet Morus bassanus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h1250pi.jpg"	American White Pelican Pelecanus erythrorhynchos  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h1260pi.jpg"	Brown Pelican Pelecanus occidentalis  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h1190pi.jpg"	Great Cormorant Phalacrocorax carbo  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h1200pi.jpg"	Double-crested Cormorant Phalacrocorax auritus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h1210pi.jpg"	Neotropic Cormorant Phalacrocorax brasilianus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h1220pi.jpg"	Brandt's Cormorant Phalacrocorax penicillatus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h1230pi.jpg"	Pelagic Cormorant Phalacrocorax pelagicus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h1240pi.jpg"	Red-faced Cormorant Phalacrocorax urile  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h1180pi.jpg"	Anhinga Anhinga anhinga  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h1280pi.jpg"	Magnificent Frigatebird Fregata magnificens  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h1281pi.jpg"	Great Frigatebird Fregata minor  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h1900pi.jpg"	American Bittern Botaurus lentiginosus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h1910pi.jpg"	Least Bittern Ixobrychus exilis  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h1940pi.jpg"	Great Blue Heron Ardea herodias  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h1960pi.jpg"	Great Egret Ardea alba  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h1970pi.jpg"	Snowy Egret Egretta thula  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h2000pi.jpg"	Little Blue Heron Egretta caerulea  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h1990pi.jpg"	Tricolored Heron Egretta tricolor  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h1980pi.jpg"	Reddish Egret Egretta rufescens  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h2001pi.jpg"	Cattle Egret Bubulcus ibis  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h2010pi.jpg"	Green Heron Butorides virescens  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h2020pi.jpg"	Black-crowned Night-Heron Nycticorax nycticorax  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h2030pi.jpg"	Yellow-crowned Night-Heron Nycticorax violacus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h1840pi.jpg"	White Ibis Eudocimus albus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h1860pi.jpg"	Glossy Ibis Plegadis falcinellus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h1870pi.jpg"	White-faced Ibis Plegadis chihi  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h1830pi.jpg"	Roseate Spoonbill Ajaia ajaja  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h1880pi.jpg"	Wood Stork Mycteria americana  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h3260pi.jpg"	Black Vulture Coragyps atratus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h3250pi.jpg"	Turkey Vulture Cathartes aura  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h1820pi.jpg"	Greater Flamingo Phoenicopterus ruber  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h1780pi.jpg"	Fulvous Whistling-Duck Dendrocygna bicolor  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h1770pi.jpg"	Black-bellied Whistling-Duck Dendrocygna autumnalis  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h1800pi.jpg"	Tundra Swan Cygnus columbianus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h1810pi.jpg"	Trumpeter Swan Cygnus buccinator  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h1782pi.jpg"	Mute Swan Cygnus olor  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h1710pi.jpg"	Greater White-fronted Goose Anser albifrons  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h1690pi.jpg"	Snow Goose Anser caerulescens  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h1730pi.jpg"	Brant Branta bernicla  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h1720pi.jpg"	Canada Goose Branta canadensis  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h1440pi.jpg"	Wood Duck Aix sponsa  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h1390pi.jpg"	Green-winged Teal Anas crecca  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h1330pi.jpg"	American Black Duck Anas rubripes  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h1340pi.jpg"	Mottled Duck Anas fulvigula  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h1320pi.jpg"	Mallard Anas platyrhynchos  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h1430pi.jpg"	Northern Pintail Anas acuta  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h1400pi.jpg"	Blue-winged Teal Anas discors  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h1410pi.jpg"	Cinnamon Teal Anas cyanoptera  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h1420pi.jpg"	Northern Shoveler Anas clypeata  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h1350pi.jpg"	Gadwall Anas strepera  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h1370pi.jpg"	American Wigeon Anas americana  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h1470pi.jpg"	Canvasback Aythya valisineria  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h1460pi.jpg"	Redhead Aythya americana  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h1500pi.jpg"	Ring-necked Duck Aythya collaris  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h1491pi.jpg"	Tufted Duck Aythya fuligula  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h1480pi.jpg"	Greater Scaup Aythya marila  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h1490pi.jpg"	Lesser Scaup Aythya affinis  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h1600pi.jpg"	Common Eider Somateria mollissima  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h1620pi.jpg"	King Eider Somateria spectabilis  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h1550pi.jpg"	Harlequin Duck Histrionicus histrionicus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h1660pi.jpg"	Surf Scoter Melanitta perspicillata  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h1650pi.jpg"	White-winged Scoter Melanitta fusca  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h1540pi.jpg"	Oldsquaw Clangula hyemalis  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h1510pi.jpg"	Common Goldeneye Bucephala clangula  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h1520pi.jpg"	Barrow's Goldeneye Bucephala islandica  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h1530pi.jpg"	Bufflehead Bucephala albeola  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h1310pi.jpg"	Hooded Merganser Lophodytes cucullatus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h1290pi.jpg"	Common Merganser Mergus merganser  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h1300pi.jpg"	Red-breasted Merganser Mergus serrator  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h1670pi.jpg"	Ruddy Duck Oxyura jamaicensis  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h3640pi.jpg"	Osprey Pandion haliaetus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h3280pi.jpg"	Black-shouldered Kite Elanus leucurus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h3300pi.jpg"	Snail Kite Rostrhamus sociabilis  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h3290pi.jpg"	Mississippi Kite Ictinia mississippiensis  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h3520pi.jpg"	Bald Eagle Haliaeetus leucocephalus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h3310pi.jpg"	Northern Harrier Circus cyaneus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h3320pi.jpg"	Sharp-shinned Hawk Accipiter striatus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h3330pi.jpg"	Cooper's Hawk Accipiter cooperii  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h3340pi.jpg"	Northern goshawk Accipiter gentilis  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h3460pi.jpg"	Gray Hawk Asturina nitida  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h3350pi.jpg"	Harris's Hawk Parabuteo unicinctus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h3390pi.jpg"	Red-shouldered Hawk Buteo lineatus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h3430pi.jpg"	Broad-winged Hawk Buteo platypterus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h3420pi.jpg"	Swainson's Hawk Buteo swainsoni  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h3410pi.jpg"	White-tailed Hawk Buteo albicaudatus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h3400pi.jpg"	Zone-tailed Hawk Buteo albonotatus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h3370pi.jpg"	Red-tailed Hawk Buteo jamaicensis  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h3480pi.jpg"	Ferruginous Hawk Buteo regalis  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h3470pi.jpg"	Rough-legged Hawk Buteo lagopus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h3490pi.jpg"	Golden Eagle Aquila chrysaetos  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h3620pi.jpg"	Crested Caracara Caracara plancus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h3600pi.jpg"	American Kestrel Falco sparverius  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h3570pi.jpg"	Merlin Falco columbarius  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h3560pi.jpg"	Peregrine Falcon Falco peregrinus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h3550pi.jpg"	Prairie Falcon Falco mexicanus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h3110pi.jpg"	Plain Chachalaca Ortalis vetula  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h2882pi.jpg"	Chukar Alectoris chukar  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h3091pi.jpg"	Ring-necked Pheasant Phasianus colchicus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h3090pi.jpg"	Sage Grouse Centrocercus urophasianus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h2980pi.jpg"	Spruce Grouse Falcipennis canadensis  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h3010pi.jpg"	Willow Ptarmigan Lagopus lagopus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h3020pi.jpg"	Rock Ptarmigan Lagopus mutus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h3040pi.jpg"	White-tailed Ptarmigan Lagopus leucurus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h3050pi.jpg"	Greater Prairie-Chicken Tympanuchus cupido  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h3100pi.jpg"	Wild Turkey Meleagris gallopavo  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h2890pi.jpg"	Northern Bobwhite Colinus virginianus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h2930pi.jpg"	Scaled Quail Callipepla squamata  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h2950pi.jpg"	Gambel's Quail Callipepla gambelii  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h2940pi.jpg"	California Quail Callipepla californica  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h2110pi.jpg"	Clapper Rail Rallus longirostris  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h2080pi.jpg"	King Rail Rallus elegans  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h2120pi.jpg"	Virginia Rail Rallus limicola  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h2140pi.jpg"	Sora Porzana carolina  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h2180pi.jpg"	Purple Gallinule Porphyrula martinica  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h2190pi.jpg"	Common Moorhen Gallinula chloropus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h2210pi.jpg"	American Coot Fulica americana  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h2070pi.jpg"	Limpkin Aramus guarauna  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h2060pi.jpg"	Sandhill Crane Grus canadensis  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h2040pi.jpg"	Whooping Crane Grus americana  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h2700pi.jpg"	Black-bellied Plover Pluvialis squatarola  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h2720pi.jpg"	American Golden-Plover Pluvalis dominicus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h2721pi.jpg"	Pacific Golden-Plover Pluvalis fulva  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h2780pi.jpg"	Snowy Plover Charadrius alexandrinus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h2800pi.jpg"	Wilson's Plover Charadrius wilsonia  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h2740pi.jpg"	Semipalmated Plover Charadrius semipalmatus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h2770pi.jpg"	Piping Plover Charadrius melodus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h2730pi.jpg"	Killdeer Charadrius vociferus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h2810pi.jpg"	Mountain Plover Charadrius montanus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h2860pi.jpg"	American Oystercatcher Haematopus palliatus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h2870pi.jpg"	Black Oystercatcher Haematopus bachmani  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h2260pi.jpg"	Black-necked Stilt Himantopus mexicanus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h2250pi.jpg"	American Avocet Recurvirostra americana  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h2880pi.jpg"	Northern Jacana Jacana spinosa  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h2540pi.jpg"	Greater Yellowlegs Tringa melanoleuca  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h2550pi.jpg"	Lesser Yellowlegs Tringa flavipes  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h2560pi.jpg"	Solitary Sandpiper Tringa solitaria  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h2580pi.jpg"	Willet Catoptrophorus semipalmatus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h2590pi.jpg"	Wandering Tattler Tringa incana  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h2630pi.jpg"	Spotted Sandpiper Actitis macularia  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h2610pi.jpg"	Upland Sandpiper Bartramia longicauda  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h2650pi.jpg"	Whimbrel Numenius hudsonicus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h2640pi.jpg"	Long-billed Curlew Numenius americanus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h2510pi.jpg"	Hudsonian Godwit Limosa haemastica  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h2490pi.jpg"	Marbled Godwit Limosa fedoa  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h2830pi.jpg"	Ruddy Turnstone Arenaria interpres  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h2840pi.jpg"	Black Turnstone Arenaria melanocephala  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h2820pi.jpg"	Surfbird Aphriza virgata  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h2340pi.jpg"	Red Knot Calidris canutus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h2480pi.jpg"	Sanderling Calidris alba  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h2460pi.jpg"	Semipalmated Sandpiper Calidris pusilla  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h2470pi.jpg"	Western Sandpiper Calidris mauri  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h2420pi.jpg"	Least Sandpiper Calidris minutilla  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h2400pi.jpg"	White-rumped Sandpiper Calidris fuscicollis  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h2410pi.jpg"	Baird's Sandpiper Calidris bairdii  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h2390pi.jpg"	Pectoral Sandpiper Calidris melanotos  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h2350pi.jpg"	Purple Sandpiper Calidris maritima  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h2356pi.jpg"	Rock Sandpiper Calidris ptilocnemis  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h2430pi.jpg"	Dunlin Calidris alpina  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h2440pi.jpg"	Curlew Sandpiper Calidris ferruginea  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h2330pi.jpg"	Stilt Sandpiper Micropalama himantopus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h2620pi.jpg"	Buff-breasted Sandpiper Tryngites subruficollis  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h2310pi.jpg"	Short-billed Dowitcher Limnodromus griseus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h2320pi.jpg"	Long-billed Dowitcher Limnodromus scolopaceus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h2300pi.jpg"	Common Snipe Gallinago gallinago  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h2280pi.jpg"	American Woodcock Scolopax minor  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h2240pi.jpg"	Wilson's Phalarope Phalaropus tricolor  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h2230pi.jpg"	Red-necked Phalarope Phalaropus lobatus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h2220pi.jpg"	Red Phalarope Phalaropus fulicaria  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h0360pi.jpg"	Pomarine Jaeger Stercorarius pomarinus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h0370pi.jpg"	Parasitic Jaeger Stercorarius parasiticus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h0380pi.jpg"	Long-tailed Jaeger Stercorarius longicaudus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h0580pi.jpg"	Laughing Gull Larus atricilla  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h0590pi.jpg"	Franklin's Gull Larus pipixcan  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h0601pi.jpg"	Little Gull Larus minutus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h0551pi.jpg"	Black-headed Gull Larus ridibundus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h0600pi.jpg"	Bonaparte's Gull Larus philadelphia  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h0570pi.jpg"	Heermann's Gull Larus heermanni  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h0550pi.jpg"	Mew Gull Larus canus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h0540pi.jpg"	Ring-billed Gull Larus delawarensis  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h0530pi.jpg"	California Gull Larus californicus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h0510pi.jpg"	Herring Gull Larus argentatus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h0518pi.jpg"	Thayer's Gull Larus thayeri  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h0430pi.jpg"	Iceland Gull Larus glaucoides  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h0500pi.jpg"	Lesser Black-backed Gull Larus fuscus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h0490pi.jpg"	Western Gull Larus occidentalis  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h0440pi.jpg"	Glaucous-winged Gull Larus glaucescens  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h0420pi.jpg"	Glaucous Gull Larus hyperboreus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h0470pi.jpg"	Great Black-backed Gull Larus marinus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h0400pi.jpg"	Black-legged Kittiwake Rissa tridactyla  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h0410pi.jpg"	Red-legged Kittiwake Rissa brevirostris  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h0610pi.jpg"	Ross's Gull Rhodostethia rosea  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h0620pi.jpg"	Sabine's Gull Xema sabini  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h0390pi.jpg"	Ivory Gull Pagophila eburnea  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h0630pi.jpg"	Gull-billed Tern Sterna nilotica  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h0640pi.jpg"	Caspian Tern Sterna caspia  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h0650pi.jpg"	Royal Tern Sterna maxima  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h0660pi.jpg"	Elegant Tern Sterna elegans  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h0670pi.jpg"	Sandwich Tern Sterna sandvicensis  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h0720pi.jpg"	Roseate Tern Sterna dougallii  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h0700pi.jpg"	Common Tern Sterna hirundo  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h0710pi.jpg"	Arctic Tern Sterna paradisaea  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h0730pi.jpg"	Aleutian Tern Sterna aleutica  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h0690pi.jpg"	Forster's Tern Sterna forsteri  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h0740pi.jpg"	Least Tern Sterna antillarum  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h0760pi.jpg"	Bridled Tern Sterna anaethetus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h0770pi.jpg"	Black Tern Chlidonias niger  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h0790pi.jpg"	Brown Noddy Anous stolidus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h0791pi.jpg"	Black Noddy Anous minutus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h0800pi.jpg"	Black Skimmer Rhynchops niger  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h0340pi.jpg"	Dovekie Alle alle  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h0300pi.jpg"	Common Murre Uria aalge  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h0310pi.jpg"	Thick-billed Murre Uria lomvia  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h0270pi.jpg"	Black Guillemot Cepphus grylle  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h0290pi.jpg"	Pigeon Guillemot Cepphus columba  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h0210pi.jpg"	Ancient Murrelet Synthliboramphus antiquus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h0170pi.jpg"	Parakeet Auklet Aethia psittacula  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h0200pi.jpg"	Least Auklet Aethia pusilla  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h0180pi.jpg"	Crested Auklet Aethia cristatella  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h0120pi.jpg"	Tufted Puffin Fratercula cirrhata  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h0130pi.jpg"	Atlantic Puffin Fratercula arctica  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h0140pi.jpg"	Horned Puffin Fratercula corniculata  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h3131pi.jpg"	Rock Dove Columba livia  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h3151pi.jpg"	Spotted Dove Streptopelia chinensis  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h3190pi.jpg"	White-winged Dove Zenaida asiatica  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h3160pi.jpg"	Mourning Dove Zenaida macroura  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h3210pi.jpg"	Inca Dove Columbina inca  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h3201pi.jpg"	Ruddy Ground-Dove Columbina talpacoti  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h3180pi.jpg"	White-tipped Dove Leptotila verreauxi  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h3880pi.jpg"	Black-billed Cuckoo Coccyzus erythropthalmus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h3870pi.jpg"	Yellow-billed Cuckoo Coccyzus americanus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h3860pi.jpg"	Mangrove Cuckoo Coccyzus minor  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h3850pi.jpg"	Greater Roadrunner Geococcyx californianus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h3830pi.jpg"	Smooth-billed Ani Crotophaga ani  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h3840pi.jpg"	Groove-billed Ani Crotophaga sulcirostris  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h3650pi.jpg"	Barn Owl Tyto alba  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h3730pi.jpg"	Eastern Screech-Owl Otus asio  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h3750pi.jpg"	Great Horned Owl Bubo virginianus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h3760pi.jpg"	Snowy Owl Nyctea scandiaca  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h3770pi.jpg"	Northern Hawk-Owl Surnia ulula  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h3790pi.jpg"	Northern Pygmy-Owl Glaucidium gnoma  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h3800pi.jpg"	Ferruginous Pygmy-Owl Glaucidium brasilianum  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h3780pi.jpg"	Burrowing Owl Athene cunicularia  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h3690pi.jpg"	Spotted Owl Strix occidentalis  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h3680pi.jpg"	Barred Owl Strix varia  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h3700pi.jpg"	Great Gray Owl Strix nebulosa  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h3660pi.jpg"	Long-eared Owl Asio otus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h3670pi.jpg"	Short-eared Owl Asio flammeus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h3710pi.jpg"	Boreal Owl Aegolius funereus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h3720pi.jpg"	Northern Saw-whet Owl Aegolius acadicus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4200pi.jpg"	Common Nighthawk Chordeiles minor  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4190pi.jpg"	Pauraque Nyctidromus albicollis  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4160pi.jpg"	Chuck-will's-widow Caprimulgus carolinensis  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4170pi.jpg"	Whip-poor-will Caprimulgus vociferus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4410pi.jpg"	Broad-billed Hummingbird Cynanthus latirostris  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4390pi.jpg"	Buff-bellied Hummingbird Amazilia yucatanensis  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4391pi.jpg"	Violet-crowned Hummingbird Amazilia violiceps  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4270pi.jpg"	Blue-throated Hummingbird Lampornis clemenciae  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4260pi.jpg"	Magnificent Hummingbird Eugenes fulgens  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4280pi.jpg"	Ruby-throated Hummingbird Archilochus colubris  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4290pi.jpg"	Black-chinned Hummingbird Archilochus alexandri  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4310pi.jpg"	Anna's Hummingbird Calypte anna  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4300pi.jpg"	Costa's Hummingbird Calypte costae  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4320pi.jpg"	Broad-tailed Hummingbird Selasphorus platycercus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4330pi.jpg"	Rufous Hummingbird Selasphorus rufus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4340pi.jpg"	Allen's Hummingbird Selasphorus sasin  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h3890pi.jpg"	Elegant Trogon Trogon elegans  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h3901pi.jpg"	Ringed Kingfisher Ceryle torquata  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h3900pi.jpg"	Belted Kingfisher Ceryle alcyon  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h3910pi.jpg"	Green Kingfisher Chloroceryle americana  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4080pi.jpg"	Lewis's Woodpecker Melanerpes lewis  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4060pi.jpg"	Red-headed Woodpecker Melanerpes erythrocephalus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4070pi.jpg"	Acorn Woodpecker Melanerpes formicivorus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4110pi.jpg"	Gila Woodpecker Melanerpes uropygialis  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4100pi.jpg"	Golden-fronted Woodpecker Melanerpes aurifrons  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4090pi.jpg"	Red-bellied Woodpecker Melanerpes carolinus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4020pi.jpg"	Yellow-bellied Sapsucker Sphyrapicus varius  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h3960pi.jpg"	Ladder-backed Woodpecker Picoides scalaris  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h3940pi.jpg"	Downy Woodpecker Picoides pubescens  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h3930pi.jpg"	Hairy Woodpecker Picoides villosus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4130pi.jpg"	Red-shafted Flicker Colaptes cafer  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4120pi.jpg"	Yellow-shafted Flicker Colaptes auratus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4050pi.jpg"	Pileated Woodpecker Dryocopus pileatus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4720pi.jpg"	Northern Beardless-Tyrannulet Camptostoma imberbe  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4590pi.jpg"	Olive-sided Flycatcher Contopus cooperi  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4600pi.jpg"	Greater Pewee Contopus pertinax  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4620pi.jpg"	Western Wood-Pewee Contopus sordidulus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4610pi.jpg"	Eastern Wood-Pewee Contopus virens  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4630pi.jpg"	Yellow-bellied Flycatcher Empidonax flaviventris  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4650pi.jpg"	Acadian Flycatcher Empidonax virescens  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4663pi.jpg"	Alder Flycatcher Empidonax alnorium  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4670pi.jpg"	Least Flycatcher Empidonax minimus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4680pi.jpg"	Hammond's Flycatcher Empidonax hammondii  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4641pi.jpg"	Pacific-slope Flycatcher Empidonax difficilis  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4700pi.jpg"	Buff-breasted Flycatcher Empidonax fulvifrons  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4580pi.jpg"	Black Phoebe Sayornis nigricans  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4560pi.jpg"	Eastern Phoebe Sayornis phoebe  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4570pi.jpg"	Say's Phoebe Sayornis saya  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4710pi.jpg"	Vermilion Flycatcher Pyrocephalus rubinus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4550pi.jpg"	Dusky-capped Flycatcher Myiarchus tuberculifer  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4540pi.jpg"	Ash-throated Flycatcher Myiarchus cinerascens  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4520pi.jpg"	Great Crested Flycatcher Myiarchus crinitus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4530pi.jpg"	Brown-crested Flycatcher Myiarchus tyrannulus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4490pi.jpg"	Great Kiskadee Pitangus sulphuratus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4510pi.jpg"	Sulphur-bellied Flycatcher Myiodynastes luteiventris  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4460pi.jpg"	Tropical Kingbird Tyrannus melancholicus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4461pi.jpg"	Couch's Kingbird Tyrannus couchii  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4480pi.jpg"	Cassin's Kingbird Tyrannus vociferans  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4451pi.jpg"	Thick-billed Kingbird Tyrannus crassirostris  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4470pi.jpg"	Western Kingbird Tyrannus verticalis  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4440pi.jpg"	Eastern Kingbird Tyrannus tyrannus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4450pi.jpg"	Gray Kingbird Tyrannus dominicensis  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4430pi.jpg"	Scissor-tailed Flycatcher Tyrannus forficatus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4420pi.jpg"	Fork-tailed Flycatcher Tyrannus savana  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4411pi.jpg"	Rose-throated Becard Pachyramphus aglaiae  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6210pi.jpg"	Northern Shrike Lanius excubitor  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6220pi.jpg"	Loggerhead Shrike Lanius ludovicianus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6310pi.jpg"	White-eyed Vireo Vireo griseus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6290pi.jpg"	Blue-headed Vireo Vireo solitarius  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6292pi.jpg"	Plumbeous Vireo Vireo plumbeus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6280pi.jpg"	Yellow-throated Vireo Vireo flavifrons  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6270pi.jpg"	Warbling Vireo Vireo gilvus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6260pi.jpg"	Philadelphia Vireo Vireo philadelphicus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6240pi.jpg"	Red-eyed Vireo Vireo olivaceus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6230pi.jpg"	Black-whiskered Vireo Vireo altiloquus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4840pi.jpg"	Gray Jay Perisoreus canadensis  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4780pi.jpg"	Steller's Jay Cyanocitta stelleri  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4770pi.jpg"	Blue Jay Cyanocitta cristata  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4830pi.jpg"	Green Jay Cyanocorax yncas  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4832pi.jpg"	Brown Jay Psilorhinus morio  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4790pi.jpg"	Florida Scrub-Jay Aphelocoma coerulescens  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4810pi.jpg"	Western Scrub-Jay Aphelocoma californica  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4820pi.jpg"	Gray-breasted Jay Aphelocoma ultramarina  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4910pi.jpg"	Clark's Nutcracker Nucifraga columbiana  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4750pi.jpg"	Black-billed Magpie Pica pica  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4880pi.jpg"	American Crow Corvus brachyrhynchos  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4890pi.jpg"	Northwestern Crow Corvus caurinus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4900pi.jpg"	Fish Crow Corvus ossifragus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4870pi.jpg"	Chihuahuan Raven Corvus cryptoleucus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4860pi.jpg"	Common Raven Corvus corax  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4740pi.jpg"	Horned Lark Eremophila alpestris  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6110pi.jpg"	Purple Martin Progne subis  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6140pi.jpg"	Tree Swallow Tachycineta bicolor  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6150pi.jpg"	Violet-green Swallow Tachycineta thalassina  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6170pi.jpg"	Northern Rough-winged Swallow Stelgidopteryx serripennis  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6160pi.jpg"	Bank Swallow Riparia riparia  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6130pi.jpg"	Barn Swallow Hirundo rustica  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6120pi.jpg"	Cliff Swallow Petrochelidon pyrrhonota  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6121pi.jpg"	Cave Swallow Petrochelidon fulva  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h7350pi.jpg"	Black-capped Chickadee Poecile atricapillus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h7360pi.jpg"	Carolina Chickadee Poecile carolinensis  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h7390pi.jpg"	Siberian Tit Poecile cinctus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h7400pi.jpg"	Boreal Chickadee Poecile hudsonicus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h7410pi.jpg"	Chestnut-backed Chickadee Poecile rufescens  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h7340pi.jpg"	Bridled Titmouse Baeolophus wollweberi  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h7330pi.jpg"	Oak Titmouse Baeolophus inornatus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h7331pi.jpg"	Juniper Titmouse Baeolophus ridgwayi  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h7310pi.jpg"	Tufted Titmouse Baeolophus bicolor  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h7430pi.jpg"	Bushtit Psaltriparus minimus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h7280pi.jpg"	Red-breasted Nuthatch Sitta canadensis  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h7270pi.jpg"	White-breasted Nuthatch Sitta carolinensis  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h7260pi.jpg"	Brown Creeper Certhia americana  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h7130pi.jpg"	Cactus Wren Campylorhynchus brunneicapillus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h7150pi.jpg"	Rock Wren Salpinctes obsoletus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h7170pi.jpg"	Canyon Wren Catherpes mexicanus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h7180pi.jpg"	Carolina Wren Thryothorus ludovicianus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h7190pi.jpg"	Bewick's Wren Thryomanes bewickii  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h7210pi.jpg"	House Wren Troglodytes aedon  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h7220pi.jpg"	Winter Wren Troglodytes troglodytes  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h7250pi.jpg"	Marsh Wren Cistothorus palustris  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h7480pi.jpg"	Golden-crowned Kinglet Regulus satrapa  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h7490pi.jpg"	Ruby-crowned Kinglet Regulus calendula  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h7510pi.jpg"	Blue-gray Gnatcatcher Polioptila caerulea  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h7520pi.jpg"	Black-tailed Gnatcatcher Polioptila melanura  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h7640pi.jpg"	Bluethroat Luscinia svecica  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h7650pi.jpg"	Northern Wheatear Oenanthe oenanthe  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h7660pi.jpg"	Eastern Bluebird Sialia sialis  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h7670pi.jpg"	Western Bluebird Sialia mexicana  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h7680pi.jpg"	Mountain Bluebird Sialia currucoides  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h7540pi.jpg"	Townsend's Solitaire Myadestes townsendi  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h7560pi.jpg"	Veery Catharus fuscescens  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h7570pi.jpg"	Gray-cheeked Thrush Catharus minimus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h7580pi.jpg"	Swainson's Thrush Catharus ustulatus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h7590pi.jpg"	Hermit Thrush Catharus guttatus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h7550pi.jpg"	Wood Thrush Hylocichla mustelina  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h7621pi.jpg"	Clay-colored Robin Turdus grayi  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h7610pi.jpg"	American Robin Turdus migratorius  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h7420pi.jpg"	Wrentit Chamaea fasciata  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h7040pi.jpg"	Gray Catbird Dumetella carolinensis  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h7030pi.jpg"	Northern Mockingbird Mimus polyglottos  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h7050pi.jpg"	Brown Thrasher Toxostoma rufum  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h7060pi.jpg"	Long-billed Thrasher Toxostoma longirostre  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h7080pi.jpg"	Bendire's Thrasher Toxostoma bendirei 
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h7070pi.jpg"	Curve-billed Thrasher Toxostoma curvirostre  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h7100pi.jpg"	California Thrasher Toxostoma redivivum  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h7120pi.jpg"	Crissal Thrasher Toxostoma crissale  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4930pi.jpg"	European Starling Sturnus vulgaris  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6940pi.jpg"	White Wagtail Motacilla alba  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6990pi.jpg"	Red-throated Pipit Anthus cervinus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6970pi.jpg"	American Pipit Anthus rubescens  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h7000pi.jpg"	Sprague's Pipit Anthus spragueii  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6180pi.jpg"	Bohemian Waxwing Bombycilla garrulus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6190pi.jpg"	Cedar Waxwing Bombycilla cedrorum  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6200pi.jpg"	Phainopepla Phainopepla nitens  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6410pi.jpg"	Blue-winged Warbler Vermivora pinus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6420pi.jpg"	Golden-winged Warbler Vermivora chrysoptera  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6470pi.jpg"	Tennessee Warbler Vermivora peregrina  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6460pi.jpg"	Orange-crowned Warbler Vermivora celata  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6450pi.jpg"	Nashville Warbler Vermivora ruficapilla  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6480pi.jpg"	Northern Parula Parula americana  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6490pi.jpg"	Tropical Parula Parula pitiayumi  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6520pi.jpg"	Yellow Warbler Dendroica petechia  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6590pi.jpg"	Chestnut-sided Warbler Dendroica pensylvanica  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6570pi.jpg"	Magnolia Warbler Dendroica magnolia  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6500pi.jpg"	Cape May Warbler Dendroica tigrina  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6540pi.jpg"	Black-throated Blue Warbler Dendroica caerulescens  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6550pi.jpg"	Yellow-rumped Warbler Dendroica coronata  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6650pi.jpg"	Black-throated Gray Warbler Dendroica nigrescens  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6690pi.jpg"	Hermit Warbler Dendroica occidentalis  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6670pi.jpg"	Black-throated Green Warbler Dendroica virens  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6620pi.jpg"	Blackburnian Warbler Dendroica fusca  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6630pi.jpg"	Yellow-throated Warbler Dendroica dominica  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6640pi.jpg"	Grace's Warbler Dendroica graciae 
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6710pi.jpg"	Pine Warbler Dendroica pinus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6700pi.jpg"	Kirtland's Warbler Dendroica kirtlandii  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6730pi.jpg"	Prairie Warbler Dendroica discolor  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6720pi.jpg"	Palm Warbler Dendroica palmarum  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6600pi.jpg"	Bay-breasted Warbler Dendroica castanea  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6610pi.jpg"	Blackpoll Warbler Dendroica striata  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6580pi.jpg"	Cerulean Warbler Dendroica cerulea  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6360pi.jpg"	Black-&-white Warbler Mniotilta varia  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6870pi.jpg"	American Redstart Setophaga ruticilla  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6370pi.jpg"	Prothonotary Warbler Protonotaria citrea  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6390pi.jpg"	Worm-eating Warbler Helmitheros vermivorus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6380pi.jpg"	Swainson's Warbler Limnothlypis swainsonii  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6740pi.jpg"	Ovenbird Seiurus aurocapillus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6750pi.jpg"	Northern Waterthrush Seiurus noveboracensis  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6760pi.jpg"	Louisiana Waterthrush Seiurus motacilla  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6770pi.jpg"	Kentucky Warbler Oporornis formosus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6780pi.jpg"	Connecticut Warbler Oporornis agilis  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6790pi.jpg"	Mourning Warbler Oporornis philadelphia  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6810pi.jpg"	Common Yellowthroat Geothlypis trichas  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6840pi.jpg"	Hooded Warbler Wilsonia citrina  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6850pi.jpg"	Wilson's Warbler Wilsonia pusilla  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6860pi.jpg"	Canada Warbler Wilsonia canadensis  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6900pi.jpg"	Red-faced Warbler Cardellina rubrifrons  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6880pi.jpg"	Painted Redstart Myioborus pictus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6890pi.jpg"	Slate-throated Redstart Myioborus miniatus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6830pi.jpg"	Yellow-breasted Chat Icteria virens  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6100pi.jpg"	Summer Tanager Piranga rubra  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6080pi.jpg"	Scarlet Tanager Piranga olivacea  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6070pi.jpg"	Western Tanager Piranga ludoviciana  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5860pi.jpg"	Olive Sparrow Arremenops rufivirgatus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5921pi.jpg"	Green-tailed Towhee Pipilo chlorurus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5870pi.jpg"	Eastern Towhee Pipilo erythrophthalmus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5880pi.jpg"	Spotted Towhee Pipilo maculatus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5911pi.jpg"	California Towhee Pipilo crissalis  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5910pi.jpg"	Canyon Towhee Pipilo fuscus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5920pi.jpg"	Abert's Towhee Pipilo aberti  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6020pi.jpg"	White-collared Seedeater Sporophila torqueola  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5760pi.jpg"	Botteri's Sparrow Aimophila botterii  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5780pi.jpg"	Cassin's Sparrow Aimophila cassinii  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5790pi.jpg"	Rufous-winged Sparrow Aimophila carpalis  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5800pi.jpg"	Rufous-crowned Sparrow Aimophila ruficeps  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5590pi.jpg"	American Tree Sparrow Spizella arborea  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5600pi.jpg"	Chipping Sparrow Spizella passerina  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5610pi.jpg"	Clay-colored Sparrow Spizella pallida  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5630pi.jpg"	Field Sparrow Spizella pusilla  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5650pi.jpg"	Black-chinned Sparrow Spizella atrogularis  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5400pi.jpg"	Vesper Sparrow Pooecetes gramineus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5520pi.jpg"	Lark Sparrow Chondestes grammacus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5730pi.jpg"	Black-throated Sparrow Amphispiza bilineata  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6050pi.jpg"	Lark Bunting Calamospiza melanocorys  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5420pi.jpg"	Savannah Sparrow Passerculus sandwichensis  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5460pi.jpg"	Grasshopper Sparrow Ammodramus savannarum  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5470pi.jpg"	Henslow's Sparrow Ammodramus henslowii  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5480pi.jpg"	Le Conte's Sparrow Ammodramus leconteii  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5490pi.jpg"	Saltmarsh Sharp-tailed Sparrow Ammodramus caudacutus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5491pi.jpg"	Nelson's Sharp-tailed Sparrow Ammodramus nelsoni  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5500pi.jpg"	Seaside Sparrow Ammodramus maritimus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5850pi.jpg"	Fox Sparrow Passerella iliaca  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5810pi.jpg"	Song Sparrow Melospiza melodia  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5830pi.jpg"	Lincoln's Sparrow Melospiza lincolnii  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5840pi.jpg"	Swamp Sparrow Melospiza georgiana  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5580pi.jpg"	White-throated Sparrow Zonotrichia albicollis  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5530pi.jpg"	Harris's Sparrow Zonotrichia querula  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5540pi.jpg"	White-crowned Sparrow Zonotrichia leucophrys  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5570pi.jpg"	Golden-crowned Sparrow Zonotrichia atricapilla  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5670pi.jpg"	Dark-eyed Junco Junco hyemalis  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5700pi.jpg"	Yellow-eyed Junco Junco phaeonotus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5360pi.jpg"	Lapland Longspur Calcarius lapponicus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5380pi.jpg"	Chestnut-collared Longspur Calcarius ornatus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5340pi.jpg"	Snow Bunting Plectrophenax nivalis  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5930pi.jpg"	Northern Cardinal Cardinalis cardinalis  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5940pi.jpg"	Pyrrhuloxia Cardinalis sinuatus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5950pi.jpg"	Rose-breasted Grosbeak Pheucticus ludovicianus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5960pi.jpg"	Black-headed Grosbeak Pheucticus melanocephalus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5970pi.jpg"	Blue Grosbeak Guiraca caerulea  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5971pi.jpg"	Blue Bunting Cyanocompsa parellina 
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5980pi.jpg"	Indigo Bunting Passerina cyanea  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6000pi.jpg"	Varied Bunting Passerina versicolor  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6010pi.jpg"	Painted Bunting Passerina ciris  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6040pi.jpg"	Dickcissel Spiza americana  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4940pi.jpg"	Bobolink Dolichonyx oryzivorus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4980pi.jpg"	Red-winged Blackbird Agelaius phoeniceus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5000pi.jpg"	Tricolored Blackbird Agelaius tricolor  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5010pi.jpg"	Eastern Meadowlark Sturnella magna  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4970pi.jpg"	Yellow-headed Blackbird Xanthocephalus xanthocephalus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5090pi.jpg"	Rusty Blackbird Euphagus carolinus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5100pi.jpg"	Brewer's Blackbird Euphagus cyanocephalus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5110pi.jpg"	Common Grackle Quiscalus quiscula  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5130pi.jpg"	Boat-tailed Grackle Quiscalus major  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5139pi.jpg"	Great-tailed Grackle Quiscalus mexicanus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4961pi.jpg"	Shiny Cowbird Molothrus bonariensis  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4960pi.jpg"	Bronzed Cowbird Molothrus aeneus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h4950pi.jpg"	Brown-headed Cowbird Molothrus ater  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5060pi.jpg"	Orchard Oriole Icterus spurius  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5050pi.jpg"	Hooded Oriole Icterus cucullatus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5032pi.jpg"	Spot-breasted Oriole Icterus pectoralis  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5031pi.jpg"	Altamira Oriole Icterus gularis  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5030pi.jpg"	Audubon's Oriole Icterus graduacauda  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5070pi.jpg"	Baltimore Oriole Icterus galbula  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5080pi.jpg"	Bullock's Oriole Icterus bullockii  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5040pi.jpg"	Scott's Oriole Icterus parisorum  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5240pi.jpg"	Gray-crowned Rosy-Finch Leucosticte tephrocotis  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5150pi.jpg"	Pine Grosbeak Pinicola enucleator  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5170pi.jpg"	Purple Finch Carpodacus purpureus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5180pi.jpg"	Cassin's Finch Carpodacus cassinii  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5190pi.jpg"	House Finch Carpodacus mexicanus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5210pi.jpg"	Red Crossbill Loxia curvirostra  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5220pi.jpg"	White-winged Crossbill Loxia leucoptera  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5280pi.jpg"	Common Redpoll Carduelis flammea  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5270pi.jpg"	Hoary Redpoll Carduelis hornemanni  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5330pi.jpg"	Pine Siskin Carduelis pinus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5300pi.jpg"	Lesser Goldfinch Carduelis psaltria  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5310pi.jpg"	Lawrence's Goldfinch Carduelis lawrencei  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5290pi.jpg"	American Goldfinch Carduelis tristis  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h5140pi.jpg"	Evening Grosbeak Coccothraustes vespertinus  
+mbrimg	"http://www.mbr-pwrc.usgs.gov/id/htmsl/h6882pi.jpg"	House Sparrow Passer domesticus  

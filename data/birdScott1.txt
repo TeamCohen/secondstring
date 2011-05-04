@@ -1,0 +1,38 @@
+cscott	"http://www.infocom.net/~dsarkozi/gallery/chickade.htm"	Chickadee: Carolina   
+cscott	"http://www.infocom.net/~dsarkozi/gallery/incadove.htm"	Dove: Inca   
+cscott	"http://www.infocom.net/~dsarkozi/gallery/redegret.htm"	Egret: Reddish  Egretta rufescens    
+cscott	"http://www.infocom.net/~dsarkozi/gallery/grblue.htm"	Heron: Great blue (Grand HÅÈron)  Ardea herodias    
+cscott	"http://www.infocom.net/~dsarkozi/gallery/glossy.htm"	Ibis: Glossy   
+cscott	"http://www.infocom.net/~dsarkozi/gallery/whi-ibis.htm"	Ibis: White Ibis (Ibis blanc)  Eudocimus albus    
+cscott	"http://www.infocom.net/~dsarkozi/gallery/rckinglt.htm"	Kinglet: Ruby-crowned  Regulus calendula    
+cscott	"http://www.infocom.net/~dsarkozi/gallery/barnowl.htm"	Owl: Barn   
+cscott	"http://www.infocom.net/~dsarkozi/gallery/wilson.htm"	Plover: Wilson's   
+cscott	"http://www.infocom.net/~dsarkozi/gallery/avocet.htm"	Avocet, American (Avocette d'Amerique) :   Recurvirostra americana  
+cscott	"http://www.infocom.net/~dsarkozi/gallery/ambitter.htm"	Bittern, American (Butor d'AmÅÈrique) :   Botaurus lentiginosus 
+cscott	"http://www.infocom.net/~dsarkozi/gallery/maskboob.htm"	Booby, Masked :  
+cscott	"http://www.infocom.net/~dsarkozi/gallery/purgalli.htm"	Gallinule, Purple :   Porphyrula martinica  
+cscott	"http://www.infocom.net/~dsarkozi/gallery/snipe.htm"	Snipe, Common  (Becassine des marais) :   Gallinago gallinago  
+cscott	"http://www.infocom.net/~dsarkozi/gallery/blkbelly.htm"	Dendrocygna autumnalis  :  
+dsarkimg	"http://www.infocom.net/~dsarkozi/gallery/maskboob.htm" 	Masked Booby
+dsarkimg	"http://www.infocom.net/~dsarkozi/gallery/wodstork.htm" 	Wood Stork
+dsarkimg	"http://www.infocom.net/~dsarkozi/gallery/whi-ibis.htm" 	White Ibis
+dsarkimg	"http://www.infocom.net/~dsarkozi/gallery/glossy.htm" 	Glossy Ibis
+dsarkimg	"http://www.infocom.net/~dsarkozi/gallery/ambitter.htm" 	American Bittern
+dsarkimg	"http://www.infocom.net/~dsarkozi/gallery/lbittern.htm" 	Least Bittern
+dsarkimg	"http://www.infocom.net/~dsarkozi/gallery/grblue.htm" 	Great Blue Heron
+dsarkimg	"http://www.infocom.net/~dsarkozi/gallery/redegret.htm" 	Reddish Egret
+dsarkimg	"http://www.infocom.net/~dsarkozi/gallery/blkbelly.htm" 	Black-bellied Whistling-Duck
+dsarkimg	"http://www.infocom.net/~dsarkozi/gallery/wtkite.htm" 	White-tailed Kite
+dsarkimg	"http://www.infocom.net/~dsarkozi/gallery/bnstilt.htm" 	Black-necked Stilt
+dsarkimg	"http://www.infocom.net/~dsarkozi/gallery/gyelleg.htm" 	Greater Yellowlegs
+dsarkimg	"http://www.infocom.net/~dsarkozi/gallery/wilson.htm" 	Wilson's Plover
+dsarkimg	"http://www.infocom.net/~dsarkozi/gallery/snipe.htm" 	Common Snipe
+dsarkimg	"http://www.infocom.net/~dsarkozi/gallery/avocet.htm" 	American Avocet
+dsarkimg	"http://www.infocom.net/~dsarkozi/gallery/clapper.htm" 	Clapper Rail
+dsarkimg	"http://www.infocom.net/~dsarkozi/gallery/purgalli.htm" 	Purple Gallinule
+dsarkimg	"http://www.infocom.net/~dsarkozi/gallery/barnowl.htm" 	Barn Owl
+dsarkimg	"http://www.infocom.net/~dsarkozi/gallery/incadove.htm" 	Inca Dove
+dsarkimg	"http://www.infocom.net/~dsarkozi/gallery/chickade.htm" 	Carolina Chickadee
+dsarkimg	"http://www.infocom.net/~dsarkozi/gallery/rckinglt.htm" 	Ruby-crowned Kinglet
+dsarkimg	"http://www.infocom.net/~dsarkozi/gallery/shrike.htm" 	Loggerhead Shrike
+dsarkimg	"http://www.infocom.net/~dsarkozi/gallery/scissor.htm" 	Scissor-tailed Flycatcher

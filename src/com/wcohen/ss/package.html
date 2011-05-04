@@ -1,0 +1,26 @@
+<BODY>
+This package contains a bunch of approximate string comparators, plus code for
+performing controlled experiments with this.
+
+<P>
+A {@link com.wcohen.ss.api.StringDistance} is the basic class
+for computing distances.  The score() function of this class outputs a
+distance measure between its two arguments.  The other methods are
+there for efficiency, so that preprocessing steps (like tokenization)
+can be amortized over multiple comparisons with the same string.
+
+<P>
+The way that preprocessing steps are saved is by creating a {@link
+com.wcohen.ss.api.StringWrapper} object which contains the
+preprocessed string, plus whatever else needs to be cached.  To do
+this, extend default implementation of StringWrapper.
+
+<P>
+Almost everything in this package implements StringDistance. The only
+(public) exceptions are StringWrapper; PrintfFormat, pilfered from Sun
+to make the explanations easier; {@link
+com.wcohen.ss.CharMatchScore}, which is a character-based
+distance metric; and {@link com.wcohen.ss.MemoMatrix}, a
+utility for defining edit-distance-based methods.
+
+</BODY>

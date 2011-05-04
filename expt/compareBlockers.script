@@ -1,0 +1,10 @@
+blocker TokenBlocker
+#blocker NGramBlocker
+##############################
+#token-based metrics
+distance Jaccard
+dataset ../data/parks.txt
+dataset ../data/animal.txt
+compute
+table time
+table blockerRecall

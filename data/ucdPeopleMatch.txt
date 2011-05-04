@@ -1,0 +1,90 @@
+ucb1	ID1	Mrs. Yvonne Abbott
+ucb2	ID1	Abbott, Yvonne
+ucb1	ID2	Ms. Badia Abughrien
+ucb2	ID2	Abughrien, Badia
+ucb1	ID3	Ciara Acton
+ucb2	ID3	Acton, Ciara
+ucb1	ID4	Acton, Gillian
+ucb2	ID4	Ms. Gillian Acton, Secretary
+ucb1	ID5	Mr. Adrian Adams
+ucb2	ID5	Adams, Adrian
+ucb1	ID6	Dr. Suren Aghajanian
+ucb2	ID6	Aghajanian, Suren
+ucb1	ID7	Ms. Margaret Agnew (Creditors)
+ucb2	ID7	Agnew, Margaret
+ucb1	ID8	Dr. Cornelius P. Ahern
+ucb2	ID8	Ahern, Cornelius P.
+ucb1	ID9	Dr. Richard Aldous
+ucb2	ID9	Aldous, Richard
+ucb1	ID10	Ms. Brenda Alford, Executive Assistant
+ucb2	ID10	Alford, Brenda
+ucb1	ID11	Ms. Dorothy Allen, Senior Executive Assistant
+ucb2	ID11	Allen, Dorothy
+ucb1	ID12	Susana Alvarez
+ucb2	ID12	Alvarez, Susana
+ucb1	ID13	Dr. T. Ambrose
+ucb2	ID13	Ambrose, T.
+ucb1	ID14	Mr. Brad Anderson
+ucb2	ID14	Anderson, Brad
+ucb1	ID15	Ms. Leila Anglade
+ucb2	ID15	Anglade, Leila
+ucb1	ID16	Mr. Diego Arango
+ucb2	ID16	Arango, Diego
+ucb1	ID17	Dr. Raymond Astbury
+ucb2	ID17	Astbury, Raymond
+ucb1	ID18	Dr. Maria Baghramian
+ucb2	ID18	Baghramian, Maria
+ucb1	ID19	Ms. Suzanne Bailey, Marketing Executive - Sport
+ucb2	ID19	Bailey, Suzanne
+ucb1	ID20	Dr. Alan W. Baird
+ucb2	ID20	Baird, Alan W.
+ucb1	ID21	Professor Kenneth P. Baker
+ucb2	ID21	Baker, Kenneth P.
+ucb1	ID22	Gerard Baldwin
+ucb2	ID22	Baldwin, Gerard
+ucb1	ID23	Ms. Jennie Baldwin
+ucb2	ID23	Baldwin, Jennie
+ucb1	ID24	Alan Bannon
+ucb2	ID24	Bannon, Alan
+ucb1	ID25	Ms. Margaret Bannon, Acting Programme Manager
+ucb2	ID25	Bannon, Margaret
+ucb1	ID26	Professor Michael J. Bannon, Head of Department
+ucb2	ID26	Bannon, Michael
+ucb1	ID27	Professor John C. Barnes
+ucb2	ID27	Barnes, John C.
+ucb1	ID28	Mr. Kevin Barnes, Superintendent of Sports Facilities
+ucb2	ID28	Barnes, Kevin
+ucb1	ID29	Dr. Thomas B. Barragry
+ucb2	ID29	Barragry, Thomas B.
+ucb1	ID30	Dr. Carol Barrett (Also Biotech. Office F.13, Ext. 2809)
+ucb2	ID30	Barrett, Carol
+ucb1	ID31	Dr. John Barrett
+ucb2	ID31	Barrett, John
+ucb1	ID32	Paul Barrett
+ucb2	ID32	Barrett, Paul
+ucb1	ID33	Ms. Anne Barron
+ucb2	ID33	Barron, Anne
+ucb1	ID34	Dr. Frank Barry
+ucb2	ID34	Barry, Frank
+ucb1	ID35	Ms Ursula Barry, College Lecturer
+ucb2	ID35	Barry, Ursula
+ucb1	ID36	Professor Thomas Bartlett, Head of Department
+ucb2	ID36	Bartlett, Thomas
+ucb1	ID37	Dr. Hugh F. Bassett
+ucb2	ID37	Bassett, Hugh F.
+ucb1	ID38	Ms. Sheila Baynes (MAcc)
+ucb2	ID38	Baynes, Sheila
+ucb1	ID39	Ms. Natalie Bedel, Library Assistant
+ucb2	ID39	Bedel, Natalie
+ucb1	ID40	Ms. Aine Begley, Executive Assistant
+ucb2	ID40	Begley, Aine
+ucb1	ID41	Professor Orlando Behling
+ucb2	ID41	Behling, Orlando
+ucb1	ID42	Mr. Gareth Bell
+ucb2	ID42	Bell, Gareth
+ucb1	ID43	Mr. Tim Bell (Employee Relationa)
+ucb2	ID43	Bell, Tim
+ucb1	ID44	Ms. Attracta Bell
+ucb2	ID44	Bell, Attracta
+ucb1	ID45	Mr. Andrew Bell, Newman Scholar
+ucb2	ID45	Bell, Andrew

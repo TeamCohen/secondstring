@@ -1,0 +1,116 @@
+vauniv	ID1	National Radio Astronomy Observatory Charlottesville
+vauniv	ID1	National Radio Astronomy Observatory, Charlottesville
+vauniv	ID1	National Radio Astronomy Observatory, Charolottesville
+vauniv	ID1	Natitonal Radio Astronomy Observatory, Charlottesville
+vauniv	ID1	National Radio Astronomy Observatory, Charlotsville
+vauniv	ID1	National Radio Astronomy Observatory, Charlottesvile
+vauniv	ID1	National Radio Astronomy Observatory, Charlottsville
+vauniv	ID1	National Astronomy Observatory, Charlottesville
+vauniv	ID1	Nationa Radio Astronomy Observatory, Charlottesville
+vauniv	ID1	National Radio Astronomy Observatory, Charlottesvill
+vauniv	ID1	National Radio Astronomy Observatory, Charlotesville
+vauniv	ID1	National Radio Astronomy Laboratory, Charlottesville
+vauniv	ID1	National Radio Astronomy Observatory, Charlottesville, Virginia
+vauniv	ID2	Virginia University, Charlottesville
+vauniv	ID2	Virginia, University, Charlottesville
+vauniv	ID2	University of Virginia
+vauniv	ID2	University of Virginia, Virginia
+vauniv	ID2	University of Virginia, Charlottsville
+vauniv	ID2	University of Virgina, Charlottesville
+vauniv	ID2	University of Virginia, Charlottesville
+vauniv	ID2	University of Virginia, Charlottesville, Virginia
+vauniv	ID2	University of Virginia, Charlottesvill
+vauniv	ID2	Virgina University, Charlottesville
+vauniv	ID2	Virgina, University, Charlottesville
+vauniv	ID2	Virginia University
+vauniv	ID2	Virginia, University
+vauniv	ID2	Leander McCormick Observatory, Charlottesville
+vauniv	ID2	Leander J. McCormick Observatory, Charlottesville
+vauniv	ID2	University of VA., Charlottesville
+vauniv	ID3	National Aeronautics and Space Administration Langley Research Center, Hampton
+vauniv	ID3	National Aeronautics and Space Administration, Langley Research Center, Hampton
+vauniv	ID3	National Aeronautics and Space Administration, Langley Research Center, Flight Electronics Division, Hampton
+vauniv	ID3	National Aeronautics and Space Administration Langely Research Center, Hampton
+vauniv	ID3	National Aeronautics and Space Administration, Langley Research Center, Flight Instrumentation Division, Hampton
+vauniv	ID3	National Aeronautics and Space Administration, Langley Research Center, Mathematical Fluid Physics Section, Hampton
+vauniv	ID4	Virginia Polytechnic Institute and State University, Blacksburg
+vauniv	ID4	Virginia, Polytechnic Institute and State University, Blacksburg
+vauniv	ID4	Virginia Polytechnic Institute and State University
+vauniv	ID4	Polytechnic Institute & State University, Blacksburg
+vauniv	ID4	Virginia Polytechnic and State University, Blacksburg
+vauniv	ID4	Virginia Polytechnic Institute and State University, Charlottesville
+vauniv	ID4	Virginia Polytechnic Institute and State Univesity, Blacksburg
+vauniv	ID4	Virginia Polytechic Institute and State University, Blacksburg
+vauniv	ID4	Virginia Polytechnic Institute
+vauniv	ID5	George Mason University, Fairfax
+vauniv	ID5	Geoerge Mason University, Fairfax
+vauniv	ID5	Geroge Mason University, Fairfax
+vauniv	ID6	United States Geological Survey, Reston
+vauniv	ID6	United States Geological Survey, 954 National Center, Reston
+vauniv	ID6	United States Geological Survey, National Center, Reston
+vauniv	ID6	United States Geological Survey, Analytical Studies Branch, Reston
+vauniv	ID7	Hampden-Sydney College
+vauniv	ID7	Hampden-Sydney College, Hampden-Sydney
+vauniv	ID8	College of William and Mary, Williamsburg
+vauniv	ID8	College of William and Mary, Williamsburgh
+vauniv	ID9	Old Dominion University, Norfolk
+vauniv	ID9	Old Dominion University Research Foundation, Norfolk
+vauniv	ID9	Mechanical Engineering & Mechanics Department, Old Dominion University, Norfolk
+vauniv	ID10	Science Applications, Inc., McLean
+vauniv	ID10	Science Applications International Corporation, McLean
+vauniv	ID11	Analytical Mechanics Associates, Inc., Hampton
+vauniv	ID12	West Virginia University, Morgantown
+vauniv	ID12	West Virginia University, Morgantown, W.
+vauniv	ID13	Computational Physics Inc., Fairfax
+vauniv	ID13	Computational Physics, Inc., Fairfax
+vauniv	ID13	Computational Physics, Inc., Annandale
+vauniv	ID14	Beers Associates, Inc., Reston
+vauniv	ID15	Science Applications International Corporation, Hampton
+vauniv	ID16	General Research Corporation, Arlington
+vauniv	ID17	Sweet Briar College, Sweet Briar
+vauniv	ID18	Institute for Computer Applications in Science and Engineering, Hampton
+vauniv	ID19	Virginia Military Institute, Lexington
+vauniv	ID20	Randolph-Macon College, Ashland
+vauniv	ID21	Institute for Defense Analyses, Alexandria
+vauniv	ID21	Institute of Defense Analyses, Alexandria
+vauniv	ID22	Systems and Applied Sciences Corporation, Hampton
+vauniv	ID23	National Radio Astronomy Observatory, Green Bank, W.Va.
+vauniv	ID23	National Radio Astronomy Laboratory, Green Bank, W.
+vauniv	ID23	National Radioastronomy Observatory, Green Bank, W.
+vauniv	ID23	National Radio Astronomy Observatory, Green Bank, W.
+vauniv	ID23	National Radio Astronomy Observatory, Greenbank, W.
+vauniv	ID24	United States Navy, Office of Naval Research, Arlington
+vauniv	ID25	Phoenix Corporation, McLean
+vauniv	ID26	BDM Corporation, McLean
+vauniv	ID27	Mitre Corporation, McLean
+vauniv	ID28	Hollins College, Roanoke
+vauniv	ID29	Roanoke College, Salem
+vauniv	ID30	ST Systems Corporation, Hampton
+vauniv	ID31	Radford University, Radford
+vauniv	ID32	United States Army, Engineer Topographic Laboratories, Fort Belvoir
+vauniv	ID32	United States Army, Directorate of Evaluation and Standardization, Fort Belvoir
+vauniv	ID33	Texas Instruments, Inc., Alexandria
+vauniv	ID34	Virginia, Medical College, Richmond
+vauniv	ID35	Research Support Instruments, Alexandria
+vauniv	ID36	Electronic Data Systems, Inc., Alexandria
+vauniv	ID37	JAYCOR, Alexandria
+vauniv	ID38	Hampton University
+vauniv	ID39	Longwood College
+vauniv	ID40	W. J. Schafer Associates, Inc., Hampton, Virginia
+vauniv	ID41	Vigyan, Inc., Hampton
+vauniv	ID42	Lynchburg College
+vauniv	ID43	Lockheed Engineering and Science, Hampton
+vauniv	ID44	ENSCO, Inc., Springfield
+vauniv	ID45	Bionetics Corporation, Hampton
+vauniv	ID46	Institute for Atmospheric Optics and Remote Sensing, Hampton
+vauniv	ID47	Computer Sciences Corporation, Falls Church
+vauniv	ID48	Anser Analytic Services, Inc., Arlington
+vauniv	ID49	Grumman Space Station Integration Division, 1760 Business Center Dr., Reston
+vauniv	ID50	Contel Federal Systems, Chantilly
+vauniv	ID51	Science Applications Laboratory for Atmospheric and Space Sciences, McLean
+vauniv	ID52	National Science Foundation, Arlington
+vauniv	ID53	United States Navy, Naval Surface Weapons Center, Dahlgren
+vauniv	ID54	Interferometrics, Inc., Vienna
+vauniv	ID55	USVA, Medical Center
+vauniv	ID56	Joint Publications Research Service, Arlington
+vauniv	ID57	Structural Dynamics Engineer, Reston

@@ -1,0 +1,841 @@
+A	ID4447124106922810001	 ANDERSON                     4848         BASSWOOD            
+A	ID4447124106922810003	 ANDERSON                     4848         BASSWOOD            
+A	ID4447124106922810004	 ANDERSON                     4848         BASSWOOD            
+A	ID4447124106922810002	 ANDERSON                     4848         BASSWOOD            
+A	ID4447124106881610001	 AQUENDO       CLARA        J 666          STARKEY             
+A	ID4447124106879010001	 BENITEZ       LEARONAD     A 660          STARKEY             
+A	ID4447124106879010003	 BENITEZ       SAMUEL       R 660          STARKEY             
+A	ID4447124106879010002	 BENITEZ       DELORES      R 660          STARKEY             
+A	ID4447124106897210001	 BODNER        JAMEL        C 102          BANK                
+A	ID4447124106897210002	 BODNER        ROSETTA      L 102          BANK                
+A	ID4447124106897210003	 BODNER        MADGE        R 102          BANK                
+A	ID4447124106897210004	 BODNER        ROSALIND     N 102          BANK                
+A	ID4447124106897210005	 BODNER        CAROLYN      L 102          BANK                
+A	ID4447124106923610001	 CENTURY       IVAN         R 4906         BASSWOOD            
+A	ID4447124106923610002	 CENTURY       RAMON        L 4906         BASSWOOD            
+A	ID4447124106923610003	 CENTURY       ALICIA       B 4906         BASSWOOD            
+A	ID4447124106894910001	 CHEESMAN      DONYA        L 690          STARKEY             
+A	ID4447124106894910002	 CHEESMAN      DONTE          690          STARKEY             
+A	ID4447124106920210001	 CONYERE       DOMINIQUE    S 4836         BASSWOOD            
+A	ID4447124106920210002	 CONYERE       CONNIE       E 4836         BASSWOOD            
+A	ID4447124106912910004	 COSGRAVE      SEKOV        L 202          BANK                
+A	ID4447124106912910001	 COSGRAVE      TIERRA         202          BANK                
+A	ID4447124106912910003	 COSGRAVE      THERSA       G 202          BANK                
+A	ID4447124106912910002	 COSGRAVE                   L 202          BANK                
+A	ID4447124106912910005	 COSGRAVE                   C 202          BANK                
+A	ID4447124106899810001	 DANIEL LEIVA  SAMMY        J 729          RIDLEY              
+A	ID4447124106899810002	 DANIEL LEIVA  THAOLYNN     R 729          RIDLEY              
+A	ID4447124106915210001	 DARCOURT                   G 4802         BASSWOOD            
+A	ID4447124106909510001	 DECANAY       MICHEAL      A 112          MITCHELL            
+A	ID4447124106909510002	 DECANAY       AJASIA       M 112          MITCHELL            
+A	ID4447124106909510003	 DECANAY       BRIANCE      G 112          MITCHELL            
+A	ID4447124106877410001	 DIVERS        MILEORD      J 658          STARKEY             
+A	ID4447124106883210001	 DOMINGUEZ     FRANKLIN     K 672          STARKEY             
+A	ID4447124106883210002	 DOMINGUEZ     SHAVON       M 672          STARKEY             
+A	ID4447124106874110001	 FAUST         ANNA         N 652          STARKEY             
+A	ID4447124106908710003	 FISCHGRUND    WESTLEY      M 110          MITCHELL            
+A	ID4447124106908710001	 FISCHGRUND    NADESDIA     A 110          MITCHELL            
+A	ID4447124106908710002	 FISCHGRUND    DANYCE       L 110          MITCHELL            
+A	ID4447124106892310001	 GENE          MICHAEL      C 686          STARKEY             
+A	ID4447124106892310002	 GENE          CASSANDRA    C 686          STARKEY             
+A	ID4447124106913710002	 GIERINGER     GHOLOM       W 200          BANK                
+A	ID4447124106913710003	 GIERINGER     JEFFERY      W 200          BANK                
+A	ID4447124106913710004	 GIERINGER     JEFFERY      W 200          BANK                
+A	ID4447124106913710005	 GIERINGER     DOUGLAS      D 200          BANK                
+A	ID4447124106913710001	 GIERINGER     MAIRE        T 200          BANK                
+A	ID4447124106917810001	 GREEN         TEMPESTT     Z 4816         BASSWOOD            
+A	ID4447124106917810002	 GREEN                      L 4816         BASSWOOD            
+A	ID4447124106906110001	 HENNEGGEY                  L 102          MITCHELL            
+A	ID4447124106906110002	 HENNEGGEY                  L 102          MITCHELL            
+A	ID4447124106916010001	 HILL          RAYMOND      G 4810         BASSWOOD            
+A	ID4447124106910310001	 JIMENCZ       IRVIN        V 214          BANK                
+A	ID4447124106910310003	 JIMENCZ       AUNDERE      V 214          BANK                
+A	ID4447124106910310002	 JIMENCZ       WILLPAMINA   S 214          BANK                
+A	ID4447124106885710001	 JIMENEZ       BARBARA      M 674          STARKEY             
+A	ID4447124258794710001	 KAY                          4926         BASSWOOD            
+A	ID4447124258795410001	 KELLY                        4932         BASSWOOD            
+A	ID4447124106924410001	 KILLION       JORGE        L 4914         BASSWOOD            
+A	ID4447124106911110002	 LAKATOS       TONYA        M 206          BANK                
+A	ID4447124106911110001	 LAKATOS       DANEILLE     S 206          BANK                
+A	ID4447124106875810001	 LASSITER                   J 654          STARKEY             
+A	ID4447124106875810002	 LASSITER                     654          STARKEY             
+A	ID4447124106876610001	 LASSITER      DOROTHEA     K 656          STARKEY             
+A	ID4447124106876610002	 LASSITER      LELIA          656          STARKEY             
+A	ID4447124106907910001	 LETO          JOSEPH       E 104          MITCHELL            
+A	ID4447124106887310002	 MALDONADO     DEWIGHT      B 678          STARKEY             
+A	ID4447124106887310003	 MALDONADO     MARQUISE       678          STARKEY             
+A	ID4447124106887310001	 MALDONADO     MABLE          678          STARKEY             
+A	ID4447124106905310002	 MALENDES                     705          RIDLEY              
+A	ID4447124106905310001	 MALENDES                   A 705          RIDLEY              
+A	ID4447124106925120002	 MCCLAIN                      4920         BASSWOOD            
+A	ID4447124106890710001	 MOSQUERA      AISHA        C 682          STARKEY             
+A	ID4447124106890710004	 MOSQUERA      ANDREA       G 682          STARKEY             
+A	ID4447124106890710002	 MOSQUERA      ROMINE       O 682          STARKEY             
+A	ID4447124106890710003	 MOSQUERA      TANYA        O 682          STARKEY             
+A	ID4447124106890710005	 MOSQUERA      PRINCETTA    D 682          STARKEY             
+A	ID4447124106890710006	 MOSQUERA      LAKESHIA     O 682          STARKEY             
+A	ID4447124106891510001	 MOSQUERA      HERMEN       M 684          STARKEY             
+A	ID4447124106919410002	 PAIGIE        XANTHE       N 4830         BASSWOOD            
+A	ID4447124106886510001	 PARVA         JEMES        V 676          STARKEY             
+A	ID4447124106886510002	 PARVA                      G 676          STARKEY             
+A	ID4447124106882410001	 RODRIGUEZ     TOWANDA      S 670          STARKEY             
+A	ID4447124106882410002	 RODRIGUEZ     GEARLDINE      670          STARKEY             
+A	ID4447124106896410001	 ROUNSEVELLE   DEREK          100          BANK                
+A	ID4447124106898010001	 SKANOS        DAVON        B 104          BANK                
+A	ID4447124106898010002	 SKANOS        LENORA       S 104          BANK                
+A	ID4447124106889910001	 TORRES        RANDOLPH     E 680          STARKEY             
+A	ID4447124106889910002	 TORRES        FREEMAN      R 680          STARKEY             
+A	ID4447124106904610001	 VALDES        WAYNE        H 723          RIDLEY              
+A	ID4447124106904610002	 VALDES        THRESA         723          RIDLEY              
+A	ID4447124106880810001	 VARGAS        BRANDEN      R 664          STARKEY             
+A	ID4447124106880810002	 VARGAS        ALEXANDER    R 664          STARKEY             
+A	ID4447124106880810003	 VARGAS        ELIZABETH    L 664          STARKEY             
+A	ID4447124106900410001	 VARGAS        THUYKIM        727          RIDLEY              
+A	ID4447124106921010002	 WEBSTER       DANNY        A 4842         BASSWOOD            
+A	ID4447124106921010001	 WEBSTER       SHALLY         4842         BASSWOOD            
+A	ID4447124106914510001	 WICZALKOWSKI  ALEXANDER    J 210          BANK                
+A	ID4447124106914510002	 WICZALKOWSKI  DOLORES      A 210          BANK                
+A	ID4448125110715010004	 BANK                       D 6540         MALIBU              
+A	ID4448125110715010005	 BANK                         6540         MALIBU              
+A	ID4448125110715010001	 BANK                       A 6540         MALIBU              
+A	ID4448125110715010002	 BANK                       P 6540         MALIBU              
+A	ID4448125110715010003	 BANK                       P 6540         MALIBU              
+A	ID4448125110796010002	 BARNES                     B 6550         MALIBU              
+A	ID4448125110796010001	 BARNES                     C 6550         MALIBU              
+A	ID4448125110797810002	 BURGERSS                   L 6556         MALIBU              
+A	ID4448125110797810003	 BURGERSS                   D 6556         MALIBU              
+A	ID4448125110797810001	 BURGERSS                   L 6556         MALIBU              
+A	ID4448125110798610004	 BURGESS                    L 6560         MALIBU              
+A	ID4448125110798610001	 BURGESS                    E 6560         MALIBU              
+A	ID4448125110798610002	 BURGESS                    C 6560         MALIBU              
+A	ID4448125110798610003	 BURGESS                    D 6560         MALIBU              
+A	ID4448125110699610001	 BURRISS                    A 6500         MALIBU              
+A	ID4448125110699610002	 BURRISS                      6500         MALIBU              
+A	ID4448125110699610003	 BURRISS                      6500         MALIBU              
+A	ID4448125110795210001	 BUTLER                       6546         MALIBU              
+A	ID4448125110801810002	 CHISOLM                    A 6578         MALIBU              
+A	ID4448125110801810001	 CHISOLM                    J 6578         MALIBU              
+A	ID4448125110800010001	 COATES                       6566         MALIBU              
+A	ID4448125110811710001	 CONRON        LATISHA      D 110          ELDORADO            
+A	ID4448125110714310002	 COTTEN                     C 6526         MALIBU              
+A	ID4448125110714310003	 COTTEN                     R 6526         MALIBU              
+A	ID4448125110714310001	 COTTEN                     A 6526         MALIBU              
+A	ID4448125110698810002	 DIGGS                      A 4952         BASSWOOD            
+A	ID4448125110698810001	 DIGGS                      A 4952         BASSWOOD            
+A	ID4448125110818210001	 DORSIE                     A 117          ELDORADO            
+A	ID4448125110805910001	 DUNNOCK                    M 953          CARL VINSON         
+A	ID4448125110819010001	 GOINS                      L 115          ELDORADO            
+A	ID4448125110819010002	 GOINS                      T 115          ELDORADO            
+A	ID4448125110819010003	 GOINS                      R 115          ELDORADO            
+A	ID4448125110819010004	 GOINS                        115          ELDORADO            
+A	ID4448125110705110002	 GOWANS                     D 6520         MALIBU              
+A	ID4448125110705110001	 GOWANS                     M 6520         MALIBU              
+A	ID4448125110816610003	 HOERRLING     REFUS        D 114          ELDORADO            
+A	ID4448125110816610004	 HOERRLING     CHRISTOPHER  D 114          ELDORADO            
+A	ID4448125110816610005	 HOERRLING     ZACHARY      B 114          ELDORADO            
+A	ID4448125110816610001	 HOERRLING     TRAINA       A 114          ELDORADO            
+A	ID4448125110816610002	 HOERRLING     ANA          C 114          ELDORADO            
+A	ID4448125110808310002	 HOLMES        GERALDO      S 108          ELDORADO            
+A	ID4448125110808310003	 HOLMES        FRANCISCO    D 108          ELDORADO            
+A	ID4448125110808310004	 HOLMES        ERICK        D 108          ELDORADO            
+A	ID4448125110808310001	 HOLMES        LUCILLE      W 108          ELDORADO            
+A	ID4448125110808310005	 HOLMES                       108          ELDORADO            
+A	ID4448125110822410001	 HUGGINCHES                 R 109          ELDORADO            
+A	ID4448125110822410002	 HUGGINCHES                 R 109          ELDORADO            
+A	ID4448125110822410004	 HUGGINCHES                 A 109          ELDORADO            
+A	ID4448125110822410003	 HUGGINCHES                 M 109          ELDORADO            
+A	ID4448125110815810005	 HUTCHINSON                   112          ELDORADO            
+A	ID4448125110815810001	 HUTCHINSON                   112          ELDORADO            
+A	ID4448125110815810003	 HUTCHINSON                   112          ELDORADO            
+A	ID4448125110815810004	 HUTCHINSON                   112          ELDORADO            
+A	ID4448125110817410001	 LEVEN                      M 957          CARL VINSON         
+A	ID4448125110702810002	 MATKIN                     L 6514         MALIBU              
+A	ID4448125110702810003	 MATKIN                     L 6514         MALIBU              
+A	ID4448125110702810004	 MATKIN                       6514         MALIBU              
+A	ID4448125110702810001	 MATKIN                       6514         MALIBU              
+A	ID4448125110701010004	 OWENS                      L 6508         MALIBU              
+A	ID4448125110701010006	 OWENS                      G 6508         MALIBU              
+A	ID4448125110701010001	 OWENS                      E 6508         MALIBU              
+A	ID4448125110701010002	 OWENS                      T 6508         MALIBU              
+A	ID4448125110701010003	 OWENS                      N 6508         MALIBU              
+A	ID4448125110701010005	 OWENS                      S 6508         MALIBU              
+A	ID4448125110807510001	 PAIGE                        106          ELDORADO            
+A	ID4448125110820810001	 SPRINGGS      ROY            113          ELDORADO            
+A	ID4448125110803410002	 SYKES                        4901         MONTEGO             
+A	ID4448125110803410003	 SYKES                        4901         MONTEGO             
+A	ID4448125110803410001	 SYKES                        4901         MONTEGO             
+A	ID4448125110803410004	 SYKES                        4901         MONTEGO             
+A	ID4448125110804210001	 THOMPSON      ROSETTA        6532         MALIBU              
+A	ID4448125110821610001	 TREZEVANT     JACQUELINE   M 111          ELDORADO            
+A	ID4448125110821610002	 TREZEVANT     ANA          M 111          ELDORADO            
+A	ID4448125110821610003	 TREZEVANT                  T 111          ELDORADO            
+A	ID4448125110802610002	 WHITAKER                   F 4913         MONTEGO             
+A	ID4448125110802610001	 WHITAKER                   C 4913         MONTEGO             
+A	ID4448125110802610003	 WHITAKER                   M 4913         MONTEGO             
+A	ID4448125110802610004	 WHITAKER                   T 4913         MONTEGO             
+A	ID4450127238368310004	 1RUMOR        DIWALDO      A 3820         HWY 54              
+A	ID4450127238368310001	 1RUMOR        BERNADINA      3820         HWY 54              
+A	ID4450127238368310003	 1RUMOR        TERRAN       L 3820         HWY 54              
+A	ID4450127238368310005	 1RUMOR        ZAKIYA       A 3820         HWY 54              
+A	ID4450127238368310002	 1RUMOR                     A 3820         HWY 54              
+A	ID4450127238387310002	 ALSTIN        LEO          E 612          OCONEE              
+A	ID4450127238387310003	 ALSTIN        MICHEAL        612          OCONEE              
+A	ID4450127238387310001	 ALSTIN        ROSE           612          OCONEE              
+A	ID4450127238383210002	 CAMPBELL      ANTONINO     E 604          OCONEE              
+A	ID4450127238383210001	 CAMPBELL      JESSICA      A 604          OCONEE              
+A	ID4450127238383210004	 CAMPBELL      MARINELA     E 604          OCONEE              
+A	ID4450127238383210005	 CAMPBELL                   D 604          OCONEE              
+A	ID4450127238376610001	 CARR          DARRYL       B 501          RUBY                
+A	ID4450127238376610003	 CARR          BERRY        J 501          RUBY                
+A	ID4450127238376610002	 CARR          ROSELINE     D 501          RUBY                
+A	ID4450127238404610002	 CARTER        RODRICK        14135        22ND                
+A	ID4450127238404610001	 CARTER        JOANNIE        14135        22ND                
+A	ID4450127238379010003	 CAVAJEL       ADMAN        L 607          MARTIN LUTHER K     
+A	ID4450127238379010004	 CAVAJEL       STEPHEN      D 607          MARTIN LUTHER K     
+A	ID4450127238379010001	 CAVAJEL       MALISSA      L 607          MARTIN LUTHER K     
+A	ID4450127238379010002	 CAVAJEL       SARAH        L 607          MARTIN LUTHER K     
+A	ID4450127238398010001	 CHAMBARS      LAWRENCE       14180        22ND                
+A	ID4450127238398010002	 CHAMBARS      EUGENE       F 14180        22ND                
+A	ID4450127238358410001	 COLBY                      J 303          MAIN                
+A	ID4450127238350110001	 COUPE         MARKO          104          GEORGE              
+A	ID4450127238350110002	 COUPE                      P 104          GEORGE              
+A	ID4450127238362610001	 CRIDER        GUILLERMO    E 106          WARE                
+A	ID4450127238362610002	 CRIDER        MARCO        M 106          WARE                
+A	ID4450127238399810001	 DAVIES        W            U 14220        22ND                
+A	ID4450127238399810002	 DAVIES        MICHELE      N 14220        22ND                
+A	ID4450127238399810003	 DAVIES        RENEE        M 14220        22ND                
+A	ID4450127238399810004	 DAVIES        SARAH        N 14220        22ND                
+A	ID4450127238359210001	 DEGRAENED     GERARDO      D 128          WARE                
+A	ID4450127238359210002	 DEGRAENED     ALLAN        R 128          WARE                
+A	ID4450127238389910001	 DORMAN                     W 616          OCONEE              
+A	ID4450127238389910002	 DORMAN                     R 616          OCONEE              
+A	ID4450127238389910003	 DORMAN                     N 616          OCONEE              
+A	ID4450127238354310001	 DOWOKAKOKO    GREG         S 103          JOHNSON             
+A	ID4450127238354310003	 DOWOKAKOKO    A            A 103          JOHNSON             
+A	ID4450127238354310002	 DOWOKAKOKO                 A 103          JOHNSON             
+A	ID4450127238378210004	 EASLEY        MATTHEW        613          MARTIN LUTHER K     
+A	ID4450127238378210001	 EASLEY        FLORIPE      D 613          MARTIN LUTHER K     
+A	ID4450127238378210002	 EASLEY        KERI         D 613          MARTIN LUTHER K     
+A	ID4450127238378210003	 EASLEY        NILSA        D 613          MARTIN LUTHER K     
+A	ID4450127238355010001	 ELLIOTT       CHERYL         102          CHURCH              
+A	ID4450127238355010002	 ELLIOTT       FLAINE       A 102          CHURCH              
+A	ID4450127238381610002	 ERVINE        ALE JARDRO   A 601          MARTIN LUTHER K     
+A	ID4450127238381610003	 ERVINE        JUAN         E 601          MARTIN LUTHER K     
+A	ID4450127238381610001	 ERVINE        ZIONARA      T 601          MARTIN LUTHER K     
+A	ID4450127238381610004	 ERVINE                     E 601          MARTIN LUTHER K     
+A	ID4450127238406110001	 FREY          ETHNY        B 14225        22ND                
+A	ID4450127238360010001	 GARRETT       SHAWNETT     R 124          WARE                
+A	ID4450127238360010002	 GARRETT       HARRIET      R 124          WARE                
+A	ID4450127238349310001	 GORDON        KRISTY       L 303          WOODHAVEN           
+A	ID4450127238349310002	 GORDON        DIANE        M 303          WOODHAVEN           
+A	ID4450127238349310003	 GORDON        ROSEMARIE      303          WOODHAVEN           
+A	ID4450127238352710002	 GRANER        DANIEL         100          GEORGE              
+A	ID4450127238352710003	 GRANER        ROBERT       R 100          GEORGE              
+A	ID4450127238352710001	 GRANER        MARJORIE     A 100          GEORGE              
+A	ID4450127238384010001	 GREENE        EDUARDSO     A 606          OCONEE              
+A	ID4450127238384010002	 GREENE        SONDRA       C 606          OCONEE              
+A	ID4450127238384010003	 GREENE        ANN          A 606          OCONEE              
+A	ID4450127238384010004	 GREENE        MICHELE      M 606          OCONEE              
+A	ID4450127238384010005	 GREENE        ROSETA       A 606          OCONEE              
+A	ID4450127238365910002	 GUIDETI                    D 3454         HWY 54              
+A	ID4450127238374110002	 HAMMONDS      JAMES        C 505          RUBY                
+A	ID4450127238374110003	 HAMMONDS      LENWOOD      M 505          RUBY                
+A	ID4450127238374110001	 HAMMONDS      TRACEY       R 505          RUBY                
+A	ID4450127238405310002	 HANKINS       STEPHENE       14215        22ND                
+A	ID4450127238405310001	 HANKINS       PAYMM        T 14215        22ND                
+A	ID4450127238385710001	 HEAVENER                   R 608          OCONEE              
+A	ID4450127238385710003	 HEAVENER                   R 608          OCONEE              
+A	ID4450127238385710002	 HEAVENER                   V 608          OCONEE              
+A	ID4450127238375810001	 HETTERICH     JOHNNY         503          RUBY                
+A	ID4450127238397210001	 HOLLEY        MICHEAL      T 14170        22ND                
+A	ID4450127238397210003	 HOLLEY        DIMON        T 14170        22ND                
+A	ID4450127238397210002	 HOLLEY        KATHERINE    A 14170        22ND                
+A	ID4450127238397210004	 HOLLEY        CHARLOTTE    E 14170        22ND                
+A	ID4450127238372510001	 HUDSON        JACQUELINE     3886         HWY 54              
+A	ID4450127238388110002	 HUSSEINKHEL   ARCHIE         614          OCONEE              
+A	ID4450127238388110001	 HUSSEINKHEL                  614          OCONEE              
+A	ID4450127238394910003	 KEARNS                     A 626          OCONEE              
+A	ID4450127238394910004	 KEARNS                       626          OCONEE              
+A	ID4450127238394910001	 KEARNS                     E 626          OCONEE              
+A	ID4450127238394910002	 KEARNS                     M 626          OCONEE              
+A	ID4450127238395610001	 KEICHENBERG   SUSAN        L 14150        22ND                
+A	ID4450127238395610002	 KEICHENBERG   JUDY         A 14150        22ND                
+A	ID4450127238391510002	 KLEIMAN       ANTONIO      B 622          OCONEE              
+A	ID4450127238391510001	 KLEIMAN       JOCELYN      V 622          OCONEE              
+A	ID4450127238386510001	 LESKO         CLEARANCE      610          OCONEE              
+A	ID4450127238386510002	 LESKO         BEN            610          OCONEE              
+A	ID4450127238386510003	 LESKO                        610          OCONEE              
+A	ID4450127238364210001	 MACCIO        ORESTE       S 106          WARE                
+A	ID4450127238364210002	 MACCIO        OLIVIA       E 106          WARE                
+A	ID4450127238409510001	 MARTINEZ STG  ERIKA        M 14255        22ND                
+A	ID4450127238409510002	 MARTINEZ STG                 14255        22ND                
+A	ID4450127238409510003	 MARTINEZ STG                 14255        22ND                
+A	ID4450127238403810002	 MCALLISTER    GEOFFREY     M 14270        22ND                
+A	ID4450127238403810001	 MCALLISTER    JEANETTE     M 14270        22ND                
+A	ID4450127257775510002	 MOHRING       DOMINIQUE    B 701          31ST                
+A	ID4450127257775510001	 MOHRING       JANICE       M 701          31ST                
+A	ID4450127238348510001	 MOSES         SHIRLEG        305          WOODHAVEN           
+A	ID4450127238367510001	 OBROCK                     G 3732         HWY 54              
+A	ID4450127238357610001	 PEARL                        209          MAIN                
+A	ID4450127238357610002	 PEARL                      C 209          MAIN                
+A	ID4450127238396410001	 RAGLIN        REYAN          14160        22ND                
+A	ID4450127238377410001	 REAVES                     B 625          MARTIN LUTHER K     
+A	ID4450127238377410003	 REAVES                     J 625          MARTIN LUTHER K     
+A	ID4450127238377410002	 REAVES                     D 625          MARTIN LUTHER K     
+A	ID4450127238407910002	 RODRIGUEZ     QUENTIN      R 14235        22ND                
+A	ID4450127238407910001	 RODRIGUEZ     STEPHANIE    R 14235        22ND                
+A	ID4450127238401210003	 ROTHSHILD     PHILLIP        14240        22ND                
+A	ID4450127238401210001	 ROTHSHILD     J            L 14240        22ND                
+A	ID4450127238401210002	 ROTHSHILD     HILLIARD     E 14240        22ND                
+A	ID4450127238361810002	 RUDASILL      DOMINIC      A 122          WARE                
+A	ID4450127238361810004	 RUDASILL      SEPTIMIA     E 122          WARE                
+A	ID4450127238361810001	 RUDASILL      KIMBERLY     L 122          WARE                
+A	ID4450127238361810003	 RUDASILL      ALISA        M 122          WARE                
+A	ID4450127238361810005	 RUDASILL                   S 122          WARE                
+A	ID4450127238371710001	 RUEHLING      TRACIE       D 3870         HWY 54              
+A	ID4450127238371710002	 RUEHLING      MELISSA      A 3870         HWY 54              
+A	ID4450127238369110001	 RUMOR                      A 3840         HWY 54              
+A	ID4450127238393110002	 RUSSALL       MYRIAM       S 624          OCONEE              
+A	ID4450127238393110003	 RUSSALL       JORGE        L 624          OCONEE              
+A	ID4450127238393110001	 RUSSALL       LYNNETTE     C 624          OCONEE              
+A	ID4450127238353510002	 SANTIAGO      PELHAM         101          JOHNSON             
+A	ID4450127238353510003	 SANTIAGO      GEORGE       L 101          JOHNSON             
+A	ID4450127238353510001	 SANTIAGO      ANGELA       E 101          JOHNSON             
+A	ID4450127238353510004	 SANTIAGO      JESSEE       T 101          JOHNSON             
+A	ID4450127238366710001	 SQUILLANTE    LUIS         A 3556         HWY 54              
+A	ID4450127238366710002	 SQUILLANTE    GERAR          3556         HWY 54              
+A	ID4450127238382410004	 SWAGOI        CHARLES      A 600          OCONEE              
+A	ID4450127238382410005	 SWAGOI        ISRAEL       M 600          OCONEE              
+A	ID4450127238382410001	 SWAGOI        MARY CAROLE  T 600          OCONEE              
+A	ID4450127238382410002	 SWAGOI                     B 600          OCONEE              
+A	ID4450127238382410003	 SWAGOI                     C 600          OCONEE              
+A	ID4450127238400410001	 SYKS          KATHERINE    M 14230        22ND                
+A	ID4450127238356810001	 TONSTALL      NICHOLE      L 201          MAIN                
+A	ID4450127238356810002	 TONSTALL      MARY         C 201          MAIN                
+A	ID4450127238356810003	 TONSTALL      HARRIETT     J 201          MAIN                
+A	ID4450127238380810001	 WASHINGTON    J            P 603          MARTIN LUTHER K     
+A	ID4450127238380810003	 WASHINGTON    STEPHENS     I 603          MARTIN LUTHER K     
+A	ID4450127238380810004	 WASHINGTON    AMAURY       P 603          MARTIN LUTHER K     
+A	ID4450127238380810002	 WASHINGTON    XIOMARA      E 603          MARTIN LUTHER K     
+A	ID4450127238370910001	 WIESMAN                    V 3850         HWY 54              
+A	ID4445112314664910001	 BELL          GLORIANNE    M 7111         3RD                 
+A	ID4445112314670610001	 BRAWD         ALLEN        J 7126         2ND                 
+A	ID4445112314670610002	 BRAWD         ANN0         D 7126         2ND                 
+A	ID4445113314679710001	 CARTER        JEAN         B 410          72ND                
+A	ID4445113314682110001	 DUCOTY        DOUGASS      S 7134         3RD                 
+A	ID4445113314682110002	 DUCOTY        MICLELLE     C 7134         3RD                 
+A	ID4445113314680510001	 DUFFY TYLER   L            A 400          72ND                
+A	ID4445113314680510003	 DUFFY TYLER   D            J 400          72ND                
+A	ID4445113314680510004	 DUFFY TYLER   BENJAMIN     M 400          72ND                
+A	ID4445113314680510002	 DUFFY TYLER   ALICIA         400          72ND                
+A	ID4445113314680510005	 DUFFY TYLER   GERALDENE    L 400          72ND                
+A	ID4445113314680510006	 DUFFY TYLER   NATSHA       M 400          72ND                
+A	ID4445113314675510001	 EHM           JESUS        A 419          VILLAGRANDE         
+A	ID4445113314675510002	 EHM           ETHEL        J 419          VILLAGRANDE         
+A	ID4445113314675510003	 EHM                        M 419          VILLAGRANDE         
+A	ID4445113314674810001	 GASBARRO      PABLOS       U 401          VILLAGRANDE         
+A	ID4445113314674810002	 GASBARRO      LEANNE         401          VILLAGRANDE         
+A	ID4445113314674810003	 GASBARRO      ERIN         K 401          VILLAGRANDE         
+A	ID4445113314674810005	 GASBARRO      JO             401          VILLAGRANDE         
+A	ID4445113314674810004	 GASBARRO                   A 401          VILLAGRANDE         
+A	ID4445113314681310001	 HELLER        DIXION       J 318          72ND                
+A	ID4445113314681310003	 HELLER        DOREN        J 318          72ND                
+A	ID4445113314681310002	 HELLER        TEGIRA       J 318          72ND                
+A	ID4445113314681310004	 HELLER        AGELEON      M 318          72ND                
+A	ID4445113314681310005	 HELLER                     J 318          72ND                
+A	ID4445113314681310006	 HELLER                     A 318          72ND                
+A	ID4445112314672210001	 HOPPER        ARISTIDES    C 7100         2ND                 
+A	ID4445112314672210003	 HOPPER        CARLOS       C 7100         2ND                 
+A	ID4445112314672210002	 HOPPER        ROSEY        B 7100         2ND                 
+A	ID4445112314666410001	 HUBRIC        CHARLES      P 7127         3RD                 
+A	ID4445112314666410002	 HUBRIC        DIANE          7127         3RD                 
+A	ID4445113314673010001	 PAINE WELLS   SIGFREDO     J 231          71ST                
+A	ID4445113314673010003	 PAINE WELLS   AGEL         J 231          71ST                
+A	ID4445113314673010004	 PAINE WELLS   OSWALDO      J 231          71ST                
+A	ID4445113314673010005	 PAINE WELLS   IGNACIO      J 231          71ST                
+A	ID4445113314673010002	 PAINE WELLS   BARBARA      C 231          71ST                
+A	ID4445113314676310001	 PENSETH       JEFFREY      J 427          VILLAGRANDE         
+A	ID4445113314676310002	 PENSETH       THRESA       A 427          VILLAGRANDE         
+A	ID4445113314676310003	 PENSETH       ANNE         A 427          VILLAGRANDE         
+A	ID4445112314667210001	 POLLACK       ANDREW E       7139         3RD                 
+A	ID4445112314667210003	 POLLACK       JAMAR        F 7139         3RD                 
+A	ID4445112314667210005	 POLLACK       DARON        S 7139         3RD                 
+A	ID4445112314667210006	 POLLACK       SHAWN        P 7139         3RD                 
+A	ID4445112314667210002	 POLLACK       MIRIAM       J 7139         3RD                 
+A	ID4445112314667210004	 POLLACK       LEAH         A 7139         3RD                 
+A	ID4445112314671410001	 ROWEN         CHRISTOPHER  J 7112         2ND                 
+A	ID4445112314671410004	 ROWEN         EARNEST      A 7112         2ND                 
+A	ID4445112314671410002	 ROWEN         CATHY          7112         2ND                 
+A	ID4445112314671410003	 ROWEN         ELFRIEDA     C 7112         2ND                 
+A	ID4445113314678910001	 SAUNDERS      NICOLAS      G 430          72ND                
+A	ID4445113314678910002	 SAUNDERS      CATHERINE    L 430          72ND                
+A	ID4445112314665610001	 SCCHWARTZ     JOHN         F 7121         3RD                 
+A	ID4445112314665610002	 SCCHWARTZ     TRICIA       E 7121         3RD                 
+A	ID4445113314677110001	 SMALLS        JEFFREY      P 441          VILLAGRANDE         
+A	ID4445113314677110002	 SMALLS        INGER        B 441          VILLAGRANDE         
+A	ID4445113314677110004	 SMALLS                     J 441          VILLAGRANDE         
+A	ID4445113314677110003	 SMALLS                     A 441          VILLAGRANDE         
+A	ID4449126128949510001	 ARCHER        MARC         C 309          WOODHAVEN           
+A	ID4449126128949510002	 ARCHER        JEAN         A 309          WOODHAVEN           
+A	ID4449126128933910001	 BELTRAN       LAWRENCE     C 108          BRANTWOOD           
+A	ID4449126128933910003	 BELTRAN       JEFF         J 108          BRANTWOOD           
+A	ID4449126128933910002	 BELTRAN       SOUTA        M 108          BRANTWOOD           
+A	ID4449126128936210001	 BELTRAN       ELMER        A 114          BRANTWOOD           
+A	ID4449126128936210004	 BELTRAN       WILEY        A 114          BRANTWOOD           
+A	ID4449126128936210002	 BELTRAN       GISELA       M 114          BRANTWOOD           
+A	ID4449126128936210003	 BELTRAN       RUTH ANN     M 114          BRANTWOOD           
+A	ID4449126128947910001	 CAGER         EDWIN        M 313          WOODHAVEN           
+A	ID4449126128947910003	 CAGER         EARLE        M 313          WOODHAVEN           
+A	ID4449126128947910002	 CAGER         ROSETTA      J 313          WOODHAVEN           
+A	ID4449126128938810001	 COBEZA        RONNIE         512          WOODHAVEN           
+A	ID4449126128938810003	 COBEZA        KENNETH      R 512          WOODHAVEN           
+A	ID4449126128938810002	 COBEZA        SHAWN        E 512          WOODHAVEN           
+A	ID4449126128938810004	 COBEZA                     M 512          WOODHAVEN           
+A	ID4449126128942010001	 DORSEY        ARY          S 503          WOODHAVEN           
+A	ID4449126128942010002	 DORSEY        MELISSA      J 503          WOODHAVEN           
+A	ID4449126128942010003	 DORSEY        DEBBIE       M 503          WOODHAVEN           
+A	ID4449126128942010004	 DORSEY        ENDA         L 503          WOODHAVEN           
+A	ID4449126128948710001	 DRENMON       ISSAC        F 311          WOODHAVEN           
+A	ID4449126128948710003	 DRENMON       ERNEST       R 311          WOODHAVEN           
+A	ID4449126128948710002	 DRENMON       THERESA      A 311          WOODHAVEN           
+A	ID4449126128939610001	 FLEEK         JOANNIE        514          WOODHAVEN           
+A	ID4449126128939610002	 FLEEK         ANNTIONETTE    514          WOODHAVEN           
+A	ID4449126128944610002	 FLOWERS       STANLY       J 405          WOODHAVEN           
+A	ID4449126128944610001	 FLOWERS       COVNELIA     M 405          WOODHAVEN           
+A	ID4449126128929710001	 GALIDEZ       KEN          E 100          BRANTWOOD           
+A	ID4449126128929710002	 GALIDEZ       ENZELEE      E 100          BRANTWOOD           
+A	ID4449126128929710003	 GALIDEZ       MICHELLE     M 100          BRANTWOOD           
+A	ID4449126128929710004	 GALIDEZ       CHATERAH     M 100          BRANTWOOD           
+A	ID4449126128932110001	 HILLEGAS      GIANNI       E 106          BRANTWOOD           
+A	ID4449126128932110002	 HILLEGAS      JANICE         106          BRANTWOOD           
+A	ID4449126128932110003	 HILLEGAS      HAILLE       E 106          BRANTWOOD           
+A	ID4449126128932110004	 HILLEGAS      ROSA         C 106          BRANTWOOD           
+A	ID4449126128932110005	 HILLEGAS      JAMIE        E 106          BRANTWOOD           
+A	ID4449126128925510001	 HOLLOWAY      SCOT         C 107          ELDORADO            
+A	ID4449126128925510002	 HOLLOWAY      JENIFFER     T 107          ELDORADO            
+A	ID4449126128943810001	 KEARNEY       SHANIKA      E 501          WOODHAVEN           
+A	ID4449126128943810002	 KEARNEY       ASHELY       E 501          WOODHAVEN           
+A	ID4449126128943810003	 KEARNEY       SHERMISE     J 501          WOODHAVEN           
+A	ID4449126128926310001	 MANGUM        ROB          J 105          ELDORADO            
+A	ID4449126128926310002	 MANGUM        BAKIA        E 105          ELDORADO            
+A	ID4449126128940410001	 MITCHELLL     JEROME       J 509          WOODHAVEN           
+A	ID4449126128940410002	 MITCHELLL     DONETTA      M 509          WOODHAVEN           
+A	ID4449126128928910001	 RADRIGZ       JOSH         D 101          ELDORADO            
+A	ID4449126128928910002	 RADRIGZ       RUGY         E 101          ELDORADO            
+A	ID4449126128935410001	 RAMAS         SONJA        K 112          BRANTWOOD           
+A	ID4449126128934710001	 RHODES        JEFF         L 110          BRANTWOOD           
+A	ID4449126128934710002	 RHODES        HENRIETTE      110          BRANTWOOD           
+A	ID4449126128934710003	 RHODES        JANNIE       M 110          BRANTWOOD           
+A	ID4449126128934710004	 RHODES        JOANN        N 110          BRANTWOOD           
+A	ID4449126128931310001	 RIBERA        JOHONNY      U 104          BRANTWOOD           
+A	ID4449126128931310002	 RIBERA        STUART       K 104          BRANTWOOD           
+A	ID4449126128946110001	 RICHARDSON    EMMETTE      E 315          WOODHAVEN           
+A	ID4449126128946110002	 RICHARDSON    TAMIKA       R 315          WOODHAVEN           
+A	ID4449126128930510001	 STAPPY        JEFF         F 102          BRANTWOOD           
+A	ID4449126128930510005	 STAPPY        FRANKLIN     E 102          BRANTWOOD           
+A	ID4449126128930510002	 STAPPY        ELLA LOUISE  F 102          BRANTWOOD           
+A	ID4449126128930510003	 STAPPY        QUAYN        B 102          BRANTWOOD           
+A	ID4449126128930510004	 STAPPY        ARLIE        A 102          BRANTWOOD           
+A	ID4449126128941210001	 STEWARD       FREDERICK    A 505          WOODHAVEN           
+A	ID4449126128941210002	 STEWARD       CHANTEL      A 505          WOODHAVEN           
+A	ID4449126128950310001	 WCIGNT        BRIAN          307          WOODHAVEN           
+A	ID4449126128950310002	 WCIGNT        MAXICINE     H 307          WOODHAVEN           
+A	ID4449126128927110001	 WILKES        BEN          W 103          ELDORADO            
+A	ID4449126128927110003	 WILKES        STEVE        M 103          ELDORADO            
+A	ID4449126128927110002	 WILKES        HARRIETTE    L 103          ELDORADO            
+A	ID4449126128937010001	 WILLIAMS      CHARLIE      A 510          WOODHAVEN           
+A	ID4449126128937010002	 WILLIAMS      SHERRI       V 510          WOODHAVEN           
+A	ID4449126128945310001	 YETES         CHANCE       E 403          WOODHAVEN           
+A	ID4449126128945310002	 YETES         ALFREDRICK   S 403          WOODHAVEN           
+B	ID444611561	 AHREWS        MARITZA      A 345          71ST                
+B	ID444611563	 AHREWS        MARIANNA     B 345          71ST                
+B	ID4447124106879010001	 BENETAS       LENARD       A 660          STARKEY             
+B	ID4447124106879010003	 BENETAS       SAMMY        R 660          STARKEY             
+B	ID4447124106879010002	 BENETAS       DOLORES      R 660          STARKEY             
+B	ID4447124106897210001	 BODMER        JAMAR        C 102          BANKS               
+B	ID4447124106897210002	 BODMER        ROSSITA      L 102          BANKS               
+B	ID4447124106897210003	 BODMER        MAG          R 102          BANKS               
+B	ID4447124106897210004	 BODMER        ROZELLIN     N 102          BANKS               
+B	ID4447124106897210005	 BODMER        CATHERINE    L 102          BANKS               
+B	ID4447124106907910001	 CETO          J            E 104          MITCHELL            
+B	ID4447124106894910001	 CHEESEMAN     DANYA        L 690          STARKEY             
+B	ID4447124106894910002	 CHEESEMAN     DANTE        E 690          STARKEY             
+B	ID4447124106920210001	 CONNER        DOMINQUE     S 4836         BASSWIDE            
+B	ID4447124106920210002	 CONNER        COHNIE       E 4836         BASSWIDE            
+B	ID4447124106912910004	 COSGRAOE      SEKOU        L 202          BANKS               
+B	ID4447124106912910001	 COSGRAOE      TREIRA         202          BANKS               
+B	ID4447124106912910003	 COSGRAOE      THERESA      G 202          BANKS               
+B	ID4447124106909510001	 DACANAY       MICHAEL      A 112          MITCHELL            
+B	ID4447124106909510002	 DACANAY       A JASIA        112          MITCHELL            
+B	ID4447124106909510003	 DACANAY       BRIANCA      G 112          MITCHELL            
+B	ID4447124106899810001	 DANIEL-LEIVA  SAM          J 729          RIDLEY              
+B	ID4447124106899810002	 DANIEL-LEIVA  THAU LYNN    R 729          RIDLEY              
+B	ID4447124106877410001	 DIVER         MILFORD      J 658          STARKEY             
+B	ID4447124106883210001	 DOMINQUEZ     FRANK        K 672          STARKEY             
+B	ID4447124106883210002	 DOMINQUEZ     SHAVAN       M 672          STARKEY             
+B	ID4446117397	 ENGELSKIRCH   ISAAE          612          STARKEY             
+B	ID4446117398	 ENGELSKIRCH   JEANELLE       612          STARKEY             
+B	ID444712426108480000	 FAIRIE        LOUIS        W 4940         BASSWOOD            
+B	ID4447124106908710003	 FISCHARUND    WESLEY       M 110          MITCHELL            
+B	ID4447124106908710001	 FISCHARUND    NADESHIA     A 110          MITCHELL            
+B	ID4447124106908710002	 FISCHARUND    DANYELLE     L 110          MITCHELL            
+B	ID4446117475	 GECKLE        RUNEE          614          STARKEY             
+B	ID4446117479	 GECKLE        RALPAL       T 614          STARKEY             
+B	ID444611554	 GERING        RROBERT      T 325          71ST                
+B	ID4447124106913710002	 GERINGER      GHOLAN       W 200          BANK                
+B	ID4447124106913710003	 GERINGER      JEFFREY      W 200          BANK                
+B	ID4447124106913710004	 GERINGER      JEFFREY      W 200          BANK                
+B	ID4447124106913710005	 GERINGER      DOUGLASS     D 200          BANK                
+B	ID4447124106913710001	 GERINGER      MARIE        T 200          BANK                
+B	ID444712410690380000	 GLICK         NATHANIAL    N 725          RIDLEY              
+B	ID4447124106917810001	 GREENE        TEMPEST      Z 4816         BASSWOOD            
+B	ID4447124106916010001	 HALL          RAYMON         4810         BASSWOOD            
+B	ID4447124106924410001	 HILLION       GEORGE       L 4914         BASSWOOD            
+B	ID444712410689230000	 JEANS         KEYAN        D 686          STARKEY             
+B	ID4447124106892310001	 JEANS         MICHEAL        686          STARKEY             
+B	ID4447124106892310002	 JEANS         CASANDRA     C 686          STARKEY             
+B	ID444712410688570000	 JIMEMEZ       SANDERA      Y 674          STARKEY             
+B	ID4447124106885710001	 JIMEMEZ       BARBRA       M 674          STARKEY             
+B	ID4447124106910310001	 JIMENEZ       IRWIN          214          BANKS               
+B	ID4447124106910310003	 JIMENEZ       ANDRE          214          BANKS               
+B	ID4447124106910310002	 JIMENEZ       WILHEMENIA     214          BANKS               
+B	ID444712425879540000	 KELLEY        FREDRICK     W 4932         BASSWOOD            
+B	ID4447124106911110002	 LAKHTOSH      TONY         M 206          BANKS               
+B	ID4447124106911110001	 LAKHTOSH      DANIELLE     S 206          BANKS               
+B	ID4447124106876610001	 LASITTER      DORATHEA     K 656          STARKEY             
+B	ID4447124106876610002	 LASITTER      LELA         M 656          STARKEY             
+B	ID4447124106887310002	 MALDONABO     DWIGHT       B 678          STARKEY             
+B	ID4447124106887310003	 MALDONABO     MARQUIS      E 678          STARKEY             
+B	ID4447124106887310001	 MALDONABO     MABEL          678          STARKEY             
+B	ID444611482	 MORGAN        DARYL        A 7124         3RD                 
+B	ID444611486	 MORGAN        KEVEIN         7124         3RD                 
+B	ID4447124106891510001	 MOSGERA       HERMAN       M 684          STARKEY             
+B	ID4447124106890710001	 MOSGUERA      IASHA        C 682          STARKEY             
+B	ID4447124106890710004	 MOSGUERA      ANDRE        G 682          STARKEY             
+B	ID4447124106890710002	 MOSGUERA      ROMAINE      O 682          STARKEY             
+B	ID4447124106890710003	 MOSGUERA      TAWYA        O 682          STARKEY             
+B	ID4447124106890710005	 MOSGUERA      PRINCETTE    D 682          STARKEY             
+B	ID4447124106890710006	 MOSGUERA      KEISHA       O 682          STARKEY             
+B	ID4447124106881610001	 OQUENDO       CLAIRE       J 666          STARKEY             
+B	ID4447124106919410002	 PAIGE         XANTHA         4830         BASSWOOD            
+B	ID4447124106886510001	 PARRA         JEMOS        V 676          STARKEY             
+B	ID4447124106874110001	 RAUST         ANN          N 652          STARKEY             
+B	ID4447124106882410001	 RODREQUE      TAWANA       S 670          STARKEY             
+B	ID4447124106882410002	 RODREQUE      GERALDINE    A 670          STARKEY             
+B	ID4447124106896410001	 ROUNSVELLE    DERRICK      E 100          BANKS               
+B	ID4447124106923610001	 SENTRY        IRAN         R 4906         BASSWOOD            
+B	ID4447124106923610002	 SENTRY        RAYMOND      L 4906         BASSWOOD            
+B	ID4447124106923610003	 SENTRY        ALLICIA      J 4906         BASSWOOD            
+B	ID4447124106898010001	 SHANKS        DAVONE       B 104          BANKS               
+B	ID4447124106898010002	 SHANKS        LONORA       S 104          BANKS               
+B	ID4447124106889910001	 TORRIS        RANDOLFF       680          STARKEY             
+B	ID4447124106889910002	 TORRIS        FREMAN       R 680          STARKEY             
+B	ID4447124106904610001	 VALDEZ        WYANE        H 723          RIDLEY              
+B	ID4447124106904610002	 VALDEZ        THERESA        723          RIDLEY              
+B	ID4447124106900410001	 VARGAS MUNOZ  THUY KIM     G 727          RIDLEY              
+B	ID4447124106880810001	 VARGAS-HERNAN BRANDON      R 664          STARKEY             
+B	ID4447124106880810002	 VARGAS-HERNAN ALEXANDE     R 664          STARKEY             
+B	ID4447124106880810003	 VARGAS-HERNAN ELIZBETH     L 664          STARKEY             
+B	ID4447124106921010002	 WESTERN       DONNY          4842         BASSWOOD            
+B	ID4447124106921010001	 WESTERN       SALLY          4842         BASSWOOD            
+B	ID4447124106914510001	 WIZALKOWSKI   ALEXDER      J 210          BANKS               
+B	ID4447124106914510002	 WIZALKOWSKI   DELORES      A 210          BANKS               
+B	ID4448125110811710001	 CANNON        LATESHA      D 110          EL DORADO           
+B	ID4446121011	 DORSER        KATHY          626          STARKEY             
+B	ID4448125110816610003	 HOERNING      RUFUS        D 114          EL DORADO           
+B	ID4448125110816610004	 HOERNING      CHISTOPHER   D 114          EL DORADO           
+B	ID4448125110816610005	 HOERNING      ZACNARY        114          EL DORADO           
+B	ID4448125110816610001	 HOERNING      TRINA          114          EL DORADO           
+B	ID4448125110816610002	 HOERNING      ANNA           114          EL DORADO           
+B	ID4448125110670710003	 JOHNS         STEPHEN        4946         BASSWOOD            
+B	ID4448125110670710002	 JOHNS         GLURIA         4946         BASSWOOD            
+B	ID4448125110808310002	 JOLMES        GERARDO      F 108          EL DORADO           
+B	ID4448125110808310003	 JOLMES        FRANCISO     D 108          EL DORADO           
+B	ID4448125110808310004	 JOLMES        ERIK         D 108          EL DORADO           
+B	ID4448125110808310001	 JOLMES        LUCILE         108          EL DORADO           
+B	ID4446120210	 KENNY         DANYAE         624          STARKEY             
+B	ID4448125110820810001	 SPRIGGS       RAY            113          EL DORADO           
+B	ID4448125110821610001	 TREAEVANT     JACKIE       M 111          EL DORADO           
+B	ID4448125110821610002	 TREAEVANT     ANNA         M 111          EL DORADO           
+B	ID4450127238387310002	 ALSTON        LED          E 612          OCONEE              
+B	ID4450127238387310003	 ALSTON        MICHAEL        612          OCONEE              
+B	ID4450127238387310001	 ALSTON        ROSEMARY       612          OCONEE              
+B	ID44461220543	 BARRETT       KENDALL        634          STARKEY             
+B	ID44461220533	 BARRETT       YUNAISY      L 634          STARKEY             
+B	ID4450127238383210002	 CAMBLE        ANTOIENO     E              6041 / 2 OCONEE     
+B	ID4450127238383210001	 CAMBLE        JESSICIA     A              6041 / 2 OCONEE     
+B	ID4450127238383210004	 CAMBLE        MARNELA      E              6041 / 2 OCONEE     
+B	ID4450127238376610001	 CARL          DERRYL       B 501          RUBY                
+B	ID4450127238376610003	 CARL          BARRY        J 501          RUBY                
+B	ID4450127238376610002	 CARL          ROSELIME     D 501          RUBY                
+B	ID4450127238404610002	 CARTIER       RODERICK     C 14135        22                  
+B	ID4450127238404610001	 CARTIER       JOAN           14135        22                  
+B	ID4450127238379010003	 CARVAJAL      ADRIAN       L 607          MARTIN LUTHER K     
+B	ID4450127238379010004	 CARVAJAL      STEVEN       D 607          MARTIN LUTHER K     
+B	ID4450127238379010001	 CARVAJAL      MILISSA      L 607          MARTIN LUTHER K     
+B	ID4450127238379010002	 CARVAJAL      SARA         L 607          MARTIN LUTHER K     
+B	ID4450127238398010001	 CHAMBERS      LAURENCE       14180        22                  
+B	ID4450127238398010002	 CHAMBERS      EUGENIO      E 14180        22                  
+B	ID445012723835840000	 COBY          MIKE         D 303          MAIN                
+B	ID445012723835840000	 COBY          WILIAMS      A 303          MAIN                
+B	ID445012723835840000	 COBY          ANGELA         303          MAIN                
+B	ID445012723835840000	 COBY          LASHIWN      Y 303          MAIN                
+B	ID4450127238362610001	 CRIBER        GOILLERMO    E 106          WARE                
+B	ID4450127238362610002	 CRIBER        MARCOS       M 106          WARE                
+B	ID4450127238399810001	 DAVIS         WINDY        E 14220        22                  
+B	ID4450127238399810002	 DAVIS         MICHELLE     N 14220        22                  
+B	ID4450127238399810003	 DAVIS         RENNE        M 14220        22                  
+B	ID4450127238399810004	 DAVIS         SARA         N 14220        22                  
+B	ID4450127238359210001	 DEGRAGENRIED  JERARDO      D 128          WARE                
+B	ID4450127238359210002	 DEGRAGENRIED  ALLEN        R 128          WARE                
+B	ID44461221227	 DICKERSON     MARY LOU       638          STARKEY             
+B	ID4450127238378210004	 EASELY        MATHEW         613          MARTIN LUTHER K     
+B	ID4450127238378210001	 EASELY        FLORY        D 613          MARTIN LUTHER K     
+B	ID4450127238378210002	 EASELY        KERRY        D 613          MARTIN LUTHER K     
+B	ID4450127238378210003	 EASELY        NILSAIVETTE  D 613          MARTIN LUTHER K     
+B	ID4450127238355010001	 ELLICATT-KEAN SHERYL         102          CHURCH              
+B	ID4450127238355010002	 ELLICATT-KEAN ELAINE       A 102          CHURCH              
+B	ID44461220734	 FOSTER        MARYANN        636          STARKEY             
+B	ID4450127238406110001	 FRY           EPHNY        B 14225        22 PC               
+B	ID4450127238352710002	 GARNER        DANNY          100          GEORGE              
+B	ID4450127238352710003	 GARNER        ROBERTO      R 100          GEORGE              
+B	ID4450127238352710001	 GARNER        MAJORIE      A 100          GEORGE              
+B	ID4450127238360010001	 GARRET        SHARNETT     R 124          WARE                
+B	ID4450127238360010002	 GARRET        HARRET         124          WARE                
+B	ID4450127238349310001	 GORODN        KRISTY LEIGH L 303          WOODHAVEN           
+B	ID4450127238349310002	 GORODN        DIANE MARIE    303          WOODHAVEN           
+B	ID4450127238349310003	 GORODN        ROSE MARIE     303          WOODHAVEN           
+B	ID4450127238384010001	 GREEN         EDVARDO      A 606          OCONEE              
+B	ID4450127238384010002	 GREEN         SANDRA       C 606          OCONEE              
+B	ID4450127238384010003	 GREEN         ANNE         A 606          OCONEE              
+B	ID4450127238384010004	 GREEN         MICHELLE     M 606          OCONEE              
+B	ID4450127238384010005	 GREEN         ROSETTE      A 606          OCONEE              
+B	ID44461230326	 HACHETT       CORTE        D 640          STARKEY             
+B	ID44461230328	 HACHETT       DENARIO      E 640          STARKEY             
+B	ID44461230330	 HACHETT       EYVETTE      D 640          STARKEY             
+B	ID44461230332	 HACHETT       ALISA        Y 640          STARKEY             
+B	ID4450127238374110002	 HAMMOND       JOAMES         505          RUBY                
+B	ID4450127238374110003	 HAMMOND       LENWOOD REV    505          RUBY                
+B	ID4450127238374110001	 HAMMOND       TRACI        R 505          RUBY                
+B	ID4450127238405310002	 HASKINS       STEFAN         14215        22                  
+B	ID4450127238405310001	 HASKINS       PAMELA       T 14215        22                  
+B	ID445012723838570000	 HEAVAENER     FLORRE         608          OCONEE              
+B	ID445012723838570000	 HEAVAENER     JEFFREY      S 608          OCONEE              
+B	ID445012723838570000	 HEAVAENER     WILSREVO       608          OCONEE              
+B	ID4450127238390710001	 HENRIKSON     SAMIAR       I 618          OCONEE              
+B	ID4450127238390710002	 HENRIKSON     SAMANTHA     H 618          OCONEE              
+B	ID4450127238390710003	 HENRIKSON     DOROTHEA     T 618          OCONEE              
+B	ID4450127238390710004	 HENRIKSON     DONNA MARIE  E 618          OCONEE              
+B	ID4450127238390710005	 HENRIKSON     PHYLLIS      L 618          OCONEE              
+B	ID4450127238397210001	 HOLLY         MICHAEL      T 14170        22                  
+B	ID4450127238397210003	 HOLLY         DAMOEN       T 14170        22                  
+B	ID4450127238397210002	 HOLLY         CATHRINE     A 14170        22                  
+B	ID4450127238397210004	 HOLLY         CHARCOTTE    E 14170        22                  
+B	ID4450127238380810001	 HOSHINGTON    JEFFREY      P 603          MARTIN LUTHER K     
+B	ID4450127238380810003	 HOSHINGTON    STEVEN       I 603          MARTIN LUTHER K     
+B	ID4450127238380810004	 HOSHINGTON    MAURI        P 603          MARTIN LUTHER K     
+B	ID4450127238380810002	 HOSHINGTON    XLONARA      E 603          MARTIN LUTHER K     
+B	ID44461220129	 HULLEY        ANTHONY      B 628          STARKEY             
+B	ID44461220142	 HULLEY        DIANE        M 628          STARKEY             
+B	ID4450127238388110002	 HUSSEINKEL    ARCHIBALD      614          OCONEE              
+B	ID4450127238372510001	 HUTSON        JACQUELIN      3886         HWY 54              
+B	ID4450127238381610002	 IRVIN         ALEJANDRO    A 601          MARTIN LUTHER K     
+B	ID4450127238381610003	 IRVIN         IVAN         E 601          MARTIN LUTHER K     
+B	ID4450127238381610001	 IRVIN         ZIONAIRE     T 601          MARTIN LUTHER K     
+B	ID4450127238391510002	 KLEINMAN      ANTONIA      B 622          OCONEE              
+B	ID4450127238391510001	 KLEINMAN      JOSLYN       V 622          OCONEE              
+B	ID4450127238350110001	 KOUPE         MARCO          104          GEORGE              
+B	ID4450127238368310004	 KUMOR         DINWARDO     A 3820         HWY 54              
+B	ID4450127238368310001	 KUMOR         BERNADINE      3820         HWY 54              
+B	ID4450127238368310003	 KUMOR         TERRENCE     L 3820         HWY 54              
+B	ID4450127238368310005	 KUMOR         ZAKAYA       C 3820         HWY 54              
+B	ID445012723836910000	 KUMOR         DAGOBERTO      3840         HWY 54              
+B	ID445012723836910000	 KUMOR         CORRINE        3840         HWY 54              
+B	ID4450127238386510001	 LESCO         CLARENCE       610          OCONEE              
+B	ID4450127238386510002	 LESCO         BAN            610          OCONEE              
+B	ID4450127238409510001	 MARTINEZ      ERICA          14255        22                  
+B	ID4450127238353510002	 MATEO         DELHAM         101          JOHNSON             
+B	ID4450127238353510003	 MATEO         GEORGE DR    L 101          JOHNSON             
+B	ID4450127238353510001	 MATEO         ANGLA        E 101          JOHNSON             
+B	ID4450127238353510004	 MATEO         JESSE          101          JOHNSON             
+B	ID4450127238403810002	 MCALISTER     GEOFFRY      M 14270        22                  
+B	ID4450127238403810001	 MCALISTER     JANETT       M 14270        22                  
+B	ID44461230536	 MITCHELL      THE IMA      V 650          STARKEY             
+B	ID4450127257775510002	 MOHRINA       DOMINIC      B 701          31                  
+B	ID4450127257775510001	 MOHRINA       JANIS        M 701          31                  
+B	ID4450127238348510001	 MOSER         SHIRLEY        305          WOODHAVEN           
+B	ID4450127238364210001	 MUCCIO        ORESTES      S 106          1/2 WARE            
+B	ID4450127238364210002	 MUCCIO        LIVIA        E 106          1/2 WARE            
+B	ID4450127238354310001	 OLOWOKAKOKO   GREGORY      S 103          JOHNSON             
+B	ID4450127238354310003	 OLOWOKAKOKO   AE           A 103          JOHNSON             
+B	ID445012723837330000	 PARK          VERCONIA       3960         HWY 54              
+B	ID445012723837330000	 PARK          DELORES        3960         HWY 54              
+B	ID4450127238375810001	 PETTRICH      JOHNNIE        503          RUBY                
+B	ID445012723837740000	 REEVES        WILLY        L 625          MARTIN LUTHER K     
+B	ID445012723837740000	 REEVES        DOUGLASS     F 625          MARTIN LUTHER K     
+B	ID445012723837740000	 REEVES        NWAMAKA      M 625          MARTIN LUTHER K     
+B	ID4450127238395610001	 REICHENBERG   SUE          L 14150        22                  
+B	ID4450127238395610002	 REICHENBERG   TRUDY        A 14150        22                  
+B	ID4450127238407910002	 RODRIGUES     QUINTON        14235        22                  
+B	ID4450127238407910001	 RODRIGUES     STEPHINE       14235        22                  
+B	ID4450127238396410001	 ROGLIN        REYANN       J 14160        22                  
+B	ID4450127238401210003	 ROTHCHILD     PHILIP         14240        224                 
+B	ID4450127238401210001	 ROTHCHILD     JAYANN       L 14240        224                 
+B	ID4450127238401210002	 ROTHCHILD     HILDRED      E 14240        224                 
+B	ID4450127238361810002	 RUDAGILL      DOMINI       A 122          WARE                
+B	ID4450127238361810004	 RUDAGILL      SEPTIMIO     E 122          WARE                
+B	ID4450127238361810001	 RUDAGILL      KIMBERY      L 122          WARE                
+B	ID4450127238361810003	 RUDAGILL      ALASIA       M 122          WARE                
+B	ID4450127238371710001	 RUIHLING      TRACIE LEE   D 3870         HWY 54              
+B	ID4450127238371710002	 RUIHLING      MELLISSA     A 3870         HWY 54              
+B	ID4450127238393110002	 RUSSELL       MIRIAM       S 624          OCONEE              
+B	ID4450127238393110003	 RUSSELL       JONGE        L 624          OCONEE              
+B	ID4450127238393110001	 RUSSELL       LYNN         C 624          OCONEE              
+B	ID4450127238382410004	 SHAWQI        CHARES         600          OCONEE              
+B	ID4450127238382410005	 SHAWQI        ISAREL         600          OCONEE              
+B	ID4450127238382410001	 SHAWQI        MARYCAROLE     600          OCONEE              
+B	ID44461220231	 SINEFIELD     SHEILA         632          STARKEY             
+B	ID445012723840870000	 SOLLIVAN      EVENS          14245        22                  
+B	ID445012723840870000	 SOLLIVAN      BRANDIE      D 14245        22                  
+B	ID445012723840870000	 SOLLIVAN      ANNE         G 14245        22                  
+B	ID4450127238366710001	 SQUILLANGE    LOUIS        A 3556         HWY 54              
+B	ID4450127238366710002	 SQUILLANGE    GERARD       A 3556         HWY 54              
+B	ID4450127238400410001	 SYKES         KATHY        M 14230        22                  
+B	ID4450127238356810001	 TUNSTALL      NICOLE         201          MAIN                
+B	ID4450127238356810002	 TUNSTALL      MARY ANNE    C 201          MAIN                
+B	ID4450127238356810003	 TUNSTALL      HARRIET      J 201          MAIN                
+B	ID4445112314670610001	 BRAND         ALAN         J 7126         2ND                 
+B	ID4445112314670610002	 BRAND         ANN          D 7126         2ND                 
+B	ID4445113314679710001	 CARTE         JEANNE         410          72ND                
+B	ID44461181048	 DAVID         TRYONE       M 618          STARKEY             
+B	ID44461181049	 DAVID         HOANG          618          STARKEY             
+B	ID4445113314682110001	 DOCUTY        DOUGLAS      S 7134         3RD                 
+B	ID4445113314682110002	 DOCUTY        MICHELLE     C 7134         3RD                 
+B	ID4445113314680510001	 DUFFY-TYLER   LAWRENCE     A 400          72ND                
+B	ID4445113314680510003	 DUFFY-TYLER   DAVID        F 400          72ND                
+B	ID4445113314680510004	 DUFFY-TYLER   BEN          M 400          72ND                
+B	ID4445113314680510002	 DUFFY-TYLER   ALLICIA        400          72ND                
+B	ID4445113314680510005	 DUFFY-TYLER   GERALDINE    L 400          72ND                
+B	ID4445113314680510006	 DUFFY-TYLER   NATASHA        400          72ND                
+B	ID4445113314675510001	 ELM           GISUS        A 419          VILLAGRANDE         
+B	ID4445113314675510002	 ELM           ETHLEW       J 419          VILLAGRANDE         
+B	ID44461161345	 FENSTER-PENNE JEANNE       L 610          STARKEY             
+B	ID4445113314674810001	 GASBARRD      PABLO        V 401          VILLAGRANDE         
+B	ID4445113314674810002	 GASBARRD      LE ANNE      G 401          VILLAGRANDE         
+B	ID4445113314674810003	 GASBARRD      AFRIN        K 401          VILLAGRANDE         
+B	ID4445113314674810005	 GASBARRD      JO ANNE      M 401          VILLAGRANDE         
+B	ID44461160444	 GEHRING       BIANCA       A 602          STARKEY             
+B	ID44461161046	 HACKER        ZUNZELL      M 606          STARKEY             
+B	ID44461161047	 HACKER        CORNLIUS     M 606          STARKEY             
+B	ID44461160351	 HALLORAW      MARIEA       A 600          STARKEY             
+B	ID4445113314681310001	 HELER         DIXIE        J 380          72ND                
+B	ID4445113314681310003	 HELER         DORIAN       J 380          72ND                
+B	ID4445113314681310002	 HELER         TEAIRA       J 380          72ND                
+B	ID4445113314681310004	 HELER         ANGELEAN     M 380          72ND                
+B	ID4445112314672210001	 HOOPER        ARISTIDIS    C 7100         2ND                 
+B	ID4445112314672210003	 HOOPER        CARLO        C 7100         2ND                 
+B	ID4445112314672210002	 HOOPER        ROSETTA      B 7100         2ND                 
+B	ID4445112314666410001	 HUBRICK       CHARLS       P 7127         3RD                 
+B	ID4445112314666410002	 HUBRICK       JANICE         7127         3RD                 
+B	ID4445113314673010001	 PAINE-WELLS   SIFRIDO      J 231          71ST                
+B	ID4445113314673010003	 PAINE-WELLS   ABEL           231          71ST                
+B	ID4445113314673010004	 PAINE-WELLS   WALDO        J 231          71ST                
+B	ID4445113314673010005	 PAINE-WELLS   IGANACIO     J 231          71ST                
+B	ID4445113314673010002	 PAINE-WELLS   BARBRA       L 231          71ST                
+B	ID4445113314676310001	 PENSMITH      JEFFERY      J 427          VILLAGRANDE         
+B	ID4445113314676310002	 PENSMITH      THRESSA      A 427          VILLAGRANDE         
+B	ID4445113314676310003	 PENSMITH      ANN          A 427          VILLAGRANDE         
+B	ID4445112314667210001	 POLLOCK       ANDREW         7139         3RD                 
+B	ID4445112314667210003	 POLLOCK       JAMAL        F 7139         3RD                 
+B	ID4445112314667210005	 POLLOCK       DAVON        S 7139         3RD                 
+B	ID4445112314667210006	 POLLOCK       SHAUN        P 7139         3RD                 
+B	ID4445112314667210002	 POLLOCK       MIRIAN       J 7139         3RD                 
+B	ID4445112314667210004	 POLLOCK       LEHA         A 7139         3RD                 
+B	ID44461160650	 REEVER        KENNETH      A 604          STARKEY             
+B	ID4445112314671410001	 ROWAN         CRISTOPHER   J 7112         2ND                 
+B	ID4445112314671410004	 ROWAN         ERNEST       A 7112         2ND                 
+B	ID4445112314671410002	 ROWAN         CATHERINE      7112         2ND                 
+B	ID4445112314671410003	 ROWAN         ALFREDA      L 7112         2ND                 
+B	ID4445113314678910001	 SANDERS       NICHOLAS     G 430          72ND                
+B	ID4445113314678910002	 SANDERS       KATHY        L 430          72ND                
+B	ID4445112314665610001	 SCHWARTZ      JOAN         F 7121         3RD                 
+B	ID4445112314665610002	 SCHWARTZ      PATRICIA     E 7121         3RD                 
+B	ID4445113314677110001	 SMALL         JEFFERY      P 441          VILLAGRANDE         
+B	ID4445113314677110002	 SMALL         ENGER        B 441          VILLAGRANDE         
+B	ID4445112314664910001	 VELL          GLORIANE     M 7111         3RD                 
+B	ID4449126128949510001	 ARCHBR        MACK         C 309          WOODHAVEN           
+B	ID4449126128949510002	 ARCHBR        J            A 309          WOODHAVEN           
+B	ID4449126128936210001	 BELTAN        ELAM         A 114          BRANTWOOD           
+B	ID4449126128936210004	 BELTAN        WYLIE        A 114          BRANTWOOD           
+B	ID4449126128936210002	 BELTAN        GISELLA      M 114          BRANTWOOD           
+B	ID4449126128936210003	 BELTAN        RUTHANN      M 114          BRANTWOOD           
+B	ID4449126128933910001	 BETRAN        LAWRENE        108          BRANTWOOD           
+B	ID4449126128933910003	 BETRAN        JEFFREY        108          BRANTWOOD           
+B	ID4449126128933910002	 BETRAN        SOLITA         108          BRANTWOOD           
+B	ID4449126128947910001	 COGER         EDDIE        M 313          WOODHAVEN           
+B	ID4449126128947910003	 COGER         EARL         M 313          WOODHAVEN           
+B	ID4449126128947910002	 COGER         ROSSITA      J 313          WOODHAVEN           
+B	ID4449126128942010001	 DORSLY        GARY         S 503          WOODHAVEN           
+B	ID4449126128942010002	 DORSLY        MELLISA      J 503          WOODHAVEN           
+B	ID4449126128942010003	 DORSLY        DEBNA        M 503          WOODHAVEN           
+B	ID4449126128942010004	 DORSLY        EDNA         L 503          WOODHAVEN           
+B	ID4449126128948710001	 DRENNON       ISAAC        F 311          WOODHAVEN           
+B	ID4449126128948710003	 DRENNON       EARNEST      R 311          WOODHAVEN           
+B	ID4449126128948710002	 DRENNON       THERSA       A 311          WOODHAVEN           
+B	ID4449126128939610001	 FLEET         JOHNNIE        514          WOODHAVEN           
+B	ID4449126128939610002	 FLEET         ANTOINETTE     514          WOODHAVEN           
+B	ID4449126128944610002	 FLOWER        STANLEY      J 405          WOODHAVEN           
+B	ID4449126128944610001	 FLOWER        CORNELIA     M 405          WOODHAVEN           
+B	ID4449126128929710001	 GALINDE       KENNETH      E 100          BRANTWOOD           
+B	ID4449126128929710002	 GALINDE       ENZNZELLE    E 100          BRANTWOOD           
+B	ID4449126128929710003	 GALINDE       LACHELLE     G 100          BRANTWOOD           
+B	ID4449126128929710004	 GALINDE       CHATYRA      M 100          BRANTWOOD           
+B	ID4449126128932110001	 HILLEGASS     JOHNNIE      E 106          BRANTWOOD           
+B	ID4449126128932110002	 HILLEGASS     JENIA          106          BRANTWOOD           
+B	ID4449126128932110003	 HILLEGASS     HAILIE       E 106          BRANTWOOD           
+B	ID4449126128932110004	 HILLEGASS     ROSE         C 106          BRANTWOOD           
+B	ID4449126128932110005	 HILLEGASS     JONIE        E 106          BRANTWOOD           
+B	ID4449126128925510001	 HULLOWAY      SCOTT        C 107          ELDORADA            
+B	ID4449126128925510002	 HULLOWAY      JENNIFER     T 107          ELDORADA            
+B	ID444611540953	 JONES         PRESPEU      J 7114         3RD                 
+B	ID444611540954	 JONES         NAOMI        K 7114         3RD                 
+B	ID444611540955	 JONES         LUC          M 7114         3RD                 
+B	ID4449126128938810001	 KABEZA        RONNY          512          WOODHAVEN           
+B	ID4449126128938810003	 KABEZA        KEN          R 512          WOODHAVEN           
+B	ID4449126128938810002	 KABEZA        SHAWNA         512          WOODHAVEN           
+B	ID4449126128943810001	 KEARNAY       SHAMIKA      E 501          WOODHAVE            
+B	ID4449126128943810002	 KEARNAY       ASHLEY         501          WOODHAVE            
+B	ID4449126128943810003	 KEARNAY       SHERMICE       501          WOODHAVE            
+B	ID44461191152	 MASLIN        ALMA         C 620          STARKEY             
+B	ID4449126128940410001	 MITCHELL      GEROME       J 509          WOODHAVEN           
+B	ID4449126128940410002	 MITCHELL      DORETTA      M 509          WOODHAVEN           
+B	ID4449126128926310001	 MONGUM        ROBERT       J 105          EL DORADO           
+B	ID4449126128926310002	 MONGUM        RAKIA          105          EL DORADO           
+B	ID4449126128935410001	 RAMOS         SONYA        K 112          BRANTWOOD           
+B	ID4449126128934710001	 RHOADS        JEFFREY      C 110          BRANTWOOD           
+B	ID4449126128934710002	 RHOADS        HENRIETTA      110          BRANTWOOD           
+B	ID4449126128934710003	 RHOADS        JANIE        M 110          BRANTWOOD           
+B	ID4449126128934710004	 RHOADS        JEANNE         110          BRANTWOOD           
+B	ID4449126128946110001	 RICHARDSONIII EMMIT        E 315          WOODHAVEN           
+B	ID4449126128946110002	 RICHARDSONIII TOMICA       R 315          WOODHAVEN           
+B	ID4449126128931310001	 RIVERA        JOHN         U 104          BRANTONWOOD         
+B	ID4449126128931310002	 RIVERA        STEWART      K 104          BRANTONWOOD         
+B	ID4449126128928910001	 RODRIGUEZ     JOSHUA       V 101          EL DORADO           
+B	ID4449126128928910002	 RODRIGUEZ     RUBY         E 101          EL DORADO           
+B	ID444611541056	 SPINWATO      SILYIA       M 301          71ST                
+B	ID4449126128941210001	 STEWART       FRED         A 505          WOODHAVEN           
+B	ID4449126128941210002	 STEWART       SHANTELL     A 505          WOODHAVEN           
+B	ID4449126128930510001	 STOPPY        JEFFREY      F 102          BRANTWOOD           
+B	ID4449126128930510005	 STOPPY        FRANK        E 102          BRANTWOOD           
+B	ID4449126128930510002	 STOPPY        ELOUISE      F 102          BRANTWOOD           
+B	ID4449126128930510003	 STOPPY        QUIYINA      B 102          BRANTWOOD           
+B	ID4449126128930510004	 STOPPY        ALIE         A 102          BRANTWOOD           
+B	ID4449126128927110001	 WILKS         BENEDICT     W 103          EL DORADO           
+B	ID4449126128927110003	 WILKS         STEVEN       M 103          EL DORADO           
+B	ID4449126128927110002	 WILKS         HARRIET      L 103          EL DORADO           
+B	ID4449126128937010001	 WILLIAM       CHARLEY      A 510          WOODHAVEN           
+B	ID4449126128937010002	 WILLIAM       SHERRY       V 510          WOODHAVEN           
+B	ID4449126128950310001	 WRIGHT        BRYAN          307          WOODHAVEN           
+B	ID4449126128950310002	 WRIGHT        MAXINE       H 307          WOODHAVEN           
+B	ID4449126128945310001	 YATES         CHANSE       E 403          WOODHAVEN           
+B	ID4449126128945310002	 YATES         ALFREDICA    S 403          WOODHAVEN           
