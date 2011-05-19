@@ -41,7 +41,6 @@ public class Level2 extends AbstractTokenizedStringDistance
 			}
 			sumOverI += maxOverJ;
 		}
-		//System.out.println("sumOverI="+sumOverI+" size="+sBag.size());
 		return  sumOverI / sBag.size();
 	}
 	
@@ -70,7 +69,6 @@ public class Level2 extends AbstractTokenizedStringDistance
 			sumOverI += maxOverJ;
 			buf.append(" match="+closestToI+" score="+maxOverJ+"\n");
 		}
-		//System.out.println("common="+numCommon+" |s| = "+sBag.size()+" |t| = "+tBag.size());
 		buf.append("total: "+sumOverI+"/"+sBag.size()+" = "+score(s,t)+"\n");
 		return buf.toString();
 	}

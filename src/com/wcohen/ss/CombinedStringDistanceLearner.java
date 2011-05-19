@@ -130,9 +130,7 @@ public abstract class CombinedStringDistanceLearner implements StringDistanceLea
 	/** Pass new labels to the sublearners. 
 	 */
 	public void addExample(DistanceInstance answeredQuery) {
-		//System.out.println("adding example query: "+answeredQuery);
 		MyMultiDistanceInstance di = asMultiDistanceInstance( answeredQuery );
-		//System.out.println("as MyMultiDistanceInstance: "+di);
 		for (int i=0; i<innerLearners.length; i++) {
 			innerLearners[i].addExample( di.get(i) );
 		}

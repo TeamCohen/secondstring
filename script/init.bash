@@ -1,3 +1,3 @@
 SSDIR=`pwd`
-export CLASSPATH=.:$SSDIR/class
+export CLASSPATH=.:$SSDIR/lib/log4j-1.2.8.jar:$SSDIR/class
 

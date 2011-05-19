@@ -3,6 +3,8 @@ package com.wcohen.ss;
 import com.wcohen.ss.api.*;
 import java.io.*;
 
+import org.apache.log4j.Logger;
+
 /**
  * Needleman-Wunsch string distance, following Durban et al. 
  * Sec 2.3, but using an approximate string distance.
@@ -10,6 +12,8 @@ import java.io.*;
 
 public class ApproxNeedlemanWunsch extends AbstractStringDistance
 {
+    private static Logger log=Logger.getLogger(ApproxNeedlemanWunsch.class);
+
     private static final int DEFAULT_WIDTH = 40;
     private CharMatchScore charMatchScore;
     private double gapCost;
@@ -55,17 +59,13 @@ public class ApproxNeedlemanWunsch extends AbstractStringDistance
 
         int bestJ = -1;
         double bestScore = -Double.MAX_VALUE;
-        //System.out.print("align to: "+i);
         for (int j=mat.getFirstStoredEntryInRow(i); j<=mat.getLastStoredEntryInRow(i); j++) {
-            if (mat.outOfRange(i,j)) System.out.println("out of range: "+i+","+j);
+            if (mat.outOfRange(i,j)) log.error("out of range: "+i+","+j);
             double score = mat.get(i,j);
-            //System.out.print(" at"+j+"="+(-score));
             if ((score>bestScore) || (score==bestScore && preferHigherIndices)) {
                 bestScore = score; bestJ = j;
-                //System.out.print("!");
             }
         }
-        //System.out.println("i="+i+" bestJ="+bestJ+ " score="+bestScore+" alignment("+iMinusOne+")="+(bestJ-1));
         // convert back to the usual 0...N-1 Java convention
         return bestJ-1;
     }

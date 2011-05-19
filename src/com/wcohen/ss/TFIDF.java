@@ -26,7 +26,6 @@ public class TFIDF extends AbstractStatisticalTokenDistance
                 sim += sBag.getWeight(tok) * tBag.getWeight(tok);
             }
         }
-        //System.out.println("common="+numCommon+" |s| = "+sBag.size()+" |t| = "+tBag.size());
         return sim;
     }
 	

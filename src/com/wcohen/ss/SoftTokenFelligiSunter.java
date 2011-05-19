@@ -71,7 +71,6 @@ public class SoftTokenFelligiSunter extends AbstractStatisticalTokenDistance
 				}
 			}
 		}
-		//System.out.println("common="+numCommon+" |s| = "+sBag.size()+" |t| = "+tBag.size());
 		return sim;
 	}
 	
@@ -121,19 +120,13 @@ public class SoftTokenFelligiSunter extends AbstractStatisticalTokenDistance
 			tokenData.addInstance("tokens",tok.getValue(),tok.getValue());
 		}
 		Blocker tokenBlocker = new ClusterNGramBlocker();
-		/*
-		System.out.println("Finding token-token distances between "
-											 +tokenData.numInstances(tokenData.getSource(0))+" tokens");
-		*/
 		tokenBlocker.block(tokenData);
-		//System.out.println("Computing token-token distances between "+tokenBlocker.size()+" similar tokens");
 		for (int i=0; i<tokenBlocker.size(); i++) {
 			Blocker.Pair pair = tokenBlocker.getPair(i);
 			String s = pair.getA().unwrap();
 			String t = pair.getB().unwrap();
 			double d = tokenDistance.score( s, t );
 			if (d>=tokenMatchThreshold) {
-				//System.out.println("adding neighbors: '"+s+"', '"+t+"' dist="+d);
 				addNeighbor( s, t, d);
 			}
 		}

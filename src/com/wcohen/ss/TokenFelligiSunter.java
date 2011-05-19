@@ -45,7 +45,6 @@ public class TokenFelligiSunter extends AbstractStatisticalTokenDistance
 				}
 			}
 		}
-		//System.out.println("common="+numCommon+" |s| = "+sBag.size()+" |t| = "+tBag.size());
 		return sim;
 	}
 	

@@ -2,6 +2,8 @@ package com.wcohen.ss;
 
 import com.wcohen.ss.api.*;
 
+import org.apache.log4j.Logger;
+
 /** 
  * Variant of MemoMatrix that only stores values near the diagonal,
  * for better efficiency.
@@ -12,6 +14,8 @@ import com.wcohen.ss.api.*;
 
 public abstract class ApproxMemoMatrix extends MemoMatrix
 {
+    private static Logger log=Logger.getLogger(ApproxMemoMatrix.class);
+
     // explicitly stored values
     private double[][] valuesNearDiagonal;
     private boolean[][] wasComputed;
@@ -45,9 +49,6 @@ public abstract class ApproxMemoMatrix extends MemoMatrix
     {
         int diagForI = (int)Math.round( i*scale );
         int k = diagForI-j + width;
-        //System.out.println("scale by "+(t.length()+1) +"/"+ (s.length()+1)+ " = "+scale);
-        //System.out.println("m["+i+","+j+"] near m["+i+","+diagForI+"] =>  M["+i+","+k+"]");
-        //System.out.println("m["+i+","+j+"] => m["+i+","+k+"]");
         return k;
     }
     private boolean nearDiagonal(int k)
@@ -73,7 +74,7 @@ public abstract class ApproxMemoMatrix extends MemoMatrix
     public boolean outOfRange(int i, int j)
     {
         boolean out = i<1 || i>s.length() || j<1 || j>t.length();
-        if (out) System.out.println("|s|="+s.length()+" |t|="+t.length()+" s = '"+s+"' t="+t+"'");
+        if (out) log.error("out of range: |s|="+s.length()+" |t|="+t.length()+" s = '"+s+"' t="+t+"'");
         return out;
     }
 

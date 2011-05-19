@@ -4,6 +4,7 @@ import java.util.*;
 import com.wcohen.ss.tokens.*;
 import com.wcohen.ss.api.*;
 
+import org.apache.log4j.Logger;
 
 /**
  * Abstract token distance metric that uses frequency statistics.
@@ -11,6 +12,8 @@ import com.wcohen.ss.api.*;
 
 abstract public class AbstractStatisticalTokenDistance extends AbstractTokenizedStringDistance
 {
+	private static Logger log=Logger.getLogger(AbstractTokenizedStringDistance.class);
+
 	// to save space, allocate the small numbers only once in the documentFrequency map
 	private static final Integer ONE = new Integer(1);
 	private static final Integer TWO = new Integer(2);
@@ -57,10 +60,10 @@ abstract public class AbstractStatisticalTokenDistance extends AbstractTokenized
 	protected void checkTrainingHasHappened(StringWrapper s, StringWrapper t)
 	{
 		if (collectionSize==0 && ++warningCounter<=10) {
-			System.out.println("Warning: "+this.getClass()+" not yet trained for sim('"+s+"','"+t+"')");
-			if (warningCounter == 10) {
-				System.out.println("(By the way, that's the last warning you'll get about this.)");
-			}
+		    log.warn(this.getClass()+" not yet trained for sim('"+s+"','"+t+"')");
+		    if (warningCounter == 10) {
+			log.warn("(By the way, that's the last warning you'll get about this.)");
+		    }
 		}
 	}
 

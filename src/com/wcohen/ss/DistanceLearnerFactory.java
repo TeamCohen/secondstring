@@ -128,7 +128,6 @@ public class DistanceLearnerFactory
 			begin = end+1; 
 		}
 		list.add( s.substring(begin) );
-		//for (int i=0; i<list.size(); i++) { System.out.println((i+1)+": "+list.get(i)); }
 		return (String[]) list.toArray( new String[list.size()] );
 	}
 

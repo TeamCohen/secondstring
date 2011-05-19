@@ -123,9 +123,9 @@ public abstract class MultiStringDistance implements StringDistance
 	final protected static void doMain(StringDistance d,String[] argv) 
 	{
 		if (argv.length!=2) {
-	    System.out.println("usage: string1 string2");
+		    System.out.println("usage: string1 string2");
 		} else {
-	    System.out.println(d.explainScore(argv[0],argv[1]));
+		    System.out.println(d.explainScore(argv[0],argv[1]));
 		}
 	}
 

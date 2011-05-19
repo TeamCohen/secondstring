@@ -112,10 +112,10 @@ public abstract class AbstractStringDistance implements StringDistance,StringDis
 	/** Default main routine for testing */
 	final protected static void doMain(StringDistance d,String[] argv) 
 	{
-		if (argv.length!=2) {
-	    System.out.println("usage: string1 string2");
-		} else {
-	    System.out.println(d.explainScore(argv[0],argv[1]));
-		}
+	    if (argv.length!=2) {
+		System.out.println("usage: string1 string2");
+	    } else {
+		System.out.println(d.explainScore(argv[0],argv[1]));
+	    }
 	}
 }

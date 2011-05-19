@@ -46,7 +46,6 @@ public class Mixture extends AbstractStatisticalTokenDistance
 			double change = newLamba - lambda;
 			if (iterations>maxIterate || (change>= -minChange && change<=minChange)) break;
 			else lambda = newLamba;
-			//System.out.println("iteration: "+(++iterations)+" lambda="+lambda);
 		}
 		return lambda;
 	}

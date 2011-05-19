@@ -25,7 +25,6 @@ public class Jaccard extends AbstractStringDistance
 	    Token tok = (Token)i.next();
 	    if (tBag.contains(tok)) numCommon++;
 		}
-		//System.out.println("common="+numCommon+" |s| = "+sBag.size()+" |t| = "+tBag.size());
 		return  numCommon / (sBag.size() + tBag.size() - numCommon);
 	}
 	
