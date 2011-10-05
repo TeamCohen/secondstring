@@ -10,8 +10,8 @@ import com.wcohen.ss.api.*;
 
 public class BasicToken implements Token, Comparable
 {
-	private final int index;
-	private final String value;
+	protected final int index;
+	protected final String value;
 	
 	BasicToken(int index,String value) {
 		this.index = index;

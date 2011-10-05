@@ -14,6 +14,7 @@ public class MatchData
     private Map sourceLists;
     private ArrayList sourceNames;
     private String filename;
+    private static final boolean KEEP_OLD_ITERATION_BUG = System.getProperty("ss.keepOldIterationBug")!=null;
 	
     /**
      * Read match data from a file.  Format should be:
@@ -126,7 +127,7 @@ public class MatchData
      * stored as a StringWrapper so that it can be preprocessed, if
      * necessary.
      */
-    public static class Instance extends BasicStringWrapper
+    public static class Instance extends BasicStringWrapper implements SourcedStringWrapper
     {
         private final String source;
         private final String id;
@@ -144,7 +145,7 @@ public class MatchData
     }
 	
     /** Iterates over all stored StringWrappers */
-    static public class MatchIterator implements StringWrapperIterator 
+    static public class MatchIterator implements SourcedStringWrapperIterator 
     {
         private int sourceCursor,instanceCursor;
         private String src;  // caches getSource(sourceCursor)
@@ -160,8 +161,10 @@ public class MatchData
         /** Not implemented. */
         public void remove() { throw new IllegalStateException("remove not implemented"); }
 
-        /** Return the source of the last StringWrapper. */
-        public String getSource() { return src; }
+        /** Return the next StringWrapper. */
+        public SourcedStringWrapper nextSourcedStringWrapper() { 
+            return (SourcedStringWrapper)next(); 
+        }
 
         /** Return the next StringWrapper. */
         public StringWrapper nextStringWrapper() { 
@@ -175,7 +178,12 @@ public class MatchData
         /** Returns the next StringWrapper as an object. */
         public Object next() {
             Instance inst = data.getInstance( src, instanceCursor++ );
-            if (instanceCursor>data.numInstances(src)) {
+            if (KEEP_OLD_ITERATION_BUG && instanceCursor>data.numInstances(src)) {
+                sourceCursor++; instanceCursor=0;
+                if (sourceCursor<data.numSources()) 
+                    src = data.getSource(sourceCursor);
+            }
+            if (!KEEP_OLD_ITERATION_BUG && instanceCursor>=data.numInstances(src)) {
                 sourceCursor++; instanceCursor=0;
                 if (sourceCursor<data.numSources()) 
                     src = data.getSource(sourceCursor);
@@ -196,7 +204,14 @@ public class MatchData
     public static void main(String[] argv) 
     {
         try {
-	    System.out.println(new MatchData(argv[0]).toString());
+            MatchData md = new MatchData(argv[0]);
+            System.out.println("Dump:");
+	    System.out.println(md.toString());
+            System.out.println();
+            System.out.println("Iteration:");
+            for (Iterator i = md.getIterator(); i.hasNext(); ) {
+                System.out.println(i.next().toString());                
+            }
         } catch (Exception e) {
 	    e.printStackTrace();
         }
