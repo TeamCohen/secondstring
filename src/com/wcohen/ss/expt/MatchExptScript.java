@@ -316,7 +316,7 @@ public class MatchExptScript
 			template[i] = String.class;
 		}
 		Method m = MatchExptScript.class.getMethod(command, template );
-		m.invoke(this, (String[])args.toArray(new String[args.size()]));
+		m.invoke(this, args.toArray(new String[0]));
 	}
 
 	static public void main(String[] argv) {

@@ -1,9 +1,17 @@
 <project name="secondstring" default="build" basedir=".">
     <description>Build file for second string</description>
-  <property name="src" location="src"/>
+  <property name="src"     location="src"/>
   <property name="javadoc" location="javadoc"/>
-  <property name="build" location="class"/>
-  <property name="dist"  location="dist"/>
+  <property name="build"   location="class"/>
+  <property name="dist"    location="dist"/>
+  <property name="lib"     location="lib"/>
+
+  <path id="compile.classpath">
+    <fileset dir="${lib}">
+      <include name="log4j-1.2.8.jar"/>
+    </fileset>
+  </path>
+
 
   <target name="init">
     <!-- Create the time stamp -->
@@ -17,7 +25,9 @@
   <target name="build" depends="init"
         description="compile the source " >
     <!-- Compile the java code from ${src} into ${build} -->
-    <javac srcdir="${src}" destdir="${build}" debug="on"/>
+    <javac srcdir="${src}" destdir="${build}" debug="on">
+      <classpath refid="compile.classpath"/>
+    </javac>
   </target>
 
   <target name="dist" depends="build"  description="generate the distribution" >
