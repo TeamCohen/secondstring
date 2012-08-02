@@ -127,7 +127,7 @@ public class MatchData
      * stored as a StringWrapper so that it can be preprocessed, if
      * necessary.
      */
-    public static class Instance extends BasicStringWrapper implements SourcedStringWrapper
+    public static class Instance extends BasicStringWrapper implements SourcedStringWrapper, IdentifiedStringWrapper
     {
         private final String source;
         private final String id;

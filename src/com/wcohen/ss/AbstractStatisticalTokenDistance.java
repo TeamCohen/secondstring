@@ -72,4 +72,6 @@ abstract public class AbstractStatisticalTokenDistance extends AbstractTokenized
 		if (freqInteger==null) return 0;
 		else return freqInteger.intValue();
 	}
+	
+	public Iterator tokenIterator() { return documentFrequency.keySet().iterator(); }
 }

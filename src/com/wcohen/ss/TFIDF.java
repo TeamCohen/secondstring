@@ -68,6 +68,10 @@ public class TFIDF extends AbstractStatisticalTokenDistance
     { 
         documentFrequency.put(token,new Integer(df));
     }
+    
+    public void setTokenCount(int tc) {
+    	this.totalTokenCount = tc;
+    }
 
     /* Return the size of the collection that this TFIDF measure was
      * trained on to some value. */
@@ -85,6 +89,8 @@ public class TFIDF extends AbstractStatisticalTokenDistance
     {
         collectionSize=n;
     }
+    
+    public int getVocabularySize() { return documentFrequency.size(); }
 
     /** Marker class extending BagOfTokens */
     protected class UnitVector extends BagOfTokens 

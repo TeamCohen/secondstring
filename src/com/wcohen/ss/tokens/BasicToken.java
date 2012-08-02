@@ -1,5 +1,7 @@
 package com.wcohen.ss.tokens;
 
+import java.io.Serializable;
+
 import com.wcohen.ss.api.*;
 
 
@@ -8,7 +10,7 @@ import com.wcohen.ss.api.*;
  *
  */
 
-public class BasicToken implements Token, Comparable
+public class BasicToken implements Token, Comparable, Serializable
 {
 	protected final int index;
 	protected final String value;
@@ -25,4 +27,8 @@ public class BasicToken implements Token, Comparable
 	} 
 	public int hashCode() { return value.hashCode(); }
 	public String toString() { return "[tok "+getIndex()+":"+getValue()+"]"; }
+	public boolean equals(Object t) { 
+		if (t instanceof BasicToken) return this.hashCode() == (t.hashCode());
+		return super.equals(t);
+	}
 }
