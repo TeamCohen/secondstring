@@ -1,0 +1,401 @@
+
+EFPO	Educating Future Physicians for Ontario#_#COFM	Council of Ontario Faculties of Medicine#_#AMS	Associated Medical Services
+
+
+
+URMs	underrepresented minorities
+
+
+CME	continuing medical education
+CME	continuing medical education#_#PREP	Physician Review Program
+
+
+
+
+RVUs	relative value units
+
+EBM	Evidence-based medicine
+
+AAMC's	Association of American Medical Colleges'#_#AMCs	academic medical centers
+
+PBL	problem-based learning
+OSCE	objective structure clinical examination
+
+
+
+
+
+CPA	clinical problem analysis
+GME	graduate medical education
+
+
+
+StAR	steroidogenic acute regulatory protein#_#ACTH	acute stimulation by corticotrophin#_#LH	luteinizing hormone
+IDI	iodothyronine deiodinase
+LESP	lizard epididymal secretory protein
+17beta-HSD2	17beta-hydroxysteroid dehydrogenase type 2
+
+
+hCG	human chorionic gonadotrophin#_#CI	confidence interval#_#PgR	progesterone receptor
+ECM	extracellular matrix
+CRF-BP	corticotrophin-releasing factor binding protein
+NO	nitric oxide#_#eNOS	endothelial type of NO synthase
+3beta-HSD II	3beta-hydroxysteroid dehydrogenase type II
+RA	Retinoic acid#_#NaB	sodium butyrate#_#SV	seminal vesicle#_#tTGase	tissue transglutaminase#_#RAR	RA receptor
+PRL	prolactin#_#PLF-RP	proliferin-related protein#_#PLP-F	prolactin-like protein-F
+ASA	anti-sperm antibodies#_#APA	anti-phospholipid antibodies#_#AZA	antizonal antibodies#_#IVF	in vitro fertilization#_#ICSI	intracytoplasmic sperm injection#_#TAT	tray agglutination test#_#MAR	mixed anti-globulin reaction test#_#ELISA	enzyme-linked immunosorbent assay#_#ET	embryo transfer
+IGF	insulin-like growth factor#_#PDGF	platelet-derived growth factor#_#EGF	epidermal growth factor#_#FF	follicular fluid#_#ICSI	intra-cytoplasmic sperm injection#_#LH	luteinizing hormone#_#FSH	follicle-stimulating hormone#_#hMG	human menopausal gonadotrophin
+CA	cancer antigen#_#IVF ET	in vitro fertilization/embryo transfer#_#LHRH	luteinizing hormone-releasing hormone#_#hMG	human menopausal gonadotrophin#_#hCG	human chorionic gonadotrophin#_#OPU	oocyte pick-up
+VEGF	vascular endothelial growth factor#_#IVF	in vitro fertilization
+APCR	activated protein C resistance#_#APC SR	APC sensitivity ratio
+IVF ET	in vitro fertilization embryo transfer#_#ACA	anti-cardiolipin antibodies#_#ANA	anti-nuclear antibodies#_#ds	double-stranded#_#RF	rheumatoid factor#_#LAC	lupus anti-coagulant
+IL	interleukin#_#LPS	lipopolysaccharide#_#OTA	oligoteratoasthenospermic#_#FCS	fetal calf serum
+IFN	interferon#_#VEGF	vascular endothelial growth factor#_#ES	endometrial stromal
+GnRHa	gonadotropin-releasing hormone agonist
+IL	interleukin#_#AECC	autologous endometrial coculture#_#IVF	in vitro fertilization#_#CM	conditioned media#_#frag	fragmentation
+AOS	allene oxide synthase
+
+
+
+
+ABA	abscisic acid
+LS	Linsmaier-Skoog#_#IAA	3-indoleacetic acid
+PAL	phenylalanine ammonia-lyase#_#AIP	2-aminoindan-2-phosphonic acid#_#S/G	syringyl to guaiacyl#_#FT-IR	Fourier-transform infrared
+
+
+DMDP	2R,5R-bis(hydroxymethyl)-3R,4R-dihydroxypyrrolidine
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SLNB	sentinel lymph node biopsy
+
+QOL	quality-of-life
+CT/RT	chemotherapy and radiotherapy#_#HCR	Histologic complete response#_#CCR	clinical complete response
+IRX-2	natural cytokine mixture#_#SCC	squamous cell carcinoma#_#H&N	head and neck
+
+END	elective neck dissection
+CT	computed tomography
+OPM	oropharyngeal motility#_#SPSS	Swallowing Performance Status Scale
+
+
+3-D	3-dimensional
+
+
+DMBA	9,10-dimethyl-1,2-benzanthracene
+SOH	supraomohyoid
+SOHND	Supraomohyoid neck dissection
+END	endoscopic neck dissection
+
+
+
+SLN	sentinel lymph node
+
+
+Sf9	Spodoptera frugiperda#_#NADH-GOGAT	glutamate synthase
+
+22K hGH	22 kDa growth hormone
+ESI-MS	electrospray ionization mass spectrometry
+
+MAD	multiple wavelength anomalous diffraction
+
+HMDM	human monocyte-derived macrophages#_#EGFP	enhanced green fluorescent protein
+SH	subtractive hybridization#_#DCH	differential colony hybridization
+
+EXACCT	exonuclease-amplification coupled capture technique
+
+PNA	peptide nucleic acid
+
+
+
+rbcL	ribulose-1, 5-bisphosphate carboxylase/oxygenase large subunit
+CFLP	Cleavase Fragment Length Polymorphism
+DGC	dystrophin-glycoprotein complex#_#alpha-DB	alpha-dystrobrevin#_#NMJ	neuromuscular junction
+
+MARCM	mosaic analysis with a repressible cell marker#_#MB	mushroom body#_#Nb	neuroblast
+bHLH	basic helix-loop-helix#_#CNS	central nervous system#_#Shh	Sonic hedgehog
+bHLH	Basic helix-loop-helix#_#PDGFRalpha	platelet-derived growth factor receptor alpha
+NGF	nerve growth factor#_#DRG	dorsal root ganglion
+POMA	paraneoplastic opsoclonus-myoclonus ataxia#_#GlyRalpha2 E3A	glycine alpha2 exon 3A
+NMDARs	N-methyl-D-aspartate receptors
+
+K+	potassium#_#HMs	hypoglossal motoneurons
+
+OEG	olfactory ensheathing glia
+SCN	suprachiasmatic nuclei
+SL-M	Stratum lacunosum-moleculare#_#IPSCs	inhibitory postsynaptic currents
+
+NMDAR	NMDA receptor
+HVC	high vocal center
+MRI	magnetic resonance imaging#_#DTI	diffusion tensor imaging
+M-CSFR	M-CSF receptor
+IGF-1	insulin-like growth factor-1#_#LTGF-beta 1	latent transforming growth factor beta 1#_#M6P	mannose-6-phosphate
+OP-1	Osteogenic protein-1#_#BMP-7	bone morphogenetic protein-7
+IGF-1R	Insulin-like growth factor-1 receptor
+FGF	fibroblast growth factors
+b FGF	basic fibroblast growth factor
+OP-1	osteogenic protein-1
+
+PUD	peptic ulcer disease#_#LR	likelihood ratio
+GPs'	general practitioners'
+EDI-2	Eating Disorders Inventory#_#TAS-20	Toronto Alexithymia Scale#_#ANOVA	analysis of variance
+PEFR	peak expiratory flow rate
+A&E	accident and emergency
+
+GP	general practitioner
+
+
+
+ACE	angiotensin-converting enzyme
+
+FEV1	forced expiratory volume#_#ER	emergency room
+oc	Osteosclerosis#_#BAC	bacterial artificial chromosome
+L/B/K	Liver/bone/kidney#_#ALP	alkaline phosphatase
+PTH	parathyroid hormone#_#PTHrP	PTH-related peptide
+PTH	Parathyroid hormone#_#topo II	topoisomerase II
+TGF-beta	transforming growth factor-beta#_#Cl2MBP	dichlormethane-1,1-bisphosphonic acid 
+NTx	cross-linked N-telopeptides of type I collagen
+IL-6	interleukin-6#_#TGF-beta	Transforming growth factor-beta 
+GH	Growth hormone#_#GH rats	GH3-bearing rats
+
+
+BMT	bone marrow transplantation#_#BMD	Bone mineral density
+Ca	calcium#_#TRAP	Tartrate-resistant acid phosphatase#_#IGF-I	Insulin-like growth factor I
+COLIA1	collagen I alpha 1 gene#_#BMD	bone mineral density
+2-D	two-dimensional#_#3-D	three-dimensional#_#micro-CT	micro-computed tomography#_#SMI	structure model index
+
+
+
+
+
+
+DGA	dental general anaesthesia#_#LA	local anaesthetic
+GDPs	general dental practitioners
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PE	parietal endoderm#_#PrE	primitive endoderm#_#EMT	epithelio-mesenchyme transition#_#EMI	epithelium-mesenchyme interactions
+RPTPs	Receptor Protein-Tyrosine Phosphatases
+
+PGCs	primordial germ cells#_#YSL	yolk syncitial layer
+
+
+AD	atopic dermatitis
+SSLF	skin surface lipid film#_#SC	stratum corneum
+LCs	Langerhans cells#_#DETCs	dendritic epidermal T cells#_#IFN	interferon#_#TNF	tumour necrosis factor#_#IL	interleukin
+CGRP	calcitonin gene-related peptide#_#PGP 9.5	protein gene product 9.5
+TGF	Transforming growth factor#_#ELISA	enzyme-linked immunosorbent assay
+NO	Nitric oxide#_#NOS	NO synthase#_#EPF	eosinophilic pustular folliculitis
+CTCL	cutaneous T-cell lymphoma#_#EGF	epidermal growth factor#_#TGF-alpha	transforming growth factor-alpha#_#EGFr	EGF receptor
+IFN-alpha	interferon-alfa#_#ECTL	epidermotropic cutaneous T-cell lymphoma
+AA	Alopecia areata#_#MoAb	monoclonal antibody
+
+CIU	chronic idiopathic urticaria#_#ASST	autologous serum skin test
+
+
+
+AD	atopic dermatitis
+
+
+
+EPPK	Epidermolytic palmoplantar keratoderma#_#K9	keratin 9
+DSH	dyschromatosis symmetrica hereditaria
+
+NK	natural killer#_#EBV	Epstein-Barr virus#_#TCR	T-cell receptor
+HPV	human papillomavirus#_#PCR	polymerase chain reaction#_#SCC	squamous cell carcinoma#_#VIN	vulval intraepithelial neoplasia#_#L1-PCR	PCR with consensus primers for the L1 region
+EQ	Erythroplasia of Queyrat#_#ALA	5-aminolaevulinic acid#_#PDT	photodynamic therapy
+SSSS	staphylococcal scalded skin syndrome#_#MRSA	methicillin-resistant Staphylococcus aureus
+RPC	Reactive perforating collagenosis#_#ARPC	acquired form of RPC
+
+CN	2-Chloracetophenone
+
+K2e	Keratin 2e#_#EGA	estimated gestational age
+
+hHb1	Human hair keratin basic 1
+BM	basement membrane
+PKC	protein kinase C#_#SDS	sodium dodecyl sulphate
+IFN-gamma	Interferon-gamma#_#IL	interleukin#_#AD	atopic dermatitis#_#PMA	phorbol myristate acetate
+MELAS syndrome	mitochondrial encephalomyopathy, lactic acidosis and stroke-like episodes#_#bp	base pair#_#mtDNA	mitochondrial genome
+NTB	nitrotetrazolium blue chloride#_#UV	ultraviolet
+CP	cicatricial pemphigoid
+AD	atopic dermatitis#_#HDMs	house dust mites
+
+PUVA	psoralen-ultraviolet A#_#MPD	minimal phototoxic dose
+DLQI	Dermatology Life Quality Index#_#DPU	delayed pressure urticaria
+GHQ-28	General Health Questionnaire#_#SF-36	Short Form 36
+
+
+GLA	gamma-linolenic acid
+IBS	ichthyosis bullosa of Siemens
+AeCP	antiepiligrin (laminin 5) cicatricial pemphigoid
+BCC	Basal cell carcinoma
+SS	SÃ©zary syndrome
+CLL	chronic lymphatic leukaemia#_#CBCL	cutaneous B-cell lymphoma
+HV	hydroa vacciniforme#_#EBV	Epstein-Barr virus#_#EBER	EBV-encoded small nuclear RNA#_#BHLF	Bam HI-H, l-fragment
+
+APS	antiphospholipid syndrome
+
+
+
+SA	salicylic acid#_#SLS	sodium lauryl sulphate#_#TEWL	Transepidermal water loss
+
+SCI	spinal cord injury#_#TBI	traumatic brain injury#_#PTA	post-traumatic amnesia
+
+ATL	adult T-cell leukemia
+PCD	plasma cell dyscrasias#_#MM	multiple myeloma#_#WM	Waldenstrom's macroglobulinemia#_#Dex	dexamethasone#_#IFN-gamma	interferon-gamma
+EORTC	European Organization for Research and Treatment of Cancer
+BLPD	B-lymphoproliferative post-transplant disorder#_#MoAbs	monoclonal antibodies
+MCL	mantle-cell lymphoma#_#CR	complete response#_#PR	partial response#_#TTP	time to disease progression#_#RR	response rate
+FL	follicular lymphoma#_#MCL	mantle-cell lymphoma
+MCL	Mantle-cell lymphoma#_#FISH	fluorescence in situ hybridization#_#YACs	yeast artificial chromosomes#_#PAC	P1-derived artificial chromosome
+IgH	immunoglobulin heavy chain gene
+beta 2M	beta 2-microglobulin#_#FFS	failure-free survival#_#FL	follicular lymphoma#_#pb	peripheral blood
+AT	Ataxia teleangiectasia#_#NBS	Nijmegen breakage syndrome#_#NHL	non-Hodgkin's lymphoma
+HD	Hodgkin's disease#_#NHL	non-Hodgkin's lymphoma
+
+
+
+I.L.S.G.	International Lymphoma Study Group#_#R.E.A.L.	'Revised European-American Classification of Lymphoid Neoplasms'#_#EAHP	European Association of Pathologists#_#SH	Society for Hematopathology#_#WHO	World Health Organization#_#CAC	Clinical Advisory Committee#_#IPI	International Prognostic Index
+BLL	Burkitt-like lymphoma#_#BL	Burkitt lymphoma#_#LBCL	large B-cell lymphoma
+NHL	non-Hodgkin's lymphomas#_#PCL	primary cerebral lymphoma
+PTLD	Post-transplant lymphoproliferative disorders
+SCT	stem-cell transplantation#_#CLL	chronic lymphocytic leukemia
+
+BMT	bone marrow transplantation#_#LGL	low-grade lymphoma#_#CLL	chronic lymphocytic leukemia#_#CR	complete remission
+NHL	non-Hodgkin's lymphoma
+NHL	non-Hodgkin's lymphoma#_#OR	Odds ratios#_#95% CI	95% confidence intervals
+NHL	non-Hodgkin's lymphomas
+HD	Hodgkin's disease#_#GHSG	German Hodgkin's Lymphoma Study Group#_#BEACOPP	dose intensified chemotherapy
+CSS	cause specific survival
+C	chemotherapy#_#U	unpurged#_#P	purged
+
+AIDS	Acquired immune deficiency syndrome#_#HIV	human immunodeficiency virus#_#DPPIV	dipeptidyl peptidase IV#_#ADA	adenosine deaminase#_#RANTES	regulated on activation, normal T cell expressed and secreted#_#SDF-1	stromal cell-derived factor-1
+HCV	hepatitis C virus
+EB	Epstein Barr#_#HHV-6	human herpesvirus 6#_#HCV	hepatitis C virus
+EBV	Epstein Barr virus#_#NK	natural killer
+CMV	Human cytomegalovirus#_#MHC	major histocompatibility complex
+HHV-6	Human herpesvirus 6#_#HHV-7	human herpesvirus 7
+ROP	retinopathy of prematurity
+VAS	visual analogue scale
+ROP	retinopathy of prematurity
+
+FTMH	full thickness macular holes
+tHcy	total homocysteine
+
+NDNS	national diet and nutrition survey#_#GAC	Glasgow acuity card
+
+CIN	congenital idiopathic nystagmus#_#SDN	sensory defect nystagmus#_#VEPs	visual evoked potentials#_#OKN	optokinetic nystagmus
+IOP	intraocular pressure
+PAC	Primary angle closure#_#PACG	PAC with glaucoma
+VZV	Varicella zoster virus#_#ARN	acute retinal necrosis#_#PCR	polymerase chain reaction
+tRCEC	transformed rabbit corneal epithelial cells#_#ET-1	endothelin-1
+EMIU	Experimental melanin induced uveitis#_#EIU	Endotoxin induced uveitis#_#TUNEL	terminal deoxynucleotidyl transferase mediated deoxyuridine triphosphate biotin nick end labelling#_#iNOS	inducible nitric oxide synthase
+TdT	terminal deoxynucleotide transferase#_#TUNEL	terminal deoxynucleotide transferase (TdT) mediated nick end labelling
+TRAP	telomeric repeat amplification protocol#_#hTR	telomerase RNA component
+
+
+
+SO	sympathetic ophthalmia
+NFL	nerve fibre layer#_#S/N	Superior to nasal#_#I/N	inferior to nasal#_#S/I	superior to inferior
+5-FU	5-fluorouracil
+CIN	conjunctival intraepithelial neoplasia
+
+
+
+IOP	intraocular pressure
+ECCE	extracapsular cataract extraction
+HRP	horseradish peroxidase
+GFAP	glial fibrillary acidic protein
+
+
+EWCL	extended wear contact lens
+DCR	dacryocystorhinostomies
+
+scFv	single-chain variable fragment
+
+ORFs	open reading frames
+Epo	erythropoietin#_#pCAGGS-Epo	plasmid DNA expressing rat Epo
+SIVs	simian immunodeficiency viruses#_#MuLV	murine leukemia virus#_#VSV-G	G glycoprotein of vesicular stomatitis virus
+rAAV	recombinant adeno-associated virus#_#GFP	green fluorescent protein#_#ELISA	enzyme-linked immunoabsorbent assay
+Ag	antigens#_#HR	hyperacute rejection#_#HIS	hyperimmune serum
+EBV	Epstein-Barr virus#_#EBNA-1	Epstein-Barr virus (EBV) nuclear antigen 1#_#HVJ	hemagglutinating virus of Japan
+
+PSEs	polyion-sensitive electrodes
+
+
+
+NO	nitric oxide#_#SHR	spontaneously hypertensive rats#_#eNOS	Endothelial NO synthase
+
+
+
+
+
+ITIES	interface between two immiscible electrolyte solutions
+
+GluR	glutamate receptor
+LOD	limits of detection
+CE	Capillary electrophoresis#_#EC	electrochemical detection
+PED	Pulsed electrochemical detection#_#IPAD	Integrated pulsed amperometric detection
+
+TFA	trifluoroacetic acids#_#SSC	S-sulfocysteine
+
+
+
+EC	electrochemical detection
+ELISA	enzyme-linked immunoassay
+GlOx	L-glutamate oxidase#_#HRP	horseradish peroxidase#_#FI	flow injection#_#PEGDGE	Poly(ethylene glycol) diglycidyl ether
+HPLC	high-performance liquid chromatographic
+LC/ESI/MS/MS	HPLC/electrospray ionization tandem mass spectrometric#_#MTIC	5-(3-N-methyltriazen-1-yl)-imidazole-4-carboxamide#_#SRM	selected reaction monitoring#_#LLOQ	lower limit of quantitation#_#QC	quality control
+
+CE	capillary electrophoresis#_#CD	cyclodextrins
+RIMMS	repetitive immunizations, multiple sites
+beta-END	beta endorphin#_#CYSP	cysteine peptide#_#ESI/MS	electrospray ionization mass spectrometry
+
+Lid	Lidocaine#_#IS	internal standard
+MH	Meclizine Hydrochloride#_#SRCL	specific residual cleaning Level#_#VLOD	visual limit of detection#_#RSD	relative standard deviations
+TQ	thymoquinone#_#DTQ	dithymoquinone#_#THQ	thymohydroquinone#_#THY	thymol
+CE	capillary electrophoresis#_#C8GLIP	Des-amino-histidine-7-arginine-26 N(epsilon)-octanoyl-lysine-34-human glucagon-like insulinotropic peptide#_#SEC	size exclusion chromatography
+ET	endothelin
+DEX-MPS	dextran-methylprednisolone succinate#_#MPS	methylprednisolone hemisuccinate#_#MP	methylprednisolone
+HPLC	high performance liquid chromatographic#_#UV	ultraviolet
+
+CPPD	calcium pyrophosphate dihydrate
+
+
+
+
+SAS	Sleep apnea syndrome#_#NMR	nuclear magnetic resonance imaging
+
+
+
+
+
+
+
+
+HFM	hemifacial microsomia#_#DO	distraction osteogenesis#_#PA	posteroanterior
+
