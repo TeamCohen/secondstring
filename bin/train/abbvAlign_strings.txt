@@ -1,0 +1,317 @@
+short	0	EFPO
+long	0	Educating Future Physicians for Ontario
+short	1	SIVs
+long	1	simian immunodeficiency viruses
+long	2	Council of Ontario Faculties of Medicine
+short	2	COFM
+long	3	open reading frames
+short	3	ORFs
+short	4	rAAV
+long	4	recombinant adeno-associated virus
+long	5	underrepresented minorities
+short	5	URMs
+long	6	Physician Review Program
+short	6	PREP
+long	7	murine leukemia virus
+short	7	MuLV
+short	8	PSEs
+long	8	polyion-sensitive electrodes
+short	9	RVUs
+long	9	relative value units
+short	10	EBNA-1
+long	10	EBV) nuclear antigen 1
+short	11	AAMC's
+long	11	Association of American Medical Colleges'
+long	12	academic medical centers
+short	12	AMCs
+long	13	interface between two immiscible electrolyte solutions
+short	13	ITIES
+short	14	OSCE
+long	14	objective structure clinical examination
+long	15	inducible nitric oxide synthase
+short	15	iNOS
+long	16	acute stimulation by corticotrophin
+short	16	ACTH
+short	17	EMIU
+long	17	Experimental melanin induced uveitis
+long	18	steroidogenic acute regulatory protein
+short	18	StAR
+short	19	membranes
+long	19	mixed membranes
+short	20	LESP
+long	20	lizard epididymal secretory protein
+long	21	17beta-hydroxysteroid dehydrogenase type 2
+short	21	17beta-HSD2
+long	22	extracapsular cataract extraction
+short	22	ECCE
+short	23	CRF-BP
+long	23	corticotrophin-releasing factor binding protein
+short	24	5-FU
+long	24	5-fluorouracil
+short	25	eNOS
+long	25	Endothelial NO synthase
+long	25	endothelial type of NO synthase
+long	26	extended wear contact lens
+short	26	EWCL
+short	27	3beta-HSD II
+long	27	3beta-hydroxysteroid dehydrogenase type II
+short	28	GFAP
+long	28	glial fibrillary acidic protein
+short	29	tTGase
+long	29	tissue transglutaminase
+long	30	prolactin-like protein-F
+short	30	PLP-F
+long	31	beta endorphin
+short	31	beta-END
+long	32	proliferin-related protein
+short	32	PLF-RP
+long	33	cysteine peptide
+short	33	CYSP
+long	34	enzyme-linked immunoabsorbent assay
+long	34	enzyme-linked immunoassay
+short	34	ELISA
+long	34	enzyme-linked immunosorbent assay
+long	35	visual limit of detection
+short	35	VLOD
+long	36	intracytoplasmic sperm injection
+short	36	ICSI
+long	36	intra-cytoplasmic sperm injection
+long	37	specific residual cleaning Level
+short	37	SRCL
+long	38	dextran-methylprednisolone succinate
+short	38	DEX-MPS
+long	39	in vitro fertilization embryo transfer
+short	39	IVF ET
+long	39	in vitro fertilization/embryo transfer
+short	40	CPPD
+long	40	calcium pyrophosphate dihydrate
+short	41	PDGF
+long	41	platelet-derived growth factor
+long	42	vascular endothelial growth factor
+short	42	VEGF
+long	43	luteinizing hormone-releasing hormone
+short	43	LHRH
+long	44	glutamate receptor
+short	44	GluR
+long	45	APC sensitivity ratio
+short	45	APC SR
+short	46	IPAD
+long	46	Integrated pulsed amperometric detection
+short	47	APCR
+long	47	activated protein C resistance
+short	48	GlOx
+long	48	glutamate oxidase
+long	49	gonadotropin-releasing hormone agonist
+short	49	GnRHa
+short	50	PEGDGE
+long	50	Poly(ethylene glycol) diglycidyl ether
+short	51	HPLC
+long	51	high performance liquid chromatographic
+long	51	high-performance liquid chromatographic
+short	52	AECC
+long	52	autologous endometrial coculture
+long	53	lower limit of quantitation
+short	53	LLOQ
+short	54	frag
+long	54	fragmentation
+long	55	repetitive immunizations, multiple sites
+short	55	RIMMS
+short	56	year
+long	56	years
+long	57	Fourier-transform infrared
+short	57	FT-IR
+short	58	SPSS
+long	58	Swallowing Performance Status Scale
+short	59	SOHND
+long	59	Supraomohyoid neck dissection
+long	60	sentinel lymph node biopsy
+short	60	SLNB
+long	61	chemotherapy and radiotherapy
+short	61	CT/RT
+long	62	human monocyte-derived macrophages
+short	62	HMDM
+short	63	EXACCT
+long	63	exonuclease-amplification coupled capture technique
+short	64	ESI/MS
+short	64	ESI-MS
+long	64	electrospray ionization mass spectrometry
+short	65	EGFP
+long	65	enhanced green fluorescent protein
+short	66	alpha-DB
+long	66	alpha-dystrobrevin
+long	67	mosaic analysis with a repressible cell marker
+short	67	MARCM
+long	68	ribulose-1, 5-bisphosphate carboxylase/oxygenase large subunit
+short	68	rbcL
+short	69	CFLP
+long	69	Cleavase Fragment Length Polymorphism
+long	70	paraneoplastic opsoclonus-myoclonus ataxia
+short	70	POMA
+long	71	N-methyl-D-aspartate receptors
+short	71	NMDARs
+long	72	basic helix-loop-helix
+short	72	bHLH
+long	72	Basic helix-loop-helix
+long	73	platelet-derived growth factor receptor alpha
+short	73	PDGFRalpha
+long	74	M-CSF receptor
+short	74	M-CSFR
+short	75	NMDAR
+long	75	NMDA receptor
+short	76	IPSCs
+long	76	inhibitory postsynaptic currents
+short	77	SL-M
+long	77	Stratum lacunosum-moleculare
+long	78	Osteogenic protein-1
+short	78	OP-1
+long	78	osteogenic protein-1
+short	79	BMP-7
+long	79	bone morphogenetic protein-7
+short	80	IGF-1
+long	80	insulin-like growth factor-1
+long	81	latent transforming growth factor beta 1
+short	81	LTGF-beta 1
+long	82	general practitioners'
+short	82	GPs'
+long	83	basic fibroblast growth factor
+short	83	b FGF
+long	84	Insulin-like growth factor-1 receptor
+short	84	IGF-1R
+long	85	peak expiratory flow rate
+short	85	PEFR
+short	86	TAS-20
+long	86	Toronto Alexithymia Scale
+short	87	ANOVA
+long	87	analysis of variance
+short	88	EDI-2
+long	88	Eating Disorders Inventory
+short	89	TGF-beta
+long	89	Transforming growth factor-beta
+long	89	transforming growth factor-beta
+short	90	IL-6
+long	90	interleukin-6
+short	91	GH rats
+long	91	GH3-bearing rats
+long	92	Insulin-like growth factor I
+short	92	IGF-I
+short	93	FEV1
+long	93	forced expiratory volume
+long	94	Liver/bone/kidney
+short	94	L/B/K
+short	95	PTHrP
+long	95	PTH-related peptide
+long	96	topoisomerase II
+short	96	topo II
+long	97	Receptor Protein-Tyrosine Phosphatases
+short	97	RPTPs
+long	98	primordial germ cells
+short	98	PGCs
+long	99	skin surface lipid film
+short	99	SSLF
+long	100	dendritic epidermal T cells
+short	100	DETCs
+long	101	Tartrate-resistant acid phosphatase
+long	101	telomeric repeat amplification protocol
+short	101	TRAP
+long	102	collagen I alpha 1 gene
+short	102	COLIA1
+long	103	micro-computed tomography
+short	103	micro-CT
+long	104	general dental practitioners
+short	104	GDPs
+long	105	epidermotropic cutaneous T-cell lymphoma
+short	105	ECTL
+long	106	EGF receptor
+short	106	EGFr
+long	107	autologous serum skin test
+short	107	ASST
+short	108	MoAb
+long	108	monoclonal antibody
+long	109	calcitonin gene-related peptide
+short	109	CGRP
+short	110	PGP 9.5
+long	110	protein gene product 9.5
+short	111	CTCL
+long	111	cutaneous T-cell lymphoma
+short	112	TGF-alpha
+long	112	transforming growth factor-alpha
+short	113	HDMs
+long	113	house dust mites
+long	114	Interferon-gamma
+short	114	IFN-gamma
+long	114	interferon-gamma
+long	115	psoralen-ultraviolet A
+short	115	PUVA
+short	116	tests
+long	116	test and radioallergosorbent test, RAST
+long	117	methicillin-resistant Staphylococcus aureus
+short	117	MRSA
+short	118	EPPK
+long	118	Epidermolytic palmoplantar keratoderma
+short	119	hHb1
+long	119	Human hair keratin basic 1
+long	120	staphylococcal scalded skin syndrome
+short	120	SSSS
+short	121	BHLF
+long	121	Bam HI-H, l-fragment
+long	122	Transepidermal water loss
+short	122	TEWL
+long	123	cutaneous B-cell lymphoma
+short	123	CBCL
+long	124	EBV-encoded small nuclear RNA
+short	124	EBER
+long	125	Short Form 36
+short	125	SF-36
+short	126	AeCP
+long	126	antiepiligrin (laminin 5) cicatricial pemphigoid
+long	127	Dermatology Life Quality Index
+short	127	DLQI
+short	128	GHQ-28
+long	128	General Health Questionnaire
+short	129	beta 2M
+long	129	beta 2-microglobulin
+short	130	I.L.S.G.
+long	130	International Lymphoma Study Group
+long	131	fluorescence in situ hybridization
+short	131	FISH
+short	132	YACs
+long	132	yeast artificial chromosomes
+long	133	B-lymphoproliferative post-transplant disorder
+short	133	BLPD
+long	134	monoclonal antibodies
+short	134	MoAbs
+long	135	European Organization for Research and Treatment of Cancer
+short	135	EORTC
+long	136	dipeptidyl peptidase IV
+short	136	DPPIV
+short	137	RANTES
+long	137	regulated on activation, normal T cell expressed and secreted
+long	138	Acquired immune deficiency syndrome
+short	138	AIDS
+short	139	SDF-1
+long	139	stromal cell-derived factor-1
+short	140	GHSG
+long	140	German Hodgkin's Lymphoma Study Group
+long	141	95% confidence intervals
+short	141	95% CI
+short	142	PTLD
+long	142	Post-transplant lymphoproliferative disorders
+long	143	large B-cell lymphoma
+short	143	LBCL
+long	144	transformed rabbit corneal epithelial cells
+short	144	tRCEC
+short	145	ET-1
+long	145	endothelin-1
+short	146	PACG
+long	146	PAC with glaucoma
+short	147	VEPs
+long	147	visual evoked potentials
+short	148	tHcy
+long	148	total homocysteine
+long	149	full thickness macular holes
+short	149	FTMH
+short	150	HHV-7
+long	150	human herpesvirus 7
+short	151	HHV-6
+long	151	Human herpesvirus 6
+long	151	human herpesvirus 6

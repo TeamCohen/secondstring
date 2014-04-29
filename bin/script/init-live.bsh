@@ -1,0 +1,8 @@
+export KLHOME=~/code/radar/extract
+export SSHOME=~/code/secondstring
+export CLASSPATH=$SSHOME/class:$KLHOME/class:$KLHOME/lib
+for i in $KLHOME/jars/*.jar; do export CLASSPATH=${CLASSPATH}:$i; done
+echo $CLASSPATH
+
+
+

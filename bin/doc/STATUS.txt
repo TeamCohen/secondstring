@@ -1,0 +1,148 @@
+==============================================================================
+changes from merged-ss
+
+? src/com/wcohen/ss/AbstractAdaptiveStringDistance.java
+? src/com/wcohen/ss/BasicDistanceInstanceIterator.java
+? src/com/wcohen/ss/BatchScore.java
+? src/com/wcohen/ss/MultiStringDistance.java.previous
+? src/com/wcohen/ss/MultiStringSVMDistance.java
+? src/com/wcohen/ss/NullDistanceInstanceIterator.java
+? src/com/wcohen/ss/NullStringWrapperIterator.java
+? src/com/wcohen/ss/expt/CrossValHandler.java
+? src/com/wcohen/ss/expt/DefaultTeacher.java
+? src/com/wcohen/ss/expt/plugin
+M STATUS.txt
+M build.xml
+M src/com/wcohen/ss/AbstractStringDistance.java
+M src/com/wcohen/ss/MultiStringAvgDistance.java
+M src/com/wcohen/ss/MultiStringDistance.java
+M src/com/wcohen/ss/api/StringDistanceLearner.java
+M src/com/wcohen/ss/api/StringDistanceTeacher.java
+M src/com/wcohen/ss/expt/Blocker.java
+M src/com/wcohen/ss/expt/MatchData.java
+M src/com/wcohen/ss/expt/MatchDataTeacher.java
+M src/com/wcohen/ss/expt/MatchExpt.java
+
+integration path:
+  cls.instances include 'getSubpopulationId' which is an object naming the "subpopulation"
+    (strata); use Pradeep's CrossValHandler to handle cross-validation of subpopulation's. -DONE
+  com.wcohen.cls is compiled as distributed on its own -- this requires doing
+    something smarter about the SampleDatasets. -DONE
+  MultiStringWrapper should be more general - handles delimiters and copies - DONE
+  CombinedDistanceLearner should do delegation to inner distance learners and a combination
+  distance learner. - DONE
+  AveragedMultiStringDistance is like MultiStringAvgDistance  - DONE
+  AdaptiveMultiStringDistance trains a classifier and uses its score -DONE
+  - BatchScore is handled as with Pradeep's code, should move into cls?
+
+  - need to extend MatchDataExpt to handle cross-validation
+
+==============================================================================
+Big things to do:
+
+ - attach Tokenizer to BagOfTokens, so one can more safely cache a
+ Tokenized string.
+
+ - have Blocker cache tokenized strings
+
+ - SLIM: gaussian seems to pick up on some stuff it intuitively
+ shouldn't, eg swainsons and wilsons are viewed as pretty similar.
+ perhaps I should use a bayesian prior to force the gaussian's mean
+ and variance to be close to zero and one?
+
+ - look at other LM/IR types of measures (machine translation?)
+ - move in Pradeep's adaptive string-matching code
+ - e/m learning
+   -- model M vs U as mixture of multinomials
+   -- model each cluster using smoothed document models
+
+Little things to maybe do:
+
+ - use .Looper instead of Iterator?
+ - replace BagOfTokens with TokenBag?
+ - stemming
+ - blockers could be smarter about whether to cluster or not
+ - experimenter should keep "notebook" of all experiments, and have a 
+   gui browser of previously-run experiments
+ - add TunedDistance marker interface, for ones that I recommend
+ - add ScaledDistance marker interface, for ones scaled between zero and one?
+ - SoftTFIDF is abstract; use JWSoftTFIDF or SLIMSoftFIDF
+
+Activities:
+
+  4/27 added MultiStringWrapper and MultiStringDistance.
+
+  4/26 completed teacher/learning protocol, with the addition
+  of a StringDistanceTeacher and MatchDataTeacher to ss.api.
+
+  4/24 massive re-organization complete:
+
+  stringDistance.prepare(String s) -> StringWrapper which is preprocessed for stringDistance.score()
+  (eg Jaccard tokenizes, TFIDF tokenizes and weights by IDF)
+  
+  stringDistanceLearner.prepare(StringWrapperIterator i) -> StringWrapperIterator for strings
+   that are prepared for stringDistanceLearner.train(StringWrapperIterator i)
+
+  refactored AbstractStringDistance, AbstractTokenizedStringDistance, AbstractStatisticalTokenDistance,
+   and JensenShannonDistance (which should be AbstractJensenShannonDistance, perhaps?) out of existing 
+   code
+
+  4/21 massive re-organization begun:
+
+ - moved com.wcohen.secondstring to com.wcohen.ss
+ - moved key interfaces into com.wcohen.ss.api
+ - created interface for StringDistanceLearner which will eventually allow training in a number of
+ modes, all of them optional:  unsupervised, supervised, active
+ - let AbstractStringDistance and AbstractStatisticalTokenDistance implement both
+ StringDistance and StringDistanceLearner
+
+ One key idea: ALL objects (StringDistance, StringDistanceLearner,
+ eventually StringDistanceTeacher) can "prepare" strings for
+ processing.  All operations that do something expensive on a string
+ (eg tokenize them, etc) have a 'prepare' step, which produces a
+ fully-preprocessed StringWrapper; all operations that use Strings or
+ StringWrapper's check to see what additional preprocessing is needed,
+ and do the minimal amount necessary.  Generally incremental
+ extensions to the StringWrapper class are used to attach additional
+ information to a string.
+
+  3/13
+ - add package-level documentation
+ - reorganize directories, setup ANT build file, javadocs, testcases
+ - don't use MatchData in main package (except in SoftTokenFelligiSunter)
+ - test cases for AbstractStatisticalTokenDistance subclasses
+ - add default packages for Blockers, Distances in expt 
+
+  3/20
+ - checked in working version of SLIM.java
+ - got rid of class directory from CVS
+ - refactored Winkler variant of Jaro as separate class
+
+==============================================================================
+
+ Ideas for making a better TokenFelligiSunter.  Let pk be the chance
+ of drawing token tk from a unigram distribution D, let A = {ai},
+ B={bj} be sets of tokens to match, C let be an unknown set of "truly
+ common" tokens---ones which are part of an unknown token set which A
+ and B approximate, let A' = A-C, B'=B-C, m=|A|, n=|B|, m'=|A'|,
+ n'=|B'|.  Let zijk = 1 iff ai=bj=tk=c, for some c in C.  Let mijk be true
+ iff ai=bj=tk.
+
+ The generative model for a pair A,B is that first C is drawn from D,
+ then positions i in A, j in B are chosen for each c in C uniformly,
+ creating A' and B', and then m' and n' extra draws are made from D to
+ fill up the rest of A and B.
+
+It's not quite E/M but one could iteratively estimate zijk.  Assuming
+some value for C, we can get values for m' and n', and then compute:
+
+      Pr( zijk ) = pk * 1/n * 1/m
+      Pr( mijk | zijk ) = 1
+      Pr( mijk | ~zijk ) = 1 - (1 - pk^2)^{m' n'} 
+
+      Pr( zijk | mijk ) = Pr(mijk | zijk ) Pr (zijk ) / ( Pr(mijk | zijk )Pr(zijk) + Pr(mijk | ~zijk )(1 - Pr(zijk))
+
+which then gives another estimate for C, etc. Iteration might not
+actually be necessary...anyway one would end up with an estimated
+number of common elements for A and B.
+

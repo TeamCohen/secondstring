@@ -1,0 +1,56 @@
+<project name="secondstring" default="build" basedir=".">
+    <description>Build file for second string</description>
+  <property name="src"     location="src"/>
+  <property name="javadoc" location="javadoc"/>
+  <property name="build"   location="class"/>
+  <property name="dist"    location="dist"/>
+  <property name="lib"     location="lib"/>
+
+  <path id="compile.classpath">
+    <fileset dir="${lib}">
+      <include name="log4j-1.2.8.jar"/>
+    </fileset>
+  </path>
+
+
+  <target name="init">
+    <!-- Create the time stamp -->
+    <tstamp/>
+    <!-- Create the build directory structure used by compile -->
+    <mkdir dir="${build}"/>
+  </target>
+
+  <target name="build-clean" depends="clean,build"  description="compile the source from scratch"/>
+
+  <target name="build" depends="init"
+        description="compile the source " >
+    <!-- Compile the java code from ${src} into ${build} -->
+    <javac srcdir="${src}" destdir="${build}" debug="on">
+      <classpath refid="compile.classpath"/>
+    </javac>
+  </target>
+
+  <target name="dist" depends="build"  description="generate the distribution" >
+    <!-- Create the distribution directory -->
+    <mkdir dir="${dist}"/>
+    <mkdir dir="${dist}/lib"/>
+    <!-- Put everything in ${build} into the secondstring-${DSTAMP}.jar file -->
+    <jar jarfile="${dist}/lib/secondstring-${DSTAMP}.jar" basedir="${build}"/>
+  </target>
+
+  <target name="clean" description="clean up" >
+    <!-- Delete the ${build} and ${dist} directory trees -->
+    <delete dir="${build}"/>
+    <delete dir="${dist}"/>
+    <delete dir="${javadoc}"/>
+  </target>
+
+  <target name="javadoc" description="rebuild java docs">
+    <delete dir="${javadoc}"/>    
+    <mkdir dir="${javadoc}"/>
+    <mkdir dir="${javadoc}/com"/>
+    <mkdir dir="${javadoc}/com/wcohen/"/>
+    <mkdir dir="${javadoc}/com/wcohen/ss"/>
+    <javadoc sourcepath="${src}" destdir="${javadoc}" packagenames="com.wcohen.ss.*"/>
+  </target>
+</project>

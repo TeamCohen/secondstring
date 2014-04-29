@@ -1,0 +1,75 @@
+--------------------
+Strings with multiple fields:
+
+ - Add a MultiStringWrapper, MultiStringDistance classe for strings
+ that can be broken into fields:
+
+ class MultiStringWrapper extends BasicStringWrapper {
+   public MultiStringWrapper(String s,StringSplitter splitter);
+   public int size();
+   public StringWrapper get(int i);
+ }
+ class MultiStringDistance {
+   public MultiStringDistance(StringDistance[] distance, StringSplitter splitter);
+   public StringWrapper prepare(String s);
+   ...
+ }
+
+ the StringSplitter might also return k copies of a string, to so
+one could learn to weight different distance measures on the same string.
+
+--------------------
+Training:
+
+Current (4/25/03) process for training:
+
+  private void setUpExperiment(MatchData data,StringDistanceLearner learner,Blocker blocker) 
+  {
+    StringWrapperIterator preparedInstances = learner.prepare(data.getIterator());
+    learner.train(preparedInstances);
+    StringDistance distance = learner.getDistance();
+
+    blocker.block(data);
+    pairs = new Blocker.Pair[blocker.size()];
+    for (int i=0; i<blocker.size(); i++) {
+      pairs[i] = blocker.getPair(i);
+      pairs[i].setDistance( distance.score( pairs[i].getA(), pairs[i].getB() ) );
+    }
+  }
+
+Possible new protocol:
+
+  // one implementation of this would be a MatchDataTeacher
+  // another might be based on a gui...
+
+  abstract class StringDistanceTeacher 
+  {
+    public StringDistance train(StringDistanceLearner learner) 
+    {
+      // TFIDF-style 'training' based on observing corpus statistics
+      learner.train(learner.prepare(stringWrapperIterator));
+      // unsupervised training
+      learner.setPool(learner.prepare(distanceInstancePool()));
+      // active or passive learning from labeled data
+      while (learner.hasQuery()) {
+        DistanceInstance query = learner.nextQuery();
+        learner.setAnswer( labelInstance(query) );
+      }
+      // final result
+      return learner.getDistance();
+    }
+    /** Strings over which distances will be computed. */
+    abstract StringWrapperIterator stringWrapperIterator();
+    /** Unlabeled pairs of strings over which distances will be computed. */
+    abstract DistanceInstanceIterator distanceInstancePool();
+    /** Label an instance queried by the learner */
+    abstract DistanceInstance labelInstance(DistanceInstance);
+  }
+  
+  // the rest of the MatchExpt stuff would go here...
+  class StringDistanceTester
+  {
+    public void test(DistanceInstanceIterator i);
+    public double maxF1(); 
+    ...
+  }
