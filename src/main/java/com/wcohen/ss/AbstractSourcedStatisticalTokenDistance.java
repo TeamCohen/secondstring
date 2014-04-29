@@ -1,8 +1,16 @@
 package com.wcohen.ss;
 
-import java.util.*;
-import com.wcohen.ss.tokens.*;
-import com.wcohen.ss.api.*;
+import java.util.HashMap;
+import java.util.HashSet;
+import java.util.Iterator;
+import java.util.Map;
+import java.util.Set;
+
+import com.wcohen.ss.api.SourcedStringWrapperIterator;
+import com.wcohen.ss.api.SourcedTokenizer;
+import com.wcohen.ss.api.StringWrapper;
+import com.wcohen.ss.api.StringWrapperIterator;
+import com.wcohen.ss.api.Token;
 
 
 /**

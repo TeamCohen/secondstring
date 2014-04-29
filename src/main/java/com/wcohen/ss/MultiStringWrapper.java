@@ -1,7 +1,7 @@
 package com.wcohen.ss;
 
-import java.util.*;
-import com.wcohen.ss.api.*;
+import com.wcohen.ss.api.StringDistance;
+import com.wcohen.ss.api.StringWrapper;
 
 /**
  * A StringWrapper that stores a version of the string

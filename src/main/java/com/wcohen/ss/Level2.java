@@ -1,8 +1,13 @@
 package com.wcohen.ss;
 
-import java.util.*;
-import com.wcohen.ss.api.*;
-import com.wcohen.ss.tokens.*;
+import java.util.Iterator;
+
+import com.wcohen.ss.api.StringDistance;
+import com.wcohen.ss.api.StringWrapper;
+import com.wcohen.ss.api.StringWrapperIterator;
+import com.wcohen.ss.api.Token;
+import com.wcohen.ss.api.Tokenizer;
+import com.wcohen.ss.tokens.SimpleTokenizer;
 
 /**
  * Generic version of Monge & Elkan's "level 2" recursive field

@@ -1,6 +1,6 @@
 package com.wcohen.ss;
 
-import com.wcohen.ss.api.*;
+import com.wcohen.ss.api.StringWrapper;
 
 /** A matrix of doubles, defined recursively by the compute(i,j)
  * method, that will not be recomputed more than necessary.

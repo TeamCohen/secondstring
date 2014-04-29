@@ -1,9 +1,13 @@
 package com.wcohen.ss;
 
-import com.wcohen.ss.api.*;
-import java.io.*;
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.IOException;
+import java.io.InputStream;
 
 import org.apache.log4j.Logger;
+
+import com.wcohen.ss.api.StringWrapper;
 
 /**
  * Needleman-Wunsch string distance, following Durban et al. 

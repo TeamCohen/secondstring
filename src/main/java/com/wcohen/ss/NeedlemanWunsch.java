@@ -1,6 +1,6 @@
 package com.wcohen.ss;
 
-import com.wcohen.ss.api.*;
+import com.wcohen.ss.api.StringWrapper;
 
 /**
  * Needleman-Wunsch string distance, following Durban et al. 

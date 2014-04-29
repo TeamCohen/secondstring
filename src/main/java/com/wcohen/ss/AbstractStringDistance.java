@@ -1,7 +1,11 @@
 package com.wcohen.ss;
 
-import com.wcohen.ss.api.*;
-import java.util.*;
+import com.wcohen.ss.api.DistanceInstance;
+import com.wcohen.ss.api.DistanceInstanceIterator;
+import com.wcohen.ss.api.StringDistance;
+import com.wcohen.ss.api.StringDistanceLearner;
+import com.wcohen.ss.api.StringWrapper;
+import com.wcohen.ss.api.StringWrapperIterator;
 
 /**
  * Abstract class which implements StringDistanceLearner as well as StringDistance.

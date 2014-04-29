@@ -1,8 +1,10 @@
 package com.wcohen.ss;
 
-import java.util.*;
-import com.wcohen.ss.tokens.*;
-import com.wcohen.ss.api.*;
+import java.util.Iterator;
+import java.util.Map;
+import java.util.TreeMap;
+
+import com.wcohen.ss.api.Token;
 
 /**
  * A string, with an associated bag of tokens.  Each token has an

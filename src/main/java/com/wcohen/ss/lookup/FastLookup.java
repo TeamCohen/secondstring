@@ -1,11 +1,5 @@
 package com.wcohen.ss.lookup;
 
-import java.io.*;
-import java.util.*;
-
-import com.wcohen.ss.*;
-import com.wcohen.ss.api.*;
-import com.wcohen.ss.tokens.*;
 
 /**
  * Interface for SoftTFIDFDictionary and the rescoring variant of it.

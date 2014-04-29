@@ -1,9 +1,18 @@
 package com.wcohen.ss;
 
-import java.util.*;
-import com.wcohen.ss.api.*;
-import com.wcohen.ss.tokens.*;
-import com.wcohen.ss.expt.*;
+import java.util.HashMap;
+import java.util.Iterator;
+import java.util.Map;
+import java.util.TreeSet;
+
+import com.wcohen.ss.api.StringDistance;
+import com.wcohen.ss.api.StringWrapper;
+import com.wcohen.ss.api.Token;
+import com.wcohen.ss.api.Tokenizer;
+import com.wcohen.ss.expt.Blocker;
+import com.wcohen.ss.expt.ClusterNGramBlocker;
+import com.wcohen.ss.expt.MatchData;
+import com.wcohen.ss.tokens.SimpleTokenizer;
 
 /**
  * Highly simplified model of Felligi-Sunter's method 1,

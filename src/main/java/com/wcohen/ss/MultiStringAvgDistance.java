@@ -1,7 +1,6 @@
 package com.wcohen.ss;
 
-import com.wcohen.ss.api.*;
-import java.util.*;
+import com.wcohen.ss.api.StringDistance;
 
 /**
  * StringDistance defined over Strings that are broken into fields,

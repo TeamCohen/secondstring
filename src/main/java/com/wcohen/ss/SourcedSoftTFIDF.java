@@ -5,7 +5,11 @@ import java.util.Collections;
 import java.util.Iterator;
 import java.util.List;
 
-import com.wcohen.ss.api.*;
+import com.wcohen.ss.api.SourcedStringWrapper;
+import com.wcohen.ss.api.SourcedTokenizer;
+import com.wcohen.ss.api.StringDistance;
+import com.wcohen.ss.api.StringWrapper;
+import com.wcohen.ss.api.Token;
 
 /**
  * TFIDF-based distance metric, extended to use "soft" token-matching. Specifically, tokens are considered a partial

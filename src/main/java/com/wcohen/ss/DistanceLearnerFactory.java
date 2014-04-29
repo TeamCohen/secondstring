@@ -1,10 +1,11 @@
 package com.wcohen.ss;
 
-import com.wcohen.ss.api.*;
-
-import java.io.*;
-import java.lang.reflect.*;
+import java.lang.reflect.Constructor;
+import java.lang.reflect.Method;
 import java.util.ArrayList;
+
+import com.wcohen.ss.api.StringDistance;
+import com.wcohen.ss.api.StringDistanceLearner;
 
 /**
  * Creates distance metric learners from string descriptions.

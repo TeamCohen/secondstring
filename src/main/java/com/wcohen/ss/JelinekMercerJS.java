@@ -1,8 +1,8 @@
 package com.wcohen.ss;
 
-import java.util.*;
-import com.wcohen.ss.tokens.*;
-import com.wcohen.ss.api.*;
+import com.wcohen.ss.api.Token;
+import com.wcohen.ss.api.Tokenizer;
+import com.wcohen.ss.tokens.SimpleTokenizer;
 
 /**
  * Jensen-Shannon distance of two unigram language models, smoothed

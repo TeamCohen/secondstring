@@ -1,6 +1,6 @@
 package com.wcohen.ss;
 
-import com.wcohen.ss.api.*;
+import com.wcohen.ss.api.StringWrapper;
 
 /**
  * An extendible (non-final) class that implements some of the

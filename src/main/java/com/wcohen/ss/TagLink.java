@@ -25,9 +25,16 @@
 
 package com.wcohen.ss;
 
-import java.util.*;
-import com.wcohen.ss.tokens.*;
-import com.wcohen.ss.api.*;
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.Iterator;
+import java.util.Vector;
+
+import com.wcohen.ss.api.StringWrapper;
+import com.wcohen.ss.api.StringWrapperIterator;
+import com.wcohen.ss.api.Token;
+import com.wcohen.ss.api.Tokenizer;
+import com.wcohen.ss.tokens.TagLinkToken;
 
 public class TagLink
     extends AbstractStatisticalTokenDistance {

@@ -1,6 +1,6 @@
 package com.wcohen.ss;
 
-import com.wcohen.ss.api.*;
+import com.wcohen.ss.api.StringWrapper;
 
 /**
  * Jaro distance metric. From 'An Application of the Fellegi-Sunter

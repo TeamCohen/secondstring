@@ -1,6 +1,6 @@
 package com.wcohen.ss;
 
-import com.wcohen.ss.api.*;
+import com.wcohen.ss.api.StringWrapper;
 
 /**
  * Levenstein string distance. Levenstein distance is basically

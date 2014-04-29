@@ -1,8 +1,11 @@
 package com.wcohen.ss;
 
-import java.util.*;
-import com.wcohen.ss.api.*;
-import com.wcohen.ss.tokens.*;
+import java.util.Iterator;
+
+import com.wcohen.ss.api.StringWrapper;
+import com.wcohen.ss.api.Token;
+import com.wcohen.ss.api.Tokenizer;
+import com.wcohen.ss.tokens.SimpleTokenizer;
 
 /**
  * Highly simplified model of Felligi-Sunter's method 1,

@@ -1,7 +1,9 @@
 package com.wcohen.ss;
 
-import com.wcohen.ss.api.*;
 import java.util.Iterator;
+
+import com.wcohen.ss.api.DistanceInstance;
+import com.wcohen.ss.api.DistanceInstanceIterator;
 
 /** A simple DistanceInstanceIterator implementation. 
  */

@@ -1,11 +1,10 @@
 package com.wcohen.ss.lookup;
 
-import java.io.*;
-import java.util.*;
+import java.util.ArrayList;
+import java.util.Collections;
 
-import com.wcohen.ss.*;
-import com.wcohen.ss.api.*;
-import com.wcohen.ss.tokens.*;
+import com.wcohen.ss.api.StringDistance;
+import com.wcohen.ss.api.StringWrapper;
 
 /**
  * Wrapper around a SoftTFIDFDictionary that allows you to 'rescore'

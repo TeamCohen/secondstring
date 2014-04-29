@@ -1,8 +1,10 @@
 package com.wcohen.ss;
 
 import java.io.IOException;
+
+import com.wcohen.ss.abbvGapsHmm.AbbvGapsHMM;
+import com.wcohen.ss.abbvGapsHmm.AlignmentPredictionModel;
 import com.wcohen.ss.api.StringWrapper;
-import com.wcohen.ss.abbvGapsHmm.*;
 
 /**
  * Abbreviation distance metric which evaluates the probability of a short-form string being an abbreviation/acronym 

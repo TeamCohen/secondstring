@@ -1,8 +1,8 @@
 package com.wcohen.ss;
 
-import com.wcohen.ss.api.*;
-
 import org.apache.log4j.Logger;
+
+import com.wcohen.ss.api.StringWrapper;
 
 /** 
  * Variant of MemoMatrix that only stores values near the diagonal,

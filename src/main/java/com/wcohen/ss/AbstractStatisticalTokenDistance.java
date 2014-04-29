@@ -1,10 +1,17 @@
 package com.wcohen.ss;
 
-import java.util.*;
-import com.wcohen.ss.tokens.*;
-import com.wcohen.ss.api.*;
+import java.util.HashMap;
+import java.util.HashSet;
+import java.util.Iterator;
+import java.util.Map;
+import java.util.Set;
 
 import org.apache.log4j.Logger;
+
+import com.wcohen.ss.api.StringWrapper;
+import com.wcohen.ss.api.StringWrapperIterator;
+import com.wcohen.ss.api.Token;
+import com.wcohen.ss.api.Tokenizer;
 
 /**
  * Abstract token distance metric that uses frequency statistics.

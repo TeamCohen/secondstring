@@ -1,8 +1,5 @@
 package com.wcohen.ss;
 
-import java.util.*;
-import com.wcohen.ss.api.*;
-import com.wcohen.ss.tokens.*;
 
 /**
  * Soft TFIDF-based distance metric, extended to use "soft" token-matching

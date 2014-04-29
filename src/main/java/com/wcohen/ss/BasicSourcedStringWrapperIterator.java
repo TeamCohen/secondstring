@@ -1,7 +1,10 @@
 package com.wcohen.ss;
 
-import com.wcohen.ss.api.*;
 import java.util.Iterator;
+
+import com.wcohen.ss.api.SourcedStringWrapper;
+import com.wcohen.ss.api.SourcedStringWrapperIterator;
+import com.wcohen.ss.api.StringWrapper;
 
 /** A simple StringWrapperIterator implementation. 
  */

@@ -1,7 +1,9 @@
 package com.wcohen.ss;
 
-import com.wcohen.ss.api.*;
-import java.util.*;
+import java.util.HashSet;
+import java.util.Set;
+
+import com.wcohen.ss.api.StringWrapper;
 
 /**
  * The match method proposed by Monge and Elkan.  They called this

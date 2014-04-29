@@ -1,8 +1,7 @@
 package com.wcohen.ss;
 
-import java.util.*;
-import com.wcohen.ss.api.*;
-import com.wcohen.ss.tokens.*;
+import com.wcohen.ss.api.StringDistance;
+import com.wcohen.ss.tokens.SimpleTokenizer;
 
 /**
  * "Level 2" recursive field matching algorithm using Levenstein

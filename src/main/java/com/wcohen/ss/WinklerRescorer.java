@@ -1,6 +1,7 @@
 package com.wcohen.ss;
 
-import com.wcohen.ss.api.*;
+import com.wcohen.ss.api.StringDistance;
+import com.wcohen.ss.api.StringWrapper;
 
 /**
  * Winkler's reweighting scheme for distance metrics.  In the
