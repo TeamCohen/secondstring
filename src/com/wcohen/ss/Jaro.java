@@ -63,7 +63,7 @@ public class Jaro extends AbstractStringDistance
 		for (int i=0; i<s.length(); i++) {
 			char ch = s.charAt(i);
 			boolean foundIt = false;
-			for (int j=Math.max(0,i-halflen); !foundIt && j<Math.min(i+halflen,t.length()); j++) {
+			for (int j=Math.max(0,i-halflen); !foundIt && j<Math.min(i+halflen+1,t.length()); j++) {
 				if (copy.charAt(j)==ch) {
 					foundIt = true;
 					common.append(ch);
