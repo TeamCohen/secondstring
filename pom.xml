@@ -1,0 +1,15 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.wcohen</groupId>
+  <artifactId>com.wcohen.ss</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>SecondString</name>
+  <description>A bunch of fancy soft string matching routines, with some accompanying datasets</description>
+  <dependencies>
+  	<dependency>
+  		<groupId>log4j</groupId>
+  		<artifactId>log4j</artifactId>
+  		<version>1.2.8</version>
+  	</dependency>
+  </dependencies>
+</project>
