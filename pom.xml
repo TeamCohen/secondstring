@@ -1,10 +1,34 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.wcohen</groupId>
-  <artifactId>com.wcohen.ss</artifactId>
+  <artifactId>com.wcohen.secondstring</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>SecondString</name>
   <description>A bunch of fancy soft string matching routines, with some accompanying datasets</description>
+  <url>https://github.com/TeamCohen/secondstring</url>
+  <licenses>
+        <license>
+            <name>The University of Illinois/NCSA Open Source License (NCSA)</name>
+            <url>http://opensource.org/licenses/NCSA</url>
+            <distribution>repo</distribution>
+        </license>
+    </licenses>
+     <scm>
+        <connection>scm:git:git@github.com:TeamCohen/secondstring.git</connection>
+        <developerConnection>scm:git:git@github.com:TeamCohen/secondstring.git</developerConnection>
+        <url>git@github.com:TeamCohen/secondstring</url>
+    </scm>
+    <build>
+        <plugins>
+            <plugin>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <configuration>
+                    <source>1.5</source>
+                    <target>1.5</target>
+                </configuration>
+            </plugin>
+  </plugins>
+  </build>
   <dependencies>
   	<dependency>
   		<groupId>log4j</groupId>
@@ -12,4 +36,17 @@
   		<version>1.2.8</version>
   	</dependency>
   </dependencies>
+      <reporting>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-javadoc-plugin</artifactId>
+            </plugin>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-jxr-plugin</artifactId>
+            </plugin>
+        </plugins>
+    </reporting>
+  
 </project>
