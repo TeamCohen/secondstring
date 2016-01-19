@@ -31,7 +31,6 @@ public class Acronym implements Comparable<Acronym>{
 	/* (non-Javadoc)
 	 * @see java.lang.Comparable#compareTo(java.lang.Object)
 	 */
-	@Override
 	public int compareTo(Acronym o) {
 		int compScore = _shortForm.compareTo(o._shortForm);
 		if(compScore == 0){
@@ -54,14 +53,12 @@ public class Acronym implements Comparable<Acronym>{
 	
 	
 	public static class AcronymShortFormComparator implements Comparator<Acronym>{
-	    @Override
 	    public int compare(Acronym t1, Acronym t2) {
 	        return t1._shortForm.compareTo(t2._shortForm); 
 	    }
 	}
 
 	public static class AcronymFrequencyComparator implements Comparator<Acronym>{
-	    @Override
 	    public int compare(Acronym t1, Acronym t2) {
 	        return new Integer(t1._frequency).compareTo(t2._frequency); 
 	    }
