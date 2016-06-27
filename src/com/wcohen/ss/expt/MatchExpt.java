@@ -200,13 +200,31 @@ public class MatchExpt
 	
     /** Show results in an easily machine-readable format.
      */
-    public void dumpResults(PrintStream out) throws IOException 
+    public void dumpResultsAsStrings(PrintStream out) throws IOException 
     {
         PrintfFormat fmt = new PrintfFormat("%7.2f\t%s\t%s\n");
         for (int i=0; i<pairs.length; i++) {
             if (pairs[i]!=null) {
-                String aText = (pairs[i].getA()==null) ? "***" : pairs[i].getA().unwrap();
-                String bText = (pairs[i].getB()==null) ? "***" : pairs[i].getB().unwrap();
+                String aText = (pairs[i].getA()==null) ? "***" : ((MatchData.Instance)pairs[i].getA()).unwrap();
+                String bText = (pairs[i].getB()==null) ? "***" : ((MatchData.Instance)pairs[i].getB()).unwrap();
+                out.print( fmt.sprintf( new Object[] { 
+                            new Double(pairs[i].getDistance()),
+                            aText,
+                            bText
+                        }));
+            }
+        }
+    }
+    
+    /** Show results in an easily machine-readable format.
+     */
+    public void dumpResultsAsIds(PrintStream out) throws IOException 
+    {
+        PrintfFormat fmt = new PrintfFormat("%7.2f\t%s\t%s\n");
+        for (int i=0; i<pairs.length; i++) {
+            if (pairs[i]!=null) {
+                String aText = (pairs[i].getA()==null) ? "***" : ((MatchData.Instance)pairs[i].getA()).getId();
+                String bText = (pairs[i].getB()==null) ? "***" : ((MatchData.Instance)pairs[i].getB()).getId();
                 out.print( fmt.sprintf( new Object[] { 
                             new Double(pairs[i].getDistance()),
                             aText,
@@ -236,7 +254,9 @@ public class MatchExpt
                 if (c.equals("-display")) {
                     expt.displayResults(true,System.out);
                 } else if (c.equals("-dump")) {
-                    expt.dumpResults(System.out);
+                    expt.dumpResultsAsStrings(System.out);
+                } else if (c.equals("-dumpIds")) {
+                    expt.dumpResultsAsIds(System.out);
                 } else if (c.equals("-shortDisplay")) {
                     expt.displayResults(false,System.out);
                 } else if (c.equals("-graph")) {
@@ -249,8 +269,12 @@ public class MatchExpt
                 }
             }
         } catch (Exception e) {
-	    e.printStackTrace();
-	    System.out.println("\nusage: <blocker> <distanceClass> <matchDataFile> [commands]\n");
+		    e.printStackTrace();
+		    System.err.println("\nusage: <blocker> <distanceClass> <matchDataFile> [commands]\n");
+		    System.err.println("\nAvailable commands: \n");
+		    for (String s : "display dump dumpIds shortDisplay graph summarize".split(" ")) {
+		    		System.err.println("\t"+s);
+		    }
         }
     }
 }
