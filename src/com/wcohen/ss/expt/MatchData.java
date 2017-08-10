@@ -27,9 +27,10 @@ public class MatchData
         sourceNames = new ArrayList();
         sourceLists = new HashMap();
         try {
-            BufferedReader in = new BufferedReader(new FileReader(filename));
+            LineNumberReader in = new LineNumberReader(new BufferedReader(new FileReader(filename)));
             String line;
             int lineNum = 0;
+            long last = System.currentTimeMillis();
             while ((line = in.readLine())!=null) {
                 lineNum++;
                 String tok[] = line.split("\t",-1);
@@ -50,6 +51,12 @@ public class MatchData
                     text += "\t" + tok[i];
                 }
                 addInstance(src,id,text);
+
+				long now = System.currentTimeMillis();
+				if (now-last > 10000) {
+					System.err.println("MatchData: "+in.getLineNumber()+" lines loaded...");
+					last = now;
+				}
             }
             in.close();
         } catch (IOException e) {

@@ -239,6 +239,13 @@ public class MatchExpt
     //
     private boolean correctPair(int i) { return pairs[i]!=null && pairs[i].isCorrect(); }
 
+    static public String[] commands = "-display -dump -dumpIds -shortDisplay -graph -summarize".split(" ");
+    static public boolean commandSupported(String cmd) {
+    	for (String c : commands) {
+    		if (c.equals(cmd)) return true;
+    	}
+    	return false;
+    }
     /**
      * Command-line interface.
      */
@@ -251,6 +258,8 @@ public class MatchExpt
 	    MatchExpt expt = new MatchExpt(data,learner,blocker);
             for (int i=3; i<argv.length; ) {
                 String c = argv[i++];
+                if (!commandSupported(c)) throw new RuntimeException("illegal command "+c);
+                
                 if (c.equals("-display")) {
                     expt.displayResults(true,System.out);
                 } else if (c.equals("-dump")) {
@@ -265,14 +274,14 @@ public class MatchExpt
                     System.out.println("maxF1:\t" + expt.maxF1());
                     System.out.println("avgPrec:\t" + expt.averagePrecision());
                 } else {
-                    throw new RuntimeException("illegal command "+c);
+                	throw new RuntimeException("bad programmer -- someone added command "+c+" to MatchExpt.commandSupported() but didn't add handling code in main().");
                 }
             }
         } catch (Exception e) {
 		    e.printStackTrace();
 		    System.err.println("\nusage: <blocker> <distanceClass> <matchDataFile> [commands]\n");
 		    System.err.println("\nAvailable commands: \n");
-		    for (String s : "display dump dumpIds shortDisplay graph summarize".split(" ")) {
+		    for (String s : commands) {
 		    		System.err.println("\t"+s);
 		    }
         }

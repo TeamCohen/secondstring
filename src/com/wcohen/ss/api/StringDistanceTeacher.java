@@ -17,9 +17,16 @@ public abstract class StringDistanceTeacher
 		learner.setDistanceInstancePool( learner.prepare(distanceInstancePool() ));
 
 		// supervised training
+		long last = System.currentTimeMillis(); int k=0;
 		for (DistanceInstanceIterator i=distanceExamplePool(); i.hasNext(); ) {
 			learner.addExample( i.nextDistanceInstance() );
-		}
+
+			long now = System.currentTimeMillis();  k++;
+			if (now-last > 10000) {
+				System.err.println("StringDistanceTeacher: supervised training on "+k+" instances...");
+				last = now;
+			}
+		} k=0;
 
 		// active or passive learning from labeled data
 		while (learner.hasNextQuery() && hasAnswers()) {
@@ -27,6 +34,12 @@ public abstract class StringDistanceTeacher
 			DistanceInstance answeredQuery = labelInstance(query);
 			if (answeredQuery!=null) {
 				learner.addExample( answeredQuery );
+			}
+
+			long now = System.currentTimeMillis(); k++;
+			if (now-last > 10000) {
+				System.err.println("StringDistanceTeacher: active or passive learning from "+k+" labeled instances...");
+				last = now;
 			}
 		}
 

@@ -69,6 +69,7 @@ public abstract class Blocker
 	{
 		// count the number of times each id appears in each source */
 		Map counter = new HashMap();
+		long last = System.currentTimeMillis();
 		for (int i=0; i<data.numSources(); i++) {
 			String src = data.getSource(i);
 			for (int j=0; j<data.numInstances(src); j++){
@@ -78,7 +79,14 @@ public abstract class Blocker
 					Integer c = (Integer)counter.get(key);
 					counter.put( key, (c==null ? new Integer(1) : new Integer(c.intValue()+1)) );
 				}
+
+				long now = System.currentTimeMillis();
+				if (now-last > 10000) {
+					System.err.println("Blocker: "+i+" instances counted...");
+					last = now;
+				}
 			}
+
 		}
 
 		/*
@@ -105,6 +113,11 @@ public abstract class Blocker
 						numCorrectPairs += cInteger.intValue();
 					}
 					//System.out.println( "src1:"+src1+" id:"+id+" src2:"+src2+" c:"+cInteger); 
+				}
+				long now = System.currentTimeMillis();
+				if (now-last > 10000) {
+					System.err.println("Blocker: "+j+" pairs counted...");
+					last = now;
 				}
 			}
 			if (clusterMode) {

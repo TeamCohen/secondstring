@@ -54,6 +54,7 @@ public class TokenBlocker extends Blocker
 		}
 		// index the smaller source
 		double maxSetSize = data.numInstances(smallSource)*maxFraction;
+		long last = System.currentTimeMillis();
 		Map index = new TreeMap();
 		for (int i=0; i<data.numInstances(smallSource); i++) {
 			Token[] tokens = tokenizer.tokenize( data.getInstance(smallSource,i).unwrap() );
@@ -71,9 +72,15 @@ public class TokenBlocker extends Blocker
 					index.put(tokens[j], STOPWORD_TOKEN_MARKER);						
 				} 
 			}
+			long now = System.currentTimeMillis();
+			if (now-last > 10000) {
+				System.err.println("TokenBlocker: "+i+" instances indexed...");
+				last = now;
+			}
 		}
 		//System.out.println("data:\n"+data); showIndex(index);
 		// find pairs
+		long minilast=last;
 		Set pairedUpInstances = new TreeSet();
 		for (int i=0; i<data.numInstances(bigSource); i++) {
 			MatchData.Instance bigInst = data.getInstance(bigSource,i);
@@ -93,7 +100,18 @@ public class TokenBlocker extends Blocker
 							pairedUpInstances.add( smallIndexInteger );
 						}
 					}
+				}			
+				long now = System.currentTimeMillis();
+				if (now-minilast > 10000) {
+					System.err.print(".");
+					minilast = now;
 				}
+			}
+
+			long now = System.currentTimeMillis();
+			if (now-last > 10000) {
+				System.err.println("TokenBlocker: "+i+" instances checked for pairs...");
+				last = minilast = now;
 			}
 		}
 	}
